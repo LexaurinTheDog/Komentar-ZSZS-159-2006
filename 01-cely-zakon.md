@@ -700,6 +700,11 @@ Strukturu a formát stanoví Ministerstvo spravedlnosti vyhláškou (aktuálně 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1021/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument) — 13. 9. 2022, kat. A
+  > „Zveřejňování údajů z majetkových oznámení veřejných funkcionářů postupem podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění účinném do 31. 12. 2020, nepředstavuje v době od vydání nálezu Ústavního soudu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, do jeho vykonatelnosti nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., ve znění pozdějších předpisů"
+
 #### Právní povaha CRO (odst. 1)
 
 § 13 odst. 1 zřizuje **Centrální registr oznámení (CRO)** jako **informační systém veřejné správy** podle zákona č. 365/2000 Sb. (ISVS). To znamená:
@@ -892,6 +897,11 @@ Příklady:
 > *- c) zpravodajské služby České republiky.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1021/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument) — 13. 9. 2022, kat. A
+  > „Zveřejňování údajů z majetkových oznámení veřejných funkcionářů postupem podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění účinném do 31. 12. 2020, nepředstavuje v době od vydání nálezu Ústavního soudu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, do jeho vykonatelnosti nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., ve znění pozdějších předpisů"
 
 #### Klíčové ustanovení transparence — kdy nahlížet a co lze vidět
 
