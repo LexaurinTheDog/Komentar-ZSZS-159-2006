@@ -1137,17 +1137,17 @@ Tímto ZSZS dovršil **konsolidaci právní úpravy** střetu zájmů do jediné
 
 > **§ 28**
 >
-> *Zákon č. 150/2002 Sb., soudní řád správní, ve znění [...předchozích novel...], se mění takto:*
+> *Zákon č. 150/2002 Sb., soudní řád správní, ve znění zákona č. 192/2003 Sb., zákona č. 22/2004 Sb., zákona č. 237/2004 Sb., zákona č. 436/2004 Sb., zákona č. 555/2004 Sb., zákona č. 127/2005 Sb., zákona č. 350/2005 Sb., zákona č. 357/2005 Sb. a zákona č. 413/2005 Sb., se mění takto:*
 >
 > *- 1. V § 4 odst. 2 se na konci písmene d) tečka nahrazuje čárkou a doplňuje se písmeno e), které včetně poznámky pod čarou č. 1c zní:*
 >
-> *„e) ve věcech porušení povinnosti veřejných funkcionářů podle zvláštního právního předpisu1c).*
+> *- „e) ve věcech porušení povinnosti veřejných funkcionářů podle zvláštního právního předpisu1c).*
 >
-> *1c) Zákon č. 159/2006 Sb., o střetu zájmů."*
+> *1c) Zákon č. 159/2006 Sb., o střetu zájmů.“.*
 >
 > *- 2. V § 7 se za odstavec 4 vkládá nový odstavec 5, který zní:*
 >
-> *„(5) Ve věcech porušení povinnosti veřejných funkcionářů je k řízení příslušný krajský soud, v jehož obvodu má veřejný funkcionář bydliště, popřípadě v jehož obvodu se zdržuje."*
+> *„(5) Ve věcech porušení povinnosti veřejných funkcionářů je k řízení příslušný krajský soud, v jehož obvodu má veřejný funkcionář bydliště, popřípadě v jehož obvodu se zdržuje.“.*
 >
 > *Dosavadní odstavce 5 a 6 se označují jako odstavce 6 a 7.*
 
@@ -1168,15 +1168,15 @@ Praktický význam: žaloba proti rozhodnutí o přestupku dle ZSZS se podává 
 
 > **§ 29**
 >
-> *Zákon č. 21/1992 Sb., o bankách, ve znění [...předchozích novel...], se mění takto:*
+> *Zákon č. 21/1992 Sb., o bankách, ve znění zákona č. 264/1992 Sb., zákona č. 292/1993 Sb., zákona č. 156/1994 Sb., zákona č. 83/1995 Sb., zákona č. 84/1995 Sb., zákona č. 61/1996 Sb., zákona č. 306/1997 Sb., zákona č. 16/1998 Sb., zákona č. 127/1998 Sb., zákona č. 165/1998 Sb., zákona č. 120/2001 Sb., zákona č. 239/2001 Sb., zákona č. 319/2001 Sb., zákona č. 126/2002 Sb., zákona č. 453/2003 Sb., zákona č. 257/2004 Sb., zákona č. 439/2004 Sb. a zákona č. 413/2005 Sb., se mění takto:*
 >
 > *- 1. V § 38 odst. 3 se na konci písmene j) tečka nahrazuje čárkou a doplňuje se písmeno k), které včetně poznámky pod čarou č. 9c zní:*
 >
-> *„k) orgánu příslušnému rozhodovat o porušení povinnosti veřejných funkcionářů podle zvláštního právního předpisu9c).*
+> *- „k) orgánu příslušnému rozhodovat o porušení povinnosti veřejných funkcionářů podle zvláštního právního předpisu9c).*
 >
-> *9c) Zákon č. 159/2006 Sb., o střetu zájmů."*
+> *9c) Zákon č. 159/2006 Sb., o střetu zájmů.“.*
 >
-> *- 2. V § 38 odst. 5 se slova „odstavce 3 písm. a) a h)" nahrazují slovy „odstavce 3 písm. a), h) a k)".*
+> *- 2. V § 38 odst. 5 se slova „odstavce 3 písm. a) a h)“ nahrazují slovy „odstavce 3 písm. a), h) a k)“.*
 
 **Výklad:**
 
@@ -1227,15 +1227,15 @@ Druhá změna v § 38 odst. 5 ZoB pak zajistila, že informace poskytnuté podle
 
 > **§ 32**
 >
-> *Zákon č. 549/1991 Sb., o soudních poplatcích, ve znění [...předchozích novel...], se mění takto:*
+> *Zákon č. 549/1991 Sb., o soudních poplatcích, ve znění zákona č. 271/1992 Sb., zákona č. 273/1994 Sb., zákona č. 36/1995 Sb., zákona č. 118/1995 Sb., zákona č. 160/1995 Sb., zákona č. 151/1997 Sb., zákona č. 209/1997 Sb., zákona č. 227/1997 Sb., zákona č. 103/2000 Sb., zákona č. 155/2000 Sb., zákona č. 241/2000 Sb., zákona č. 255/2000 Sb., zákona č. 451/2001 Sb., zákona č. 151/2002 Sb., zákona č. 309/2002 Sb., zákona č. 192/2003 Sb., zákona č. 555/2004 Sb., zákona č. 628/2004 Sb. a zákona č. 357/2005 Sb., se mění takto:*
 >
 > *- 1. V 11 odst. 2 se na konci písmene r) tečka nahrazuje čárkou a doplňuje se písmeno s), které zní:*
 >
-> *„s) navrhovatel v řízení ve věcech porušení povinnosti veřejných funkcionářů, jde-li o evidenční orgán."*
+> *- „s) navrhovatel v řízení ve věcech porušení povinnosti veřejných funkcionářů, jde-li o evidenční orgán.“.*
 >
 > *- 2. V příloze Sazebník poplatků se v položce 14a bod 2 za písmeno c) vkládá nové písmeno d), které zní:*
 >
-> *„d) o porušení povinnosti veřejných funkcionářů Kč 5 000,–"*
+> *- „d) o porušení povinnosti veřejných funkcionářů Kč 5 000,–“.*
 >
 > *Dosavadní písmeno d) se označuje jako písmeno e).*
 
