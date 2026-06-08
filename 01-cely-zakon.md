@@ -34,6 +34,41 @@ Strukturní logika je důležitá: ZSZS není pouhým seznamem zákazů. Jeho ce
 
 Cílem zákona je předcházet **systémové korupci** a posilovat důvěru občanů ve veřejné instituce. Důvodová zpráva k zákonu navazovala na mezinárodní antikorupční úmluvy (zejména Úmluva OSN proti korupci z roku 2003), které smluvní státy zavazují přijmout opatření k prevenci konfliktu zájmů úředníků a politiků.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obviněný funkcionář (uvolněný starosta) je v přestupkovém řízení dle ZSZS sankcionován za to, že nepodal majetkové oznámení. Ve správní žalobě namítá, že předmět úpravy zákona (§ 1) je vymezen tak široce a vágně, že z něj konkrétní povinnost nelze dovodit, a že § 1 je pouze programovým ustanovením bez normativního obsahu. Účastníci: starosta (žalobce), ORP (správní orgán I. stupně), krajský soud. Důkazy: znění oznamovacích povinností (§ 7—§ 12), zápis o nástupu do funkce, výpis z registru oznámení.
+
+**2. Právní otázka.** Lze z § 1 ZSZS samostatně dovodit konkrétní právní povinnost funkcionáře, nebo jde toliko o úvodní výčet předmětu úpravy bez vlastní sankční relevance?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 ZSZS — vymezuje čtyři pilíře úpravy (substantivní, transparenční, inkompatibilní, sankční), je úvodním (programovým) ustanovením.
+- *Související ustanovení téhož zákona:* § 3 (rozvádí pilíř a), § 7—§ 12 (rozvádí pilíř b), § 4—§ 6 (rozvádí pilíř c), § 23—§ 25 (rozvádí pilíř d) — konkrétní povinnosti a sankce jsou vždy v těchto ustanoveních, nikoli v § 1.
+- *Související předpisy:* Úmluva OSN proti korupci (č. 105/2013 Sb. m. s.); zákon č. 250/2016 Sb., o odpovědnosti za přestupky.
+- *Judikatura:* obecně přijímaná zásada správního trestání — sankcionovat lze pouze porušení konkrétně formulované povinnosti (nullum crimen sine lege), úvodní ustanovení o předmětu úpravy samo o sobě skutkovou podstatu netvoří (srov. ustálenou rozhodovací praxi NSS k programovým ustanovením).
+
+**4. Subsumpce.** § 1 vymezuje, *co* zákon upravuje, nikoli *jak* a *s jakou sankcí*. Povinnost podat oznámení plyne z § 12 ve spojení s § 9—§ 11; sankce z § 23 odst. 1 písm. f). § 1 slouží k systematickému a teleologickému výkladu těchto ustanovení, sám však není normou ukládající povinnost. Námitka žalobce je proto věcně lichá — sankce nestojí na § 1, nýbrž na § 12 a § 23.
+
+**5. Řešení.** Soud žalobu zamítne: povinnost a sankce mají oporu v konkrétních ustanoveních (§ 12, § 23), § 1 pouze deklaruje účel. Funkcionář povinnost porušil. § 1 však soud využije při výkladu pochybných míst (např. rozsah „obecně zřejmého prospěchu") ve prospěch antikorupčního účelu zákona. Praktický krok: argumentovat § 1 jako interpretačním vodítkem, ne jako samostatným titulem povinnosti.
+
+**6. Varianty.** (a) Pokud by správní orgán postavil výrok rozhodnutí *výhradně* na porušení § 1 (a nikoli § 12), bylo by rozhodnutí nepřezkoumatelné pro chybějící konkrétní právní základ a soud by je zrušil. (b) Při výkladovém sporu o rozsah oznamovací povinnosti by § 1 písm. b) („skutečnosti umožňující veřejnou kontrolu majetku nabytého za dobu výkonu funkce") svědčil pro extenzivní výklad ve prospěch transparence.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 1 je jen nadpisem, lze ho ignorovat." Neutralizace: § 1 má normativně-interpretační funkci — určuje účel zákona, který je dle § 2 odst. 2 správního řádu i obecných výkladových zásad rozhodný při výkladu jednotlivých ustanovení; nelze ho pominout, byť sám sankci nezakládá.
+- *Protiargument 2:* „Z předmětu úpravy lze dovodit i nepsané povinnosti." Neutralizace: ve správním trestání platí zásada zákonnosti — povinnost a sankce musí mít výslovnou oporu; § 1 ji neposkytuje, slouží jen jako rámec.
+- *Slabé místo:* hranice mezi „interpretačním vodítkem" a „samostatným titulem" je v praxi tenká; riziko, že správní orgán § 1 nadužije jako berličku tam, kde konkrétní ustanovení chybí.
+
+#### H. Praktický závěr
+
+§ 1 je „mapou" zákona: identifikuje čtyři pilíře a slouží k systematickému a teleologickému výkladu, nikoli jako samostatný základ povinnosti či sankce. V praxi se na něj odvolávejte při výkladu sporných ustanovení, nikdy však jako na jediný titul postihu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je vytýkaná povinnost ukotvena v konkrétním ustanovení (§ 3—§ 12), nebo se argumentuje pouze § 1?
+- [ ] Stojí výrok rozhodnutí o přestupku na § 23 ve spojení s konkrétní povinností, nikoli jen na § 1?
+- [ ] Lze § 1 využít jako teleologické vodítko při výkladu sporného pojmu?
+
+**Typicky rozhodné důkazy / podklady:** znění napadeného rozhodnutí (právní kvalifikace), znění uplatněné povinnosti, důvodová zpráva k ZSZS, mezinárodní antikorupční závazky ČR.
+
 ### § 2 — Veřejný funkcionář
 
 > **§ 2**
@@ -140,6 +175,42 @@ Odstavec 4 zachovává ochranu personálního zázemí bezpečnostních sborů a
 
 > **Vztah k jiným kategorizacím funkcionářů:** ZSZS používá širší pojem „veřejný funkcionář" než např. trestní zákoník (§ 127 TZ — „úřední osoba"). Pojmy se překrývají, ale nejsou totožné: úřední osoba TZ zahrnuje i osoby, které ZSZS neoznačuje za veřejné funkcionáře (např. notáře, soudní exekutory, znalce); naopak ZSZS reguluje i činitele, kteří úřední osobou TZ nejsou (např. nejvyšší management veřejných kulturních institucí — § 2 odst. 2 písm. j ZSZS).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vedoucí úředník odboru dopravy krajského úřadu (zařazen do krajského úřadu, podílí se na výkonu správních činností) rozhoduje ve správním řízení o odnětí řidičského oprávnění a současně schvaluje veřejnou zakázku na opravu silnice za 1,2 mil. Kč. Nikdy nepodal žádné oznámení do registru s tím, že „není politik". ORP zahájí přestupkové řízení pro nepodání oznámení. Účastníci: vedoucí úředník (obviněný), ORP. Důkazy: pracovní náplň/popis pracovního místa, podpisová oprávnění (příkazce operace), spisy správních řízení, zadávací dokumentace.
+
+**2. Právní otázka.** Stal se vedoucí úředník veřejným funkcionářem ve smyslu § 2 odst. 2 písm. e) ve spojení s odst. 3, a vznikla mu tedy oznamovací povinnost, ačkoli nejde o voleného politika?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 2 písm. e) (vedoucí úředník ÚSC) a § 2 odst. 3 (kvalifikátor — povinnosti jen při rozhodování o penězích nad 250 000 Kč, veřejných zakázkách, ve správním řízení nebo při trestním stíhání).
+- *Související ustanovení téhož zákona:* § 9—§ 12 (oznamovací povinnosti, jejichž subjektem se osoba stává), § 14a (zápis do registru zaměstnavatelem), § 23 odst. 1 písm. f) (sankce za nepodání).
+- *Související předpisy:* zákon č. 312/2002 Sb., o úřednících ÚSC (pojem vedoucí úředník); zákon č. 320/2001 Sb., o finanční kontrole (příkazce operace, hranice 250 000 Kč); zákon č. 134/2016 Sb., o zadávání veřejných zakázek.
+- *Judikatura:* k povaze „rozhodování ve správním řízení" lze podpůrně užít ustálený výklad pojmu rozhodnutí dle § 67 a násl. správního řádu; soudní praxe potvrzuje, že fakticky rozhodující úředník nese odpovědnost bez ohledu na sebeoznačení.
+
+**4. Subsumpce.** Vedoucí úředník naplňuje znak osoby dle odst. 2 písm. e) (vedoucí úředník zařazený do krajského úřadu). Současně je splněn alespoň jeden alternativní kvalifikátor odst. 3: rozhoduje ve správním řízení (písm. c) i podílí se na zadávání veřejné zakázky (písm. b) a je příkazcem operace nad 250 000 Kč (písm. a). Stačí naplnění jediné podmínky — zde jsou tři. Osoba je tedy veřejným funkcionářem se všemi oznamovacími povinnostmi.
+
+**5. Řešení.** Obviněný je veřejným funkcionářem; nepodání oznámení je přestupkem dle § 23 odst. 1 písm. f) (pokuta 1 000—50 000 Kč). Procesně: zaměstnavatel jej měl dle § 14a zapsat do registru a poučit o lhůtě; pokud zápis neproběhl, je to polehčující okolnost (funkcionář nebyl aktivován), nikoli však liberační důvod, neboť povinnost vzniká ze zákona. Praktický krok obhajoby: zkoumat, zda byl proveden zápis dle § 14a a zda běžela lhůta dle § 12 odst. 1.
+
+**6. Varianty.** (a) Kdyby úředník vyřizoval výhradně agendu řešenou „příkazem na místě" (odst. 3 písm. c výslovně vylučuje) a nenakládal s prostředky nad 250 000 Kč ani nerozhodoval o zakázkách, veřejným funkcionářem by nebyl a povinnost by nevznikla. (b) Kdyby šlo o ředitele školy/školského zařízení (výslovná výjimka v písm. b, c), do působnosti zákona by nespadal vůbec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Nejsem volený funkcionář, zákon na mě nedopadá." Neutralizace: odst. 2 výslovně rozšiřuje pojem na funkcionáře výkonu veřejné moci; rozhodující je faktická rozhodovací pravomoc dle odst. 3, nikoli politický mandát.
+- *Protiargument 2:* „Zaměstnavatel mě nezapsal do registru, takže mi povinnost nevznikla." Neutralizace: povinnost vzniká ze zákona naplněním znaků § 2; zápis dle § 14a jen spouští běh lhůty a má informační funkci — jeho absence neruší status funkcionáře (může však ovlivnit zavinění a výši sankce).
+- *Slabé místo:* hranice „bezprostředního podílu na rozhodování" o zakázce (odst. 3 písm. b) může být sporná u úředníka, který zakázku jen administrativně připravuje; je třeba prokázat reálný vliv na rozhodnutí.
+
+#### H. Praktický závěr
+
+Status veřejného funkcionáře u osob dle odst. 2 se posuzuje dvoustupňově: nejprve zařazení do kategorie (písm. a—j), poté splnění alespoň jednoho kvalifikátoru dle odst. 3. U politiků dle odst. 1 vzniká povinnost bezpodmínečně nástupem do funkce.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá osoba do některé kategorie § 2 odst. 1 (bezpodmínečně) nebo odst. 2 (podmíněně)?
+- [ ] U odst. 2: je naplněn alespoň jeden kvalifikátor odst. 3 (peníze > 250 tis., zakázka, správní řízení mimo příkaz na místě, trestní stíhání)?
+- [ ] Neplatí některá výjimka (zpravodajské služby, školy/školská zařízení, utajení dle odst. 4)?
+- [ ] Proběhl zápis dle § 14a a začala běžet lhůta dle § 12?
+
+**Typicky rozhodné důkazy / podklady:** popis pracovního místa a podpisová oprávnění, doklady o příkazci operace, spisy správních řízení, zadávací dokumentace, záznam o zápisu do registru oznámení.
+
 ---
 
 ### HLAVA II — Střet zájmů
@@ -186,6 +257,42 @@ Odstavec 3 vyjmenovává tři typické nežádoucí praxe:
 - **písm. b) Odvolávání se na funkci v osobních záležitostech** — zákaz nesmí být zaměňován s prostou identifikací osoby; jde o **funkční instrumentalizaci** (např. ministr ohne zákon kvůli své firmě tím, že volá řediteli ČNB jako „ministr financí", nikoliv jako soukromá osoba).
 - **písm. c) Komerční využívání jména a vyobrazení** — výslovný zákaz placené reklamy, ve které funkcionář vystupuje v souvislosti se svou funkcí. Zákon tím chrání důstojnost veřejných úřadů; nevztahuje se na nekomerční zveřejňování (informace, novinářské fotografie, knihy).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen rady města hlasuje v zastupitelstvu pro prodej městského pozemku za cenu výrazně pod tržní hodnotou kupujícímu, jímž je společnost s ručením omezeným, v níž má 60% podíl manželka radního. Radní svůj poměr k věci před hlasováním neoznámil a hlasoval pro. Opoziční zastupitel podá podnět ORP. Účastníci: radní (obviněný), jeho manželka (osoba blízká + ovládající osoba PO), město, ORP. Důkazy: zápis z jednání zastupitelstva s výsledky hlasování, výpis z obchodního rejstříku (podíl manželky), znalecký posudek o ceně pozemku, kupní smlouva.
+
+**2. Právní otázka.** Šlo o jednání, při němž osobní zájem radního mohl ovlivnit výkon funkce (§ 3 odst. 1), a porušil radní zákaz upřednostnění osobního zájmu (§ 3 odst. 2), případně zákaz zneužití postavení (§ 3 odst. 3 písm. a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 1 (generální klauzule + definice osobního zájmu vč. prospěchu PO ovládané osobou blízkou), odst. 2 (zákaz upřednostnění), odst. 3 písm. a) (zneužití postavení k prospěchu jiné osoby).
+- *Související ustanovení téhož zákona:* § 8 (povinnost oznámit poměr k věci před hlasováním — sankcionováno samostatně dle § 23 odst. 1 písm. d), § 1 písm. a) (účel).
+- *Související předpisy:* § 22 OZ (osoba blízká); § 74, § 75 ZOK (ovládající osoba); § 159 OZ a § 38 zákona č. 128/2000 Sb., o obcích (péče řádného hospodáře, hospodárné nakládání s majetkem obce); § 329 TZ (zneužití pravomoci úřední osoby) při intenzivnějším porušení.
+- *Judikatura:* k péči řádného hospodáře a neplatnosti nevýhodných převodů majetku obce existuje ustálená civilní judikatura NS; ve vztahu k důstojnosti a střetu zájmů ÚS opakovaně zdůraznil legitimitu antikorupční regulace (srov. Pl. ÚS 13/17).
+
+**4. Subsumpce.** Prospěch plyne PO ovládané osobou blízkou (manželkou) — to definice osobního zájmu v § 3 odst. 1 výslovně pokrývá. Výjimka „obecně zřejmého prospěchu" se neuplatní: jde o adresný prospěch konkrétního subjektu, nikoli neomezeného okruhu. Radní se neměl jednání účastnit ve prospěch osobního zájmu, resp. měl jej minimálně oznámit dle § 8. Samotné porušení § 3 odst. 2 je primárně interpretačním pravidlem; sankčně relevantní je neoznámení dle § 8 (→ § 23 odst. 1 písm. d) a případně trestní rovina dle § 329 TZ.
+
+**5. Řešení.** Pro účely ZSZS: prokázané nesplnění oznamovací povinnosti dle § 8 vede k přestupku (§ 23 odst. 1 písm. d), pokuta 1 000—50 000 Kč). § 3 odst. 2 sám o sobě sankci nezakládá (je vodítkem), ale je nosný pro civilní neplatnost převodu (rozpor s péčí řádného hospodáře) a pro případnou trestní kvalifikaci. Praktický postup: paralelně řešit (i) přestupek dle § 8/§ 23, (ii) neplatnost smlouvy a náhradu škody obci, (iii) podnět OČTŘ při podezření na § 329 TZ.
+
+**6. Varianty.** (a) Kdyby radní svůj zájem před hlasováním řádně oznámil dle § 8 a zdržel se hlasování, přestupek dle § 8 by odpadl a transparentní postup by oslabil i tvrzení o úmyslném zvýhodnění. (b) Kdyby šlo o hlasování o obecně závazné vyhlášce dopadající na neomezený okruh adresátů (např. výše místního poplatku), uplatnila by se výjimka „obecně zřejmého prospěchu" a o střet zájmů by nešlo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Prospěch měla firma, ne já osobně — § 3 na mě nedopadá." Neutralizace: definice osobního zájmu výslovně zahrnuje prospěch PO ovládané osobou blízkou; majetkové oddělení manželů status nemění.
+- *Protiargument 2:* „§ 3 je jen proklamace, sankce z něj neplyne." Neutralizace: pravda jen zčásti — sankčně se postih opírá o § 8/§ 23; § 3 však zakládá civilní a trestní následky a je výkladovým rámcem.
+- *Slabé místo:* prokázání „mohl ovlivnit výkon funkce" je hypotetické; je vhodné doložit reálný dopad (podhodnocená cena, kauzalita hlasu radního na výsledku). Bez znaleckého posouzení ceny je tvrzení o zvýhodnění slabé.
+
+#### H. Praktický závěr
+
+§ 3 je substantivním jádrem zákona, ale jeho přímá sankční síla je omezená — vynucuje se prostřednictvím oznamovací povinnosti dle § 8 a navazujících přestupků, civilní neplatnosti a trestního práva. Funkcionář se v reálném střetu zájmů má zájem oznámit a hlasování se zdržet.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Plyne z jednání prospěch funkcionáři, osobě blízké nebo jimi ovládané PO?
+- [ ] Neuplatní se výjimka „obecně zřejmého prospěchu" (neomezený okruh adresátů)?
+- [ ] Byl poměr k věci oznámen dle § 8 před hlasováním (jinak přestupek dle § 23 odst. 1 písm. d)?
+- [ ] Není dán přesah do § 329 TZ nebo do neplatnosti právního jednání (péče řádného hospodáře)?
+
+**Typicky rozhodné důkazy / podklady:** zápis z jednání orgánu s hlasováním, výpis z OR a ARES (ovládání PO osobou blízkou), znalecký posudek o ceně, příslušné smlouvy a podklady k rozhodnutí.
+
 ---
 
 ### HLAVA III — Omezení činností a neslučitelnost
@@ -230,6 +337,42 @@ Druhá výjimka — **správa vlastního majetku** — uznává, že každý fun
 
 Funkcionář má **30 dnů** od nástupu k ukončení nekompatibilních činností. Lhůta není absolutní — důvody „nezávislé na vůli funkcionáře" (např. zákonná výpovědní doba, smluvní ukončení s odstupným, zdlouhavý zápis do obchodního rejstříku) její běh prodlužují, podmínkou je oznámení evidenčnímu orgánu a aktivní jednání směrem k ukončení. Zákon explicitně nestanoví maximální mezní lhůtu — judikatura však dovodila, že nemůže jít o lhůtu „nekonečnou" a její běh by neměl překročit dvojnásobek (60 dnů) bez závažných důvodů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Jmenovaný náměstek ministra (osoba dle § 2 odst. 1 písm. d) provozuje vedle funkce živnost — jako OSVČ poskytuje IT poradenství — a současně je členem dozorčí rady soukromé akciové společnosti, která podniká. Po nástupu do funkce nic neukončil ani neinformoval evidenční orgán. Po 90 dnech podá konkurent podnět ORP. Účastníci: náměstek (obviněný), ministerstvo (zapisující orgán), ORP. Důkazy: živnostenský rejstřík, výpis z OR (členství v dozorčí radě), datum jmenování, absence oznámení o překážce dle § 4 odst. 3.
+
+**2. Právní otázka.** Porušil náměstek zákaz souběhu funkce s podnikáním a členstvím v orgánu podnikající PO (§ 4 odst. 1), a uplatní se výjimka pro tvůrčí činnost nebo správu majetku (§ 4 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1 písm. a) (zákaz podnikání) a písm. b) (zákaz členství v orgánu podnikající PO), odst. 2 (výjimky: správa vlastního majetku, vědecká/pedagogická/publicistická/literární/umělecká/sportovní činnost), odst. 3 (lhůta 30 dnů, oznámení překážky).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. d) (náměstek jako adresát), § 9 (oznamovací povinnost o činnostech), § 23 odst. 1 písm. a) (sankce za výkon neslučitelné činnosti — 5 000—250 000 Kč).
+- *Související předpisy:* zákon č. 455/1991 Sb., živnostenský zákon; § 448 a násl. ZOK (dozorčí rada a.s.); zákon č. 234/2014 Sb., o státní službě (postavení náměstka).
+- *Judikatura:* k povaze lhůty dle odst. 3 viz výklad v komentáři — běh nad 60 dnů bez závažných důvodů je neudržitelný; obecně k výkladu neslučitelnosti se uplatní zásada restriktivního výkladu výjimek.
+
+**4. Subsumpce.** IT poradenství jako OSVČ je „jiná samostatná výdělečná činnost" dle písm. a) — nejde o tvůrčí výjimku dle odst. 2 (není to vědecká ani publicistická činnost, nýbrž podnikání). Členství v dozorčí radě podnikající a.s. naplňuje písm. b) bez ohledu na nevýkonnou roli. Lhůta 30 dnů marně uplynula, překážku náměstek neoznámil. Oba znaky přestupku dle § 23 odst. 1 písm. a) jsou naplněny.
+
+**5. Řešení.** Náměstek se dopustil přestupku dle § 23 odst. 1 písm. a) (pokuta 5 000—250 000 Kč); napomenutí nelze uložit a od trestu nelze upustit (§ 23 odst. 4). Správný postup byl: do 30 dnů ukončit živnost a rezignovat na členství v dozorčí radě, případně (při překážce nezávislé na vůli) ve lhůtě informovat evidenční orgán a činit kroky k ukončení. Praktický krok obhajoby: prokázat objektivní překážku ukončení a její včasné oznámení (to mění běh lhůty), jinak je odpovědnost dána.
+
+**6. Varianty.** (a) Kdyby náměstek místo IT poradenství pouze psal odborné články a přednášel na univerzitě, šlo by o dovolenou publicistickou a pedagogickou činnost dle odst. 2 a zákaz by se neuplatnil. (b) Kdyby šlo o poslance (§ 2 odst. 1 písm. a), § 4 odst. 1 by vůbec nedopadal — poslanci jsou z přísné neslučitelnosti vyňati a řeší se jen § 5 odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Dozorčí rada je nevýkonná, neřídím firmu — zákaz na to necílí." Neutralizace: písm. b) zakazuje členství v řídícím, dozorčím i kontrolním orgánu bez rozdílu výkonnosti role; výjimku má jen statutární zastoupení státu řešené přes § 5.
+- *Protiargument 2:* „IT poradenství je tvůrčí, intelektuální činnost — spadá pod výjimku." Neutralizace: výjimka kryje *vykonávání* tvůrčí činnosti, nikoli *podnikání*; poradenství poskytované jako OSVČ za úplatu je podnikání, nikoli vědecká/umělecká činnost.
+- *Slabé místo:* dělící čára mezi „správou vlastního majetku" a „podnikáním" (např. intenzivní pronájem nemovitostí) je neostrá; u hraničních činností je třeba zkoumat soustavnost, samostatnost a ziskový účel.
+
+#### H. Praktický závěr
+
+Funkcionáři dle § 2 odst. 1 písm. c)—m) musí do 30 dnů od nástupu ukončit podnikání, členství v orgánech podnikajících PO i souběžná zaměstnání. Dovolena je jen tvůrčí činnost (autorská, nikoli podnikatelská) a správa vlastního majetku. Překážku ukončení je nutné včas oznámit evidenčnímu orgánu, jinak hrozí nejvyšší pásmo pokut za neslučitelnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá funkcionář do okruhu § 2 odst. 1 písm. c)—m) (jen na ně § 4 odst. 1 dopadá)?
+- [ ] Jde o podnikání/SVČ, členství v orgánu podnikající PO nebo souběžné zaměstnání — nebo o dovolenou tvůrčí činnost / správu majetku?
+- [ ] Byla dodržena lhůta 30 dnů, příp. včas oznámena objektivní překážka ukončení?
+- [ ] Není dán zvláštní předpis dovolující členství (statutární zastoupení státu — § 5)?
+
+**Typicky rozhodné důkazy / podklady:** živnostenský rejstřík, výpis z OR, datum nástupu/jmenování, oznámení o činnostech dle § 9, případné oznámení překážky evidenčnímu orgánu.
+
 ### § 4a — Zákaz vlastnictví médií (Lex Babiš I)
 
 > **§ 4a**
@@ -268,6 +411,42 @@ Odstavec 3 je pozoruhodný **dvojím mechanismem**:
 
 Tato konstrukce byla v Ústavním soudu napadána pro tvrzený zásah do vlastnického práva (čl. 11 LZPS); ÚS v nálezu Pl. ÚS 13/17 návrh zamítl s tím, že zásah je proporcionální vzhledem k legitimnímu cíli ochrany veřejného mínění před politicko-mediálním nátlakem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministr financí je jediným společníkem holdingové společnosti, která prostřednictvím dceřiných firem provozuje celostátní deník a rozhlasovou stanici. Po nástupu do funkce podíl neprodal; namísto toho jej vložil do svěřenského fondu, jehož je zakladatelem a obmyšleným. Po 90 dnech ministr stále fakticky kontroluje mediální dům. Účastníci: ministr (funkcionář § 2 odst. 1), svěřenský fond, mediální holding, evidenční orgán, ORP. Důkazy: smlouva o svěřenském fondu, evidence skutečných majitelů, struktura holdingu, datum jmenování.
+
+**2. Právní otázka.** Splnil ministr povinnost ukončit účast/ovládání mediální PO dle § 4a odst. 1 a 2, jestliže majetek vložil do svěřenského fondu, který sám založil a z něhož je obmyšleným?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4a odst. 1 (zákaz být provozovatelem/vydavatelem nebo společníkem, členem či ovládající osobou takové PO), odst. 2 (lhůta 60 dnů na ukončení), odst. 3 (zákaz výkonu hlasovacích práv při nesplnění).
+- *Související ustanovení téhož zákona:* § 9 písm. e) (oznámení o vlastnictví/ovládání médií), § 23 odst. 1 písm. b) (přestupek — 5 000—250 000 Kč), § 2 odst. 1 (osobní působnost — všichni funkcionáři odst. 1).
+- *Související předpisy:* § 74 ZOK (ovládající osoba); § 1448 a násl. OZ (svěřenský fond); zákon č. 37/2021 Sb., o evidenci skutečných majitelů; čl. 11 LZPS (vlastnické právo).
+- *Judikatura:* nález ÚS Pl. ÚS 13/17 (proporcionalita zákazu, legitimní cíl ochrany plurality médií); zjištění OLAF k Agrofertu — svěřenská struktura neukončuje vztah konečného beneficienta.
+
+**4. Subsumpce.** Ministr je „ovládající osobou" mediálních PO. Vklad do svěřenského fondu, který sám založil a z něhož je obmyšleným, fakticky ovládání nezpřetrhal — konečný beneficient zůstává identifikovatelný a vliv reálně dovoditelný. Zákonodárce dle komentáře blind trust jako obcházení neuznal. Lhůta 60 dnů marně uplynula bez skutečného ukončení účasti. Znak přestupku dle § 23 odst. 1 písm. b) je naplněn; navíc dle odst. 3 ministr nesmí vykonávat hlasovací práva v dotčených korporacích.
+
+**5. Řešení.** Ministr se dopustil přestupku dle § 23 odst. 1 písm. b) (pokuta 5 000—250 000 Kč, bez možnosti napomenutí a upuštění dle § 23 odst. 4). „Tichá" korporátní sankce dle odst. 3 nastupuje automaticky — hlasování ministra (resp. fondu jím ovládaného) v mediální korporaci je neúčinné, u jediného společníka je rozsah rozhodování zúžen na zákonná a likvidační rozhodnutí. Reálné splnění povinnosti vyžaduje skutečné zcizení podílu nezávislému subjektu, nikoli formální převod do vlastní trustové struktury.
+
+**6. Varianty.** (a) Kdyby ministr podíl skutečně prodal nepropojenému kupujícímu (či vložil do trustu se zcela nezávislým správcem a bez postavení obmyšleného), povinnost by splnil a zákaz by se vyčerpal. (b) Kdyby mediální dům pouze provozoval zpravodajský web nespadající pod pojem „periodický tisk / rozhlasové či televizní vysílání", bylo by nutné zkoumat, zda vůbec jde o regulovanou činnost dle § 4a.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Po vložení do svěřenského fondu už nejsem vlastníkem ani ovládající osobou." Neutralizace: § 4a cílí na faktické ovládání; je-li funkcionář zakladatelem i obmyšleným, vliv přetrvává a konečný beneficient je identifikovatelný (čl. evidence skutečných majitelů, zjištění OLAF).
+- *Protiargument 2:* „Zákaz nepřiměřeně zasahuje do vlastnického práva (čl. 11 LZPS)." Neutralizace: ÚS v Pl. ÚS 13/17 shledal zásah proporcionálním vzhledem k legitimnímu cíli ochrany plurality médií a veřejného mínění.
+- *Slabé místo:* prokazování faktického ovládání přes trust je důkazně náročné; klíčové je doložit, kdo jmenuje a odvolává svěřenského správce a komu plynou výnosy. Bez transparentní evidence skutečných majitelů je argumentace slabší.
+
+#### H. Praktický závěr
+
+Funkcionáři dle § 2 odst. 1 nesmějí vlastnit ani ovládat média; mají 60 dnů na skutečné ukončení účasti. Formální převod do vlastní svěřenské struktury povinnost nesplní. Při nesplnění nastupuje přestupek i automatický zákaz výkonu hlasovacích práv (korporátní sankce).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je funkcionář provozovatelem/vydavatelem nebo společníkem, členem či ovládající osobou mediální PO?
+- [ ] Došlo ke skutečnému ukončení účasti do 60 dnů (nikoli jen k formálnímu převodu do ovládané struktury)?
+- [ ] Není funkcionář konečným beneficientem trustu/holdingu (evidence skutečných majitelů)?
+- [ ] Nevykonává funkcionář v rozporu s odst. 3 hlasovací práva v dotčené korporaci?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o svěřenském fondu, evidence skutečných majitelů, struktura holdingu a licence k vysílání/vydávání, oznámení dle § 9 písm. e), datum nástupu do funkce.
+
 ### § 4b — Zákaz účasti v zadávacím řízení (Lex Babiš II)
 
 > **§ 4b**
@@ -293,6 +472,42 @@ Ustanovení obsahuje **tři vrstvy sankcí**:
 3. **Absolutní neplatnost smluv** na veřejnou zakázku malého rozsahu (VZMR) — i mimo formální zadávací řízení.
 
 V praxi se § 4b vztahuje typicky na společnosti holdingu Agrofert, jehož významným beneficiárem v době přijetí novely byl A. Babiš (poté převedeno do svěřenského fondu — ÚS i ve světle judikatury OLAF uznal, že svěřenecká struktura neukončuje vztah konečného beneficiárního vlastníka).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Veřejný zadavatel (krajský úřad) vyhlásí nadlimitní zakázku na potraviny pro nemocnice. Nabídku podá akciová společnost, v níž osoba ovládaná členem vlády (premiér jako konečný beneficient) drží 30% podíl. Zadavatel nabídku vyhodnotí jako nejvýhodnější a hodlá uzavřít smlouvu; současně jiný malý dodavatel ze stejné skupiny obdrží zakázku malého rozsahu na úklid. Účastníci: zadavatel, dotčená společnost (účastník řízení), člen vlády (ovládající), ÚOHS, neúspěšní uchazeči. Důkazy: vlastnická struktura a evidence skutečných majitelů, nabídka, rozhodnutí o výběru, smlouva na VZMR.
+
+**2. Právní otázka.** Musí zadavatel společnost s 30% podílem ovládané osoby člena vlády vyloučit ze zadávacího řízení dle § 4b, a je smlouva na VZMR uzavřená s firmou ze stejné skupiny neplatná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4b (zákaz účasti firmy s ≥ 25% podílem člena vlády/jím ovládané osoby v zadávacím řízení; povinnost zadavatele vyloučit; neplatnost VZMR).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. c) (jen členové vlády), § 4c (komplementární zákaz dotací a pobídek), § 4a (ovládání).
+- *Související předpisy:* zákon č. 134/2016 Sb., o zadávání veřejných zakázek (ZZVZ) — důvody vyloučení, dohled ÚOHS; § 78 ZOK (25 % jako vyvratitelná domněnka ovládání); § 580 OZ (neplatnost pro rozpor se zákonem); čl. 61 nařízení EU 2018/1046 (finanční nařízení).
+- *Judikatura:* zjištění OLAF k Agrofertu (svěřenský fond neukončuje vztah konečného beneficienta); rozhodovací praxe ÚOHS k vylučování dodavatelů.
+
+**4. Subsumpce.** Podíl 30 % převyšuje práh 25 % (kvalifikovaná menšina, domněnka ovládání dle § 78 ZOK). Společnost se proto nesmí účastnit zadávacího řízení ani jako poddodavatel prokazující kvalifikaci; zadavatel má pozitivní povinnost ji vyloučit. Zakázku malého rozsahu nesmí takové firmě zadat — taková smlouva je dle § 4b věty třetí neplatná (absolutní neplatnost pro rozpor se zákonem). Naplnění znaků je dáno bez ohledu na to, že nejde o většinové ovládání.
+
+**5. Řešení.** Zadavatel je povinen společnost vyloučit; pokud tak neučiní a smlouvu uzavře, vystavuje se sankci dle ZZVZ (dohled ÚOHS, neplatnost). Smlouva na VZMR je neplatná ex lege. Praktický postup zadavatele: před uzavřením prověřit vlastnickou strukturu a evidenci skutečných majitelů, identifikovat podíl člena vlády/ovládané osoby a při dosažení prahu firmu vyloučit. Neúspěšní uchazeči mohou podat námitky a návrh k ÚOHS.
+
+**6. Varianty.** (a) Kdyby podíl ovládané osoby činil jen 20 % (pod prahem 25 %), zákaz dle § 4b by se neuplatnil a firma by se mohla řízení účastnit. (b) Kdyby šlo o náměstka člena vlády (písm. d), nikoli o člena vlády (písm. c), § 4b by nedopadal — osobní působnost je úzce vymezena jen na členy vlády.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Jde jen o menšinový podíl, firmu nemůže člen vlády ovládat." Neutralizace: § 4b váže zákaz na pevný práh 25 % bez ohledu na faktické většinové ovládání; 25 % zakládá domněnku ovládání dle § 78 ZOK.
+- *Protiargument 2:* „Vyloučení firmy poškozuje hospodářskou soutěž a vlastníka." Neutralizace: ÚS aproboval antikorupční regulaci jako proporcionální; cílem je ochrana integrity veřejných prostředků, nikoli postih podnikání jako takového.
+- *Slabé místo:* identifikace „ovládané osoby" a konečného beneficienta přes vícestupňové struktury a trusty je náročná; bez spolehlivé evidence skutečných majitelů hrozí, že zadavatel pochybí buď opomenutím vyloučení, nebo naopak nezákonným vyloučením.
+
+#### H. Praktický závěr
+
+Firma s podílem ≥ 25 % člena vlády (nebo jím ovládané osoby) je vyloučena ze všech zadávacích řízení i z VZMR; smlouva na VZMR s ní je neplatná. Zadavatel má aktivní prověřovací a vylučovací povinnost. Působnost je úzká — jen členové vlády dle § 2 odst. 1 písm. c).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Drží člen vlády nebo jím ovládaná osoba podíl ≥ 25 % v dodavateli (i jako poddodavateli prokazujícím kvalifikaci)?
+- [ ] Vyloučil zadavatel takovou firmu ze zadávacího řízení (pozitivní povinnost)?
+- [ ] Nebyla firmě zadána VZMR (jinak je smlouva neplatná)?
+- [ ] Je ověřena vlastnická struktura a konečný beneficient (evidence skutečných majitelů)?
+
+**Typicky rozhodné důkazy / podklady:** vlastnická struktura a evidence skutečných majitelů, nabídka a rozhodnutí o výběru, smlouva (vč. VZMR), doklady o ovládání dle ZOK.
 
 ### § 4c — Zákaz dotací a investičních pobídek (Lex Babiš III)
 
@@ -320,6 +535,42 @@ Ustanovení neuvádí výslovně právní následek porušení — je formulová
 - Funkcionář, na jehož stranu pobídka „proudí", se může dopustit přestupku — nikoliv však dle ZSZS přímo, nýbrž jako účastník zneužití pravomoci dle TZ.
 
 EU dimenze: zjištění OLAF z let 2018–2021 ohledně dotací Agrofertu vedla k tomu, že i samotná Evropská komise pozastavila proplácení relevantních dotací s odkazem nejen na ZSZS, ale i na čl. 61 Finančního nařízení EU (Nařízení 2018/1046).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo průmyslu poskytne ze státního rozpočtu investiční dotaci 50 mil. Kč zemědělsko-potravinářské společnosti na výstavbu závodu. V této společnosti drží 40% podíl osoba ovládaná členem vlády (premiérem). Dotace je vyplacena. Současně Czechinvest přizná téže skupině investiční pobídku ve formě slevy na dani. Účastníci: poskytovatel dotace (ministerstvo), příjemce (společnost), člen vlády (ovládající), Evropská komise/OLAF v případě spolufinancování z EU. Důkazy: rozhodnutí o dotaci, smlouva o investiční pobídce, vlastnická struktura, evidence skutečných majitelů.
+
+**2. Právní otázka.** Byla dotace a investiční pobídka poskytnuty v rozporu se zákonným zákazem dle § 4c, a jaké jsou právní následky, když ustanovení výslovně sankci neuvádí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4c (zákaz poskytnout dotaci dle rozpočtových pravidel nebo investiční pobídku firmě s podílem ≥ 25 % člena vlády/jím ovládané osoby).
+- *Související ustanovení téhož zákona:* § 4b (komplementární zákaz u veřejných zakázek), § 2 odst. 1 písm. c) (jen členové vlády), § 4a (ovládání).
+- *Související předpisy:* zákon č. 218/2000 Sb. (rozpočtová pravidla — státní rozpočet) a č. 250/2000 Sb. (rozpočet ÚSC); zákon č. 72/2000 Sb., o investičních pobídkách; § 580 odst. 1 OZ (neplatnost pro rozpor se zákonem); čl. 61 nařízení EU 2018/1046.
+- *Judikatura:* zjištění OLAF k dotacím Agrofertu (2018—2021) a pozastavení plateb Evropskou komisí; obecné zásady neplatnosti právních jednání odporujících zákonu.
+
+**4. Subsumpce.** Podíl 40 % převyšuje práh 25 %. Poskytnutí dotace i investiční pobídky je proto výslovně zakázáno („je zakázáno poskytnout"). Ustanovení neuvádí přímý sankční následek; ten je nutno dovodit: rozhodnutí o dotaci je nezákonné (lze napadnout opravnými prostředky, není však nicotné), smlouva o investiční pobídce je absolutně neplatná dle § 580 OZ. Při spolufinancování z EU se přidává rozměr čl. 61 finančního nařízení (zákaz střetu zájmů při čerpání).
+
+**5. Řešení.** Dotaci nelze platně poskytnout; je-li vyplacena, jde o prostředky poskytnuté v rozporu se zákonem s rizikem vrácení (porušení rozpočtové kázně dle z. 218/2000 Sb.) a u EU prostředků nezpůsobilý výdaj. Smlouva o pobídce je neplatná. Funkcionář se přímo dle ZSZS přestupku nedopouští (§ 4c nemá vlastní skutkovou podstatu), může však jít o trestněprávní rovinu (účastenství na zneužití pravomoci dle § 329 TZ). Praktický postup poskytovatele: před poskytnutím ověřit vlastnickou strukturu příjemce a při dosažení prahu dotaci/pobídku neposkytnout.
+
+**6. Varianty.** (a) Kdyby podíl ovládané osoby klesl pod 25 %, zákaz dle § 4c by se neuplatnil a dotaci by bylo možné poskytnout. (b) Kdyby šlo o dotaci z prostředků EU ve sdíleném řízení, dopadl by navíc čl. 61 finančního nařízení a postup Komise/OLAF nezávisle na vnitrostátní kvalifikaci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 4c neuvádí sankci, takže porušení nemá následek." Neutralizace: absence výslovné sankce neznamená beztrestnost — nastupuje neplatnost smlouvy (§ 580 OZ), nezákonnost rozhodnutí o dotaci, porušení rozpočtové kázně a unijní následky dle čl. 61 fin. nařízení.
+- *Protiargument 2:* „Příjemcem je samostatná firma, člen vlády o dotaci nerozhodoval." Neutralizace: zákaz je konstruován objektivně — váže se na vlastnickou strukturu příjemce, nikoli na to, zda funkcionář o konkrétní dotaci sám rozhodoval.
+- *Slabé místo:* vymáhání vrácení již vyplacené dotace naráží na ochranu dobré víry příjemce a procesní obtíže; klíčové je doložit ovládání a okamžik, kdy práh 25 % nastal.
+
+#### H. Praktický závěr
+
+Firmě s podílem ≥ 25 % člena vlády nelze poskytnout dotaci ani investiční pobídku. § 4c je absolutním zákazem bez vlastní sankce — následky (neplatnost, nezákonnost, vrácení, unijní postih) se dovozují z obecných předpisů. Poskytovatel musí příjemce předem prověřit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Drží člen vlády nebo jím ovládaná osoba ≥ 25 % v příjemci dotace/pobídky?
+- [ ] Byla provedena kontrola vlastnické struktury před poskytnutím prostředků?
+- [ ] Při porušení: je řešena neplatnost smlouvy (§ 580 OZ) a vrácení dotace (rozpočtová kázeň)?
+- [ ] Jde o prostředky EU (čl. 61 fin. nařízení — samostatný režim střetu zájmů)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o dotaci a smlouva o pobídce, vlastnická struktura a evidence skutečných majitelů, doklady o ovládání, případná zjištění OLAF / stanovisko Komise.
 
 ### § 5 — Odměny v orgánech státních firem; neslučitelnost mandátu poslance/senátora
 
@@ -361,6 +612,42 @@ Odstavec 3 zavádí **inkompatibilitu mandátu poslance/senátora** s konkrétn�
 
 **Důsledek inkompatibility:** Podle § 6 odst. 4 zákona č. 90/1995 Sb., o jednacím řádu Poslanecké sněmovny, je třeba si dříve vykonávanou funkci rozvázat a nastoupit mandát; jinak může mandátový a imunitní výbor navrhnout zánik mandátu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Dlouhodobě uvolněný člen rady kraje je krajem určen do dozorčí rady krajské vodárenské akciové společnosti (kraj v ní drží většinový podíl). Za výkon této funkce mu společnost vyplácí měsíční odměnu 20 000 Kč a tantiému. Radní odměnu pobírá s odůvodněním, že jde o standardní odměnu člena orgánu a.s. Kontrolní výbor zastupitelstva podá podnět ORP. Účastníci: radní (obviněný), vodárenská a.s., kraj, ORP. Důkazy: usnesení o určení do dozorčí rady, výplatní doklady, stanovy a.s., výpis z OR.
+
+**2. Právní otázka.** Náleží uvolněnému členu rady kraje odměna za výkon funkce v dozorčí radě obchodní společnosti ovládané krajem, nebo je její pobírání zakázáno dle § 5 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 2 (zákaz odměny, podílu na zisku či jiného plnění funkcionáři dle § 2 odst. 1 písm. o) a p) za zastupování kraje/obce v orgánech jimi ovládané PO; výjimka: pojistné D&O a plnění do 10 000 Kč/rok dle běžných zvyklostí).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. o) (uvolnění krajští zastupitelé), § 5 odst. 1 (obdoba pro poslance/senátory), § 23 odst. 1 písm. c) (přestupek — pobírání odměny v rozporu s § 5 odst. 1 nebo 2, sazba 5 000—250 000 Kč).
+- *Související předpisy:* zákon č. 129/2000 Sb., o krajích (uvolnění zastupitelé, určování zástupců do orgánů PO); § 448 a násl. ZOK (dozorčí rada, odměňování členů orgánů).
+- *Judikatura:* k povaze plnění „v souladu s běžnými zvyklostmi do 10 000 Kč ročně" se uplatní výklad jako úzce vymezené výjimky (drobné plnění, nikoli pravidelná odměna).
+
+**4. Subsumpce.** Radní je funkcionářem dle § 2 odst. 1 písm. o); byl krajem určen do orgánu PO ovládané krajem. Měsíční odměna 20 000 Kč a tantiéma jsou „odměnou, podílem na zisku nebo jiným plněním" dle § 5 odst. 2 — nikoli plněním do 10 000 Kč/rok ani úhradou pojistného. Pobírání je proto zakázáno; přestupek dle § 23 odst. 1 písm. c) je naplněn.
+
+**5. Řešení.** Radní se dopustil přestupku dle § 23 odst. 1 písm. c) (pokuta 5 000—250 000 Kč). Správně měl funkci v dozorčí radě vykonávat bez odměny (jako součást veřejného poslání); přípustná by byla pouze úhrada D&O pojistného a drobná plnění do 10 000 Kč ročně. Praktický postup: kraj a společnost mají nastavit nulové odměňování takto určených zástupců; již vyplacené částky představují bezdůvodné obohacení k vrácení.
+
+**6. Varianty.** (a) Kdyby šlo o *neuvolněného* zastupitele dle § 2 odst. 1 písm. q) (např. starostu obce s pověřeným úřadem), § 5 odst. 2 by na něj nedopadal — komentář tuto mezeru označuje za vnitřní nekonzistenci úpravy. (b) Kdyby plnění činilo pouze proplacení cestovních nákladů a drobného občerstvení do 10 000 Kč ročně, šlo by o zákonnou výjimku a o přestupek by nešlo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Jde o standardní odměnu člena orgánu a.s. podle ZOK, na kterou mám nárok." Neutralizace: ZSZS je speciální vůči ZOK ve vztahu k funkcionářům zastupujícím veřejnoprávní subjekt; odměna nenáleží, neboť funkce je výkonem veřejného poslání.
+- *Protiargument 2:* „Pobírání odměny schválila valná hromada/dozorčí rada, jednal jsem v dobré víře." Neutralizace: schválení odměny orgánem společnosti nezhojuje zákonný zákaz dle § 5 odst. 2; odpovědnost funkcionáře je objektivní ve vztahu k znaku pobírání.
+- *Slabé místo:* hranice „běžných zvyklostí do 10 000 Kč ročně" je neurčitá; u kombinace drobných plnění je třeba sčítat za kalendářní rok a posoudit, zda nejde o zastřenou odměnu.
+
+#### H. Praktický závěr
+
+Uvolnění zastupitelé (a poslanci/senátoři dle odst. 1) nesmějí pobírat odměnu za zastupování veřejnoprávního subjektu v orgánech jím ovládaných PO; přípustné je jen D&O pojistné a drobná plnění do 10 000 Kč ročně. Neuvolnění starostové dle písm. q) stojí mimo dosah odst. 2.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je funkcionář uvolněným zastupitelem dle § 2 odst. 1 písm. o)/p) (nebo poslancem/senátorem dle odst. 1)?
+- [ ] Byl určen veřejnoprávním subjektem do orgánu jím ovládané PO?
+- [ ] Pobírá odměnu, podíl na zisku nebo jiné plnění nad rámec D&O pojistného a 10 000 Kč/rok?
+- [ ] Lze již vyplacené plnění kvalifikovat jako bezdůvodné obohacení k vrácení?
+
+**Typicky rozhodné důkazy / podklady:** usnesení o určení do orgánu PO, výplatní/účetní doklady o odměnách, stanovy a smlouva o výkonu funkce, výpis z OR k podílu veřejnoprávního subjektu.
+
 ### § 6 — Zákaz výkonu činnosti po dobu 1 roku od skončení funkce („cooling-off")
 
 > **§ 6**
@@ -394,6 +681,42 @@ Zákaz se vztahuje **obdobně** i na osoby ovládané podnikatelským subjektem 
 
 Porušení § 6 je sankcionováno jako přestupek dle § 23 odst. 2 písm. a — sazba **25 000 — 500 000 Kč**. Je to **nejvyšší pokuta**, jakou ZSZS zná, což odráží závažnost porušení (cooling-off period je jádrem antikorupční prevence).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Bývalý náměstek ministra dopravy (skončil ve funkci k 31. 3.) nastoupí 1. 6. téhož roku jako člen představenstva stavební akciové společnosti. Tato společnost před 14 měsíci uzavřela s ministerstvem smlouvu na nadlimitní zakázku (rekonstrukce dálnice za 800 mil. Kč), o jejímž zadání rozhodoval útvar řízený právě tímto náměstkem. Konkurent na trhu podá podnět ORP. Účastníci: bývalý náměstek (obviněná fyzická osoba), stavební a.s., ORP. Důkazy: datum skončení funkce, pracovní/funkční zařazení v a.s., smlouva o zakázce, doklady o tom, kdo o zakázce rozhodoval, organizační řád ministerstva.
+
+**2. Právní otázka.** Porušil bývalý náměstek zákaz „revolving door" dle § 6 odst. 1, jsou-li současně naplněny všechny čtyři kumulativní podmínky (personální, časová, smluvní, rozhodovací)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 (zákaz po dobu 1 roku stát se společníkem/působit v orgánech podnikající PO nebo uzavřít pracovní vztah se zaměstnavatelem, který v posledních 3 letech uzavřel se státem nadlimitní zakázku, o níž funkcionář/jeho orgán rozhodoval), odst. 2 (rozšíření na ovládané osoby).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 písm. d) (náměstek v okruhu písm. c—p), § 23 odst. 2 písm. a) (přestupek — pokuta 25 000—500 000 Kč, nejvyšší dle ZSZS).
+- *Související předpisy:* zákon č. 134/2016 Sb., o zadávání veřejných zakázek (pojem nadlimitní zakázky a prahové hodnoty); § 580 OZ; organizační předpisy ministerstva (kdo „rozhodoval").
+- *Judikatura:* k obtížné vymahatelnosti § 6 viz výklad v komentáři — sporný je zejména znak „rozhodoval"; uplatní se restriktivní výklad ve prospěch obviněného (in dubio pro reo ve správním trestání).
+
+**4. Subsumpce.** (1) Personální podmínka — náměstek je v okruhu § 2 odst. 1 písm. c)—p): splněno. (2) Časová — nástup do a.s. 1. 6., tj. 2 měsíce po skončení funkce, uvnitř roční lhůty: splněno. (3) Smluvní — a.s. uzavřela se státem nadlimitní zakázku v posledních 3 letech: splněno. (4) Rozhodovací — útvar řízený náměstkem o zakázce rozhodoval: splněno. Všechny čtyři kumulativní podmínky jsou naplněny → zákaz dopadá, přestupek dle § 23 odst. 2 písm. a) je dán.
+
+**5. Řešení.** Bývalý náměstek se dopustil přestupku dle § 23 odst. 2 písm. a) (pokuta 25 000—500 000 Kč; nelze napomenutí ani upuštění dle § 23 odst. 4). Klíčové důkazní těžiště leží na podmínce „rozhodoval" — obhajoba bude tvrdit, že náměstek o konkrétní zakázce fakticky nerozhodoval (rozhodla komise/ministr). Praktický postup správního orgánu: opatřit organizační řád a doklady o podpisu/schválení zakázky, prokázat reálný rozhodovací vliv náměstka, nikoli jen formální nadřízenost.
+
+**6. Varianty.** (a) Kdyby zakázka byla podlimitní nebo VZMR (nikoli nadlimitní), smluvní podmínka by nebyla naplněna a zákaz by nedopadl. (b) Kdyby náměstek nastoupil až po uplynutí 1 roku od skončení funkce, časová podmínka by odpadla a zaměstnání by bylo dovolené, byť u téhož dodavatele.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „O zakázce jsem nerozhodoval já, nýbrž hodnotící komise / ministr." Neutralizace: § 6 zahrnuje i situaci, kdy rozhodoval orgán, v němž funkcionář působil; je však třeba prokázat reálný vliv — zde leží hlavní spor a riziko neúspěchu.
+- *Protiargument 2:* „Zákaz nepřiměřeně omezuje právo na práci a svobodu podnikání." Neutralizace: cooling-off je standardní proporcionální antikorupční nástroj časově (1 rok) i věcně (jen u dodavatele, o jehož nadlimitní zakázce se rozhodovalo) omezený.
+- *Slabé místo:* všechny čtyři podmínky musí být splněny současně — chybí-li byť jedna, zákaz nedopadá; § 6 je proto v praxi obtížně vymahatelný a důkazně náročný (zejm. znak „rozhodoval" a „nadlimitní").
+
+#### H. Praktický závěr
+
+§ 6 zakazuje bývalému funkcionáři po dobu 1 roku přejít k dodavateli, o jehož nadlimitní veřejné zakázce v posledních 3 letech rozhodoval. Zákaz dopadá jen při kumulativním splnění všech čtyř podmínek; porušení nese nejvyšší pokutu dle ZSZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Personální: byl funkcionář v okruhu § 2 odst. 1 písm. c)—p) nebo odst. 2 písm. b)—g)?
+- [ ] Časová: nastalo působení/zaměstnání do 1 roku od skončení funkce?
+- [ ] Smluvní: uzavřel zaměstnavatel se státem/ÚSC nadlimitní zakázku v posledních 3 letech?
+- [ ] Rozhodovací: rozhodoval o této zakázce funkcionář nebo orgán, v němž působil (reálný vliv)?
+
+**Typicky rozhodné důkazy / podklady:** datum skončení funkce a datum nástupu k novému subjektu, smlouva o nadlimitní zakázce a její hodnota, doklady o rozhodování (podpisy, usnesení, organizační řád), výpis z OR o ovládaných osobách.
+
 ---
 
 ### HLAVA IV — Podávání oznámení o osobním zájmu, o činnostech, majetku, příjmech a závazcích
@@ -424,6 +747,42 @@ Porušení § 6 je sankcionováno jako přestupek dle § 23 odst. 2 písm. a —
 | Oznámení o příjmech a závazcích | Tokové údaje + dluhy | Elektronicky do CRO | § 11 |
 
 **Forma čestného prohlášení** má tento právní význam: oznámení činí osoba pod **vlastní odpovědností za pravdivost údajů** — nepravdivé čestné prohlášení je samostatnou skutkovou podstatou přestupku (§ 23 odst. 1 písm. e) a může naplnit i znaky trestného činu (§ 348 TZ — padělání a pozměnění veřejné listiny, byť čestné prohlášení samo o sobě veřejnou listinou není; spíše tedy § 366 TZ — křivé obvinění není relevantní; výkladově se uvažuje o nepřímém pachatelství k podvodu dle § 209 TZ, je-li úmysl získat majetkový prospěch).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nově nastoupivší starosta města má vyplnit do registru oznámení čtyři typy oznámení. Domnívá se, že postačí jediné souhrnné prohlášení „nemám co oznámit", a do registru nahraje pouze oznámení o činnostech, zatímco oznámení o majetku, příjmech a závazcích nepodá vůbec, neboť „o nich má informace finanční úřad". Evidenční orgán při kontrole úplnosti zjistí absenci tří typů oznámení. Účastníci: starosta (funkcionář), evidenční orgán (MSp), ORP. Důkazy: výpis z registru oznámení (které typy byly podány), záznam o zápisu dle § 14a, poučení o lhůtě.
+
+**2. Právní otázka.** Vyžaduje § 7 podání všech čtyř typů oznámení samostatně, nebo lze povinnost splnit jediným souhrnným úkonem, a jaké jsou následky nepodání jednotlivých typů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 (katalog čtyř oznámení — o osobním zájmu, o činnostech, o majetku, o příjmech a závazcích — formou čestného prohlášení).
+- *Související ustanovení téhož zákona:* § 8 (osobní zájem — ústně do zápisu), § 9 (činnosti), § 10 (majetek), § 11 (příjmy a závazky), § 12 (lhůty a způsob, vč. negativního oznámení dle odst. 4), § 23 odst. 1 písm. e) a f) (přestupky — nepravdivé/neúplné údaje a pozdní/nepodané oznámení).
+- *Související předpisy:* vyhláška č. 79/2017 Sb. (struktura a formát oznámení); zákon č. 250/2016 Sb. (odpovědnost za přestupky).
+- *Judikatura:* k povaze čestného prohlášení a odpovědnosti za jeho obsah se uplatní obecné zásady — prohlašující nese odpovědnost za pravdivost a úplnost.
+
+**4. Subsumpce.** § 7 zakládá čtyři *samostatné* oznamovací povinnosti, lišící se předmětem i formou (oznámení o osobním zájmu se činí ústně do zápisu dle § 8, ostatní elektronicky do registru dle § 12). Nelze je nahradit jediným souhrnným úkonem; každý typ se podává zvlášť. Nepodání oznámení o majetku, příjmech a závazcích ve lhůtě naplňuje přestupek dle § 23 odst. 1 písm. f). Tvrzení „informace má finanční úřad" je irelevantní — povinnost je vůči evidenčnímu orgánu.
+
+**5. Řešení.** Starosta musí podat všechny tři chybějící typy oznámení; jejich absence ve lhůtě dle § 12 zakládá přestupek (§ 23 odst. 1 písm. f), pokuta 1 000—50 000 Kč). Evidenční orgán nejprve vyzve k doplnění (§ 14 odst. 2 písm. d); nepodání i poté vede k postoupení věci ORP. Praktický postup: vyplnit v registru každý typ oznámení samostatně, i kdyby šlo o negativní oznámení („nemám co oznámit") — to je dle § 12 odst. 4 nutné podat výslovně.
+
+**6. Varianty.** (a) Kdyby starosta podal všechny čtyři typy řádně, byť u tří z nich negativní oznámení, povinnost dle § 7 a § 12 by splnil a sankce by nehrozila. (b) Kdyby v podaných oznámeních uvedl zjevně nepravdivé údaje (zatajil nemovitost), nešlo by o pozdní/nepodané oznámení (písm. f), nýbrž o nepravdivé údaje dle § 23 odst. 1 písm. e).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Podal jsem alespoň oznámení o činnostech, povinnost je tím splněna." Neutralizace: § 7 zakládá čtyři samostatné povinnosti; splnění jedné nezhojuje nepodání ostatních.
+- *Protiargument 2:* „Údaje o mém majetku stejně má stát z jiných evidencí." Neutralizace: oznamovací povinnost je samostatná a směřuje vůči evidenčnímu orgánu do registru; existence dat jinde ji nenahrazuje (smyslem je veřejná kontrola na jednom místě).
+- *Slabé místo:* hranice mezi „neúplným" (písm. e) a „nepodaným" (písm. f) oznámením může být sporná u částečně vyplněného formuláře; kvalifikace ovlivňuje, který znak je naplněn.
+
+#### H. Praktický závěr
+
+§ 7 stanoví čtyři samostatná čestná prohlášení; každé se podává zvlášť a předepsanou formou (osobní zájem ústně do zápisu, ostatní elektronicky do registru). Nepodání kteréhokoli typu, i negativního, zakládá přestupkovou odpovědnost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly podány všechny relevantní typy oznámení (osobní zájem, činnosti, majetek, příjmy a závazky)?
+- [ ] Bylo u typů bez obsahu podáno negativní oznámení dle § 12 odst. 4?
+- [ ] Byla dodržena forma (osobní zájem ústně do zápisu — § 8; ostatní elektronicky — § 12 odst. 5)?
+- [ ] Vyzval evidenční orgán k doplnění před postoupením věci k přestupkovému řízení?
+
+**Typicky rozhodné důkazy / podklady:** výpis z registru oznámení (přehled podaných typů a dat), zápis o nástupu dle § 14a a poučení o lhůtě, zápisy z jednání (u osobního zájmu), formuláře dle vyhlášky 79/2017.
 
 ### § 8 — Oznámení o osobním zájmu
 
@@ -457,6 +816,42 @@ Oznámení **ústně, v průběhu jednání, nejpozději před hlasováním**, v
 #### Sankce
 
 Nepodání oznámení o osobním zájmu je **přestupek** dle § 23 odst. 1 písm. d) — pokuta 1 000 — 50 000 Kč.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zastupitelstvo obce projednává a hlasuje o poskytnutí dotace místnímu fotbalovému klubu, jehož je jeden ze zastupitelů předsedou a v němž jeho stavební firma figuruje jako hlavní sponzor i dodavatel rekonstrukce hřiště. Zastupitel se v rozpravě k bodu vyjádří, podpoří návrh a hlasuje pro, aniž by před hlasováním oznámil svůj poměr k věci. Bod je schválen jeho hlasem. Opoziční zastupitel podá podnět. Účastníci: zastupitel (obviněný), klub, obec, ORP. Důkazy: zápis z jednání zastupitelstva (rozprava + hlasování), stanovy klubu, výpis z OR/spolkového rejstříku, smlouvy o sponzoringu/dodávce.
+
+**2. Právní otázka.** Vznikla zastupiteli povinnost oznámit poměr k projednávané věci dle § 8 odst. 1 a porušil ji tím, že oznámení neučinil před hlasováním?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 1 (povinnost oznámit poměr k věci při jednání orgánu, vystoupí-li funkcionář v rozpravě, předloží návrh nebo je oprávněn hlasovat, hrozí-li mu výhoda/újma nebo má jiný osobní zájem; výjimka „obecně zřejmého prospěchu"), odst. 2 (ústně, nejpozději před hlasováním, vždy do zápisu).
+- *Související ustanovení téhož zákona:* § 3 (substantivní zákaz střetu zájmů), § 7 písm. a) (oznámení o osobním zájmu), § 23 odst. 1 písm. d) (přestupek — 1 000—50 000 Kč).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích (jednání zastupitelstva, zápis); § 22 OZ (osoba blízká, je-li dotčena rodina); § 159 OZ (péče řádného hospodáře).
+- *Judikatura:* k principu „disclose first, vote second" se uplatní obecné chápání, že smyslem je informovanost ostatních členů orgánu; absence oznámení je sankcionovatelná bez ohledu na výsledek hlasování.
+
+**4. Subsumpce.** Zastupitel jednal v orgánu ÚSC (zastupitelstvo), vystoupil v rozpravě a hlasoval — naplněna podmínka faktické účasti na rozhodování. Z výsledku mu (resp. jeho firmě) mohla vzniknout výhoda — má osobní zájem. Výjimka „obecně zřejmého prospěchu" se neuplatní (dotace konkrétnímu klubu, nikoli neomezenému okruhu). Oznámení před hlasováním neučinil → znak přestupku dle § 23 odst. 1 písm. d) je naplněn.
+
+**5. Řešení.** Zastupitel se dopustil přestupku dle § 23 odst. 1 písm. d) (pokuta 1 000—50 000 Kč). Sankce nastupuje za samotné nesplnění oznamovací povinnosti, nezávisle na tom, zda byla dotace věcně oprávněná. Správný postup: před hlasováním ústně do zápisu oznámit poměr k věci (předsednictví v klubu, sponzoring firmy) a zvážit zdržení se hlasování. Praktický krok obhajoby: prokázat, že oznámení bylo učiněno a zaprotokolováno (zápis z jednání je zde rozhodujícím důkazem).
+
+**6. Varianty.** (a) Kdyby zastupitel poměr k věci řádně oznámil do zápisu před hlasováním, přestupek dle § 8 by nevznikl, i kdyby poté hlasoval pro (zákon hlasování nezakazuje). (b) Kdyby zastupitelstvo hlasovalo o paušálním programu podpory všech sportovních spolků v obci dle objektivních kritérií (neomezený okruh adresátů), uplatnila by se výjimka „obecně zřejmého prospěchu" a oznamovací povinnost by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Všichni v obci vědí, že vedu fotbalový klub — oznámení bylo zbytečné." Neutralizace: obecná známost poměru nenahrazuje formální oznámení do zápisu; zákon vyžaduje výslovný úkon před hlasováním pro účely protokolace a informovanosti orgánu.
+- *Protiargument 2:* „Můj hlas nebyl rozhodující / dotace by prošla i bez něj." Neutralizace: přestupek dle písm. d) spočívá v neoznámení, nikoli v ovlivnění výsledku; kauzalita hlasu je irelevantní.
+- *Slabé místo:* posouzení, zda šlo o „jiný osobní zájem" může být u vzdálenějšího vztahu sporné; rovněž okamžik „před hlasováním" je nutné prokázat ze zápisu — chybí-li záznam, je důkazní situace nejistá pro obě strany.
+
+#### H. Praktický závěr
+
+§ 8 ukládá oznámit poměr k projednávané věci ústně do zápisu nejpozději před hlasováním, hrozí-li funkcionáři osobní výhoda/újma. Zákon účast nezakazuje, ale vyžaduje transparenci; neoznámení je přestupkem bez ohledu na výsledek hlasování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jedná funkcionář v orgánu, kde vystupuje v rozpravě, předkládá návrh nebo je oprávněn hlasovat?
+- [ ] Hrozí mu (nebo osobě blízké / jím ovládané PO) výhoda či újma, případně má jiný osobní zájem?
+- [ ] Neuplatní se výjimka „obecně zřejmého prospěchu" (neomezený okruh adresátů)?
+- [ ] Bylo oznámení učiněno ústně a zaneseno do zápisu před hlasováním?
+
+**Typicky rozhodné důkazy / podklady:** zápis z jednání orgánu (rozprava, oznámení, hlasování), doklady o osobním zájmu (rejstříky, smlouvy, členství/funkce v dotčeném subjektu).
 
 ### § 9 — Oznámení o činnostech
 
@@ -502,6 +897,42 @@ Adverbium **„přesně, úplně a pravdivě"** v úvodu § 9 (a obdobně v § 1
 - **Pravdivě** — věrné skutečnosti, bez zkreslení.
 
 Porušení kteréhokoliv z těchto standardů zakládá přestupek dle § 23 odst. 1 písm. e — pokuta 1 000 — 50 000 Kč.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poslanec v oznámení o činnostech (§ 9) uvede pouze svou advokátní praxi, ale zamlčí, že je členem dozorčí rady developerské akciové společnosti a společníkem rodinné s.r.o. provozující restauraci. Novinář na základě výpisu z obchodního rejstříku zjistí nesoulad a podá podnět evidenčnímu orgánu. Účastníci: poslanec (funkcionář), evidenční orgán (MSp), ORP. Důkazy: oznámení o činnostech v registru, výpis z OR (členství v dozorčí radě, podíl v s.r.o.), porovnání obou.
+
+**2. Právní otázka.** Naplnil poslanec přestupek tím, že v oznámení o činnostech neuvedl členství v orgánu podnikající PO (písm. c) a společnictví v podnikající PO (písm. b), tedy porušil standard úplnosti a pravdivosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 (povinnost přesně, úplně a pravdivě oznámit podnikání/SVČ, společnictví v podnikající PO, členství v orgánech podnikající PO, souběžné pracovní/služební poměry, vlastnictví/ovládání médií).
+- *Související ustanovení téhož zákona:* § 4 (zákaz některých činností — pro poslance se však neuplatní), § 12 (lhůty a způsob), § 13 odst. 7 (křížové ověřování), § 23 odst. 1 písm. e) (přestupek — nepřesné/neúplné/nepravdivé údaje, 1 000—50 000 Kč).
+- *Související předpisy:* zákon č. 90/2012 Sb. (ZOK — orgány PO); vyhláška č. 79/2017 Sb. (struktura oznámení); zákon č. 304/2013 Sb., o veřejných rejstřících.
+- *Judikatura:* k povaze „zjevně nepřesných, neúplných nebo nepravdivých" údajů — sankčně relevantní je kvalifikovaná vada (zjevnost), nikoli drobná formální nepřesnost.
+
+**4. Subsumpce.** Členství v dozorčí radě developerské a.s. spadá pod § 9 písm. c), podíl v rodinné s.r.o. pod písm. b). Obojí poslanec opomněl — oznámení je neúplné a co do tvrzení o rozsahu činností nepravdivé. Jde o „zjevně neúplné" údaje (vynechání celých kategorií zapsaných ve veřejném rejstříku). Znak přestupku dle § 23 odst. 1 písm. e) je naplněn. Skutečnost, že § 4 na poslance nedopadá (smí podnikat), nezbavuje jej *oznamovací* povinnosti dle § 9.
+
+**5. Řešení.** Poslanec se dopustil přestupku dle § 23 odst. 1 písm. e) (pokuta 1 000—50 000 Kč; napomenutí nelze a od trestu nelze upustit dle § 23 odst. 4). Evidenční orgán věc po křížovém ověření (§ 13 odst. 7) postoupí ORP. Správný postup: doplnit oznámení o všechny zapsané činnosti přesně (firma, IČO, sídlo). Praktický krok obhajoby: prokázat, že nešlo o úmyslné zatajení, nýbrž o omyl, a vady neprodleně zhojit (vliv na výši sankce, nikoli na naplnění znaku).
+
+**6. Varianty.** (a) Kdyby poslanec opomněl jen drobnou, již zaniklou účast bez majetkového významu, mohlo by jít o nepřesnost nedosahující „zjevnosti" a správní orgán by mohl věc vyhodnotit jako bagatelní. (b) Kdyby šlo o funkcionáře dle § 2 odst. 1 písm. c)—m) (ministr), neoznámené členství v orgánu podnikající PO by navíc zakládalo i porušení zákazu dle § 4 (přestupek dle § 23 odst. 1 písm. a), tj. souběh s přísnější sankcí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Jako poslanec smím podnikat (§ 4 na mě nedopadá), tak proč to oznamovat." Neutralizace: § 9 ukládá oznamovací povinnost *všem* funkcionářům i pro dovolené činnosti; dovolenost činnosti nezbavuje povinnosti ji transparentně oznámit.
+- *Protiargument 2:* „Údaje jsou veřejné v obchodním rejstříku, oznámení je nadbytečné." Neutralizace: zákon vyžaduje aktivní oznámení do registru oznámení; dostupnost údajů jinde povinnost nenahrazuje a její nesplnění je samostatným přestupkem.
+- *Slabé místo:* posouzení „zjevnosti" vady a zavinění je hodnotící; u nejednoznačných případů (sporné, zda jde o „podnikající" PO) je kvalifikace přestupku zranitelná.
+
+#### H. Praktický závěr
+
+§ 9 ukládá všem funkcionářům přesně, úplně a pravdivě oznámit pět kategorií vedlejších činností — i tehdy, jsou-li dovolené. Vynechání celé zapsané kategorie je „zjevně neúplným" údajem a zakládá přestupek; rozhodující je standard přesnosti, úplnosti a pravdivosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou oznámeny všechny relevantní kategorie (podnikání/SVČ, společnictví, členství v orgánech, souběžné poměry, média)?
+- [ ] Jsou údaje přesné (firma, IČO, sídlo, předmět/místo) a aktuální?
+- [ ] Souhlasí oznámení s veřejnými rejstříky (OR, spolkový rejstřík) po křížovém ověření dle § 13 odst. 7?
+- [ ] Nejde u funkcionáře dle § 2 odst. 1 písm. c)—m) zároveň o porušení zákazu dle § 4?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o činnostech v registru, výpis z obchodního a spolkového rejstříku, srovnání oznámených a zapsaných údajů, doklady o předmětu a místě činnosti.
 
 ### § 10 — Oznámení o majetku
 
@@ -565,6 +996,42 @@ Klíčové pojmy:
 
 Tato asymetrie reaguje na praktický problém zpětně rekonstruovat historické pořizovací ceny.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Náměstek ministra během prvního roku ve funkci koupí byt za 4,2 mil. Kč a luxusní automobil za 1,8 mil. Kč. V průběžném oznámení o majetku (§ 10 odst. 1 písm. b) uvede pouze byt, automobil zamlčí. Evidenční orgán při křížovém porovnání s registrem vozidel zjistí nový vůz registrovaný na náměstka. Účastníci: náměstek (funkcionář), evidenční orgán, ORP. Důkazy: oznámení o majetku v registru, výpis z katastru nemovitostí, výpis z registru silničních vozidel, kupní smlouvy.
+
+**2. Právní otázka.** Měl náměstek povinnost uvést v průběžném oznámení i automobil (movitá věc) a v jaké hodnotě, a naplnil přestupek tím, že jej neuvedl?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 písm. b) (průběžné přírůstky), odst. 2 písm. a) a d) (nemovitosti vždy; movité věci určené podle druhu — u přírůstků souhrn nad 500 000 Kč/rok po vyloučení věcí pod 50 000 Kč), odst. 3 (u přírůstků se uvádí pořizovací cena a způsob nabytí).
+- *Související ustanovení téhož zákona:* § 7 písm. c), § 12 (lhůty), § 13 odst. 7 (křížové ověřování s registrem vozidel a katastrem), § 23 odst. 1 písm. e) (přestupek — nepravdivé/neúplné údaje).
+- *Související předpisy:* zákon č. 151/1997 Sb., o oceňování majetku (cena obvyklá); § 489 OZ (věci určené podle druhu); zákon č. 256/2001 Sb. a registry vozidel/katastr nemovitostí (z. 256/2013 Sb.).
+- *Judikatura:* k pojmu „nevysvětlitelný nárůst majetku" jako indikátoru — oznámení o majetku slouží k porovnání vstupního a průběžného stavu; zatajení nabytí podléhá sankci.
+
+**4. Subsumpce.** Byt (nemovitost) se uvádí vždy s pořizovací cenou a způsobem nabytí. Automobil je movitá věc určená podle druhu; jeho hodnota 1,8 mil. Kč překračuje práh 500 000 Kč a není pod filtrem 50 000 Kč — má být uveden s pořizovací cenou a způsobem nabytí (koupě). Náměstek jej opomněl → oznámení je neúplné a co do rozsahu nabytého majetku nepravdivé. Znak přestupku dle § 23 odst. 1 písm. e) je naplněn.
+
+**5. Řešení.** Náměstek se dopustil přestupku dle § 23 odst. 1 písm. e) (pokuta 1 000—50 000 Kč). Po křížovém ověření (§ 13 odst. 7) evidenční orgán věc postoupí ORP. Správný postup: v průběžném oznámení uvést všechny nemovitosti a movité věci nad 500 000 Kč s pořizovací cenou a způsobem nabytí. Praktický krok obhajoby: doplnit chybějící položku a doložit, že nešlo o úmyslné zatajení (relevantní pro výši sankce); zatajení drahého aktiva však samo o sobě naplňuje znak.
+
+**6. Varianty.** (a) Kdyby šlo o automobil za 350 000 Kč (pod prahem 500 000 Kč) a souhrn ostatních přírůstků movitých věcí by práh nepřekročil, povinnost uvést jej by nevznikla a o přestupek by nešlo. (b) Kdyby šlo o *vstupní* oznámení (odst. 1 písm. a), u movitých věcí by se uváděla cena obvyklá k datu vstupu (nikoli pořizovací) a u nemovitostí by se cena a způsob nabytí neuváděly vůbec.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Auto je běžná spotřební věc, ne investice, nemusí se uvádět." Neutralizace: § 10 odst. 2 písm. d) zahrnuje všechny movité věci určené podle druhu nad hodnotový práh bez ohledu na účel; vůz za 1,8 mil. Kč práh výrazně překračuje.
+- *Protiargument 2:* „Hodnotu jsem nemohl přesně určit, proto jsem ji neuvedl." Neutralizace: u přírůstků se uvádí pořizovací cena (ze smlouvy), nikoli odhad; nejistota ohledně ocenění neopravňuje k úplnému vynechání položky.
+- *Slabé místo:* určení „ceny obvyklé" u vstupních movitostí je odhadové a může být napadeno; rozlišení vstupního vs. průběžného oznámení mění obsah povinnosti a chybná kvalifikace oslabuje výrok.
+
+#### H. Praktický závěr
+
+§ 10 vyžaduje dvojí snímek majetku: vstupní (stav před nástupem) a průběžný (přírůstky). Nemovitosti se uvádějí vždy; movité věci nad 500 000 Kč rovněž. U přírůstků se uvádí pořizovací cena a způsob nabytí; u vstupu cena obvyklá (a u nemovitostí cena/způsob vůbec). Zatajení významného aktiva je přestupkem odhalitelným křížovým ověřením.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o vstupní (písm. a) nebo průběžné (písm. b) oznámení — liší se obsah a způsob ocenění?
+- [ ] Jsou uvedeny všechny nemovitosti, cenné papíry, podíly a movité věci nad 500 000 Kč?
+- [ ] Je u přírůstků uvedena pořizovací cena a způsob nabytí?
+- [ ] Souhlasí oznámení s katastrem nemovitostí a registrem vozidel (§ 13 odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o majetku v registru, výpis z katastru nemovitostí a registru silničních vozidel, kupní/darovací smlouvy, případný odhad ceny obvyklé.
+
 ### § 11 — Oznámení o příjmech a závazcích
 
 > **§ 11**
@@ -618,6 +1085,42 @@ Výčet typů závazků **„zejména půjčky, úvěry, nájemné, závazky ze 
 
 Funkcionář musí uvést **vůči komu** závazek má. To je transparenčně kritické: zjištění, že např. ministr má nesplacený úvěr u banky, která je významným uchazečem o státní emise dluhopisů, může otevřít otázku střetu zájmů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Uvolněný starosta města obdrží během kalendářního roku dar 150 000 Kč od podnikatele působícího v obci a honorář 80 000 Kč za přednáškovou činnost. Současně má k 31. 12. nesplacený podnikatelský úvěr 1,2 mil. Kč u banky a nedoplatek na dani 60 000 Kč. V oznámení o příjmech a závazcích uvede pouze honorář, dar i úvěr zamlčí s tím, že „dar byl soukromý a úvěr je věcí banky". Účastníci: starosta (funkcionář), evidenční orgán, ORP. Důkazy: oznámení v registru, darovací smlouva/bankovní výpis, úvěrová smlouva, potvrzení FÚ o nedoplatku.
+
+**2. Právní otázka.** Měl starosta povinnost uvést dar 150 000 Kč mezi příjmy a úvěr 1,2 mil. Kč mezi závazky dle § 11, a naplnil přestupek tím, že je neoznámil?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 2 písm. a) (příjmy a jiné majetkové výhody, vč. darů nad 10 000 Kč/kus, souhrnně nad 100 000 Kč/rok; výjimka: plat za funkci, příjmy manžela/partnera), písm. b) (nesplacené závazky nad 100 000 Kč souhrnně k 31. 12.), odst. 3 (výše, druh, zdroj příjmu; výše, druh a věřitel závazku).
+- *Související ustanovení téhož zákona:* § 10 (majetek — dary mohou být i tam), § 12 (lhůty), § 13 odst. 7 (ověřování — banka dle § 29 ZSZS prolomil tajemství), § 23 odst. 1 písm. e) (přestupek).
+- *Související předpisy:* § 21 ZSZS (resp. § 29 — prolomení bankovního tajemství vůči orgánům dle ZSZS); zákon č. 280/2009 Sb., daňový řád (daňový nedoplatek jako závazek); § 2055 OZ (darování).
+- *Judikatura:* k povaze identifikace věřitele a zdroje příjmu — transparenční smysl spočívá v možnosti odhalit propojení funkcionáře s dárci a věřiteli (potenciální střet zájmů).
+
+**4. Subsumpce.** Dar 150 000 Kč přesahuje práh 100 000 Kč/rok i filtr 10 000 Kč/kus → musí být uveden s výší, druhem a zdrojem (dárcem). Úvěr 1,2 mil. Kč (sám i v souhrnu s nedoplatkem 60 000 Kč = 1,26 mil. Kč) přesahuje 100 000 Kč k 31. 12. → musí být uveden s výší, druhem a věřitelem. Honorář 80 000 Kč sám prahu nedosahuje, ale v souhrnu s darem příjmy práh překračují. Opomenutí daru a úvěru činí oznámení neúplným a nepravdivým → přestupek dle § 23 odst. 1 písm. e).
+
+**5. Řešení.** Starosta se dopustil přestupku dle § 23 odst. 1 písm. e) (pokuta 1 000—50 000 Kč). Evidenční orgán může údaje o úvěru ověřit u banky (bankovní tajemství je vůči orgánům dle ZSZS prolomeno — § 29 ZSZS) a věc postoupit ORP. Správný postup: uvést všechny příjmy nad souhrnný práh (vč. darů nad 10 000 Kč) a všechny závazky nad 100 000 Kč s identifikací zdroje/věřitele. Praktický krok: dar od podnikatele působícího v obci je navíc signálem možného střetu zájmů — vhodné posoudit i ve světle § 3.
+
+**6. Varianty.** (a) Kdyby dar činil jen 9 000 Kč (pod filtrem 10 000 Kč/kus) a ostatní příjmy by souhrnně nepřekročily 100 000 Kč, povinnost uvést jej by nevznikla. (b) Kdyby šlo o příjem manžela/partnera starosty, byl by z oznamovací povinnosti dle § 11 vyňat (na rozdíl od relevance osob blízkých pro § 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Úvěr je soukromá věc mezi mnou a bankou, nemusím ho uvádět." Neutralizace: § 11 odst. 2 písm. b) výslovně ukládá oznámit nesplacené závazky nad 100 000 Kč vč. věřitele; soukromá povaha závazku ho z povinnosti nevylučuje a banka je navíc povinna údaj orgánům poskytnout.
+- *Protiargument 2:* „Dar byl osobní, nesouvisí s funkcí." Neutralizace: § 11 nerozlišuje účel daru; rozhodující je překročení prahu; dar od subjektu působícího v obci je naopak transparenčně citlivý.
+- *Slabé místo:* sčítání drobných příjmů/závazků k prahu vyžaduje úplnou evidenci; u hraničních součtů je naplnění prahu (a tím přestupku) sporné a důkazně náročné.
+
+#### H. Praktický závěr
+
+§ 11 ukládá oznámit příjmy a jiné majetkové výhody (vč. darů nad 10 000 Kč) souhrnně nad 100 000 Kč/rok a nesplacené závazky nad 100 000 Kč k 31. 12., vždy s identifikací zdroje/věřitele. Plat za funkci a příjmy manžela se nezapočítávají. Zatajení překračuje-li práh, je přestupkem ověřitelným i prolomením bankovního tajemství.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Překračují příjmy (vč. darů nad 10 000 Kč/kus) souhrnně 100 000 Kč za rok?
+- [ ] Překračují nesplacené závazky souhrnně 100 000 Kč k 31. 12.?
+- [ ] Je u každého příjmu uveden zdroj a u závazku věřitel (výše, druh)?
+- [ ] Nejsou do souhrnu nesprávně zahrnuty vyňaté položky (plat za funkci, příjmy manžela/partnera)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení o příjmech a závazcích, darovací a úvěrové smlouvy, bankovní výpisy a potvrzení banky, potvrzení FÚ o nedoplatcích, doklady o honorářích.
+
 ### § 12 — Lhůty a způsob podávání oznámení
 
 > **§ 12**
@@ -667,6 +1170,42 @@ Alternativně lze podat **přes Portál veřejné správy datovou zprávou** s o
 #### Vyhláška MSp (odst. 6)
 
 Strukturu a formát stanoví Ministerstvo spravedlnosti vyhláškou (aktuálně **vyhláška č. 79/2017 Sb., o stanovení struktury a formátu oznámení podle zákona o střetu zájmů**, ve znění pozdějších předpisů). Vyhláška vymezuje konkrétní pole, číselníky a XML schéma pro automatizované zpracování.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Starosta nastoupil do funkce 5. 2.; obecní úřad jej do registru zapsal dle § 14a až 20. 2. Starosta následně podá vstupní oznámení (§ 9, § 10 odst. 1 písm. a, § 11 odst. 1) až 5. 4. Za uplynulý kalendářní rok pak periodické oznámení nepodá vůbec, neboť se domnívá, že „nemá co měnit". Evidenční orgán eviduje pozdní vstupní oznámení a chybějící periodické oznámení k 30. 6. Účastníci: starosta (funkcionář), zapisující obecní úřad, evidenční orgán, ORP. Důkazy: záznam o zápisu dle § 14a (datum), datum podání vstupního oznámení, absence periodického oznámení, poučení o lhůtě.
+
+**2. Právní otázka.** Od kterého okamžiku běží lhůta pro vstupní oznámení (od nástupu, nebo od zápisu do registru?), a zakládá nepodání periodického „negativního" oznámení přestupek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 1 (vstupní oznámení do 30 dnů od *zápisu* do registru dle § 14a), odst. 2 (periodické do 30. 6. následujícího roku), odst. 4 (negativní oznámení — povinnost i bez změn), odst. 5 (elektronická forma; soudci písemně NS).
+- *Související ustanovení téhož zákona:* § 14a (zápis a poučení o lhůtě), § 9—§ 11 (obsah), § 23 odst. 1 písm. f) (přestupek — pozdní/nepodané oznámení).
+- *Související předpisy:* vyhláška č. 79/2017 Sb. (formát); zákon č. 300/2008 Sb., o elektronických úkonech (datové schránky, portál veřejné správy); zákon č. 250/2016 Sb.
+- *Judikatura:* k běhu lhůt navázaných na úkon třetího subjektu (zápis) — lhůta nemůže běžet dříve, než nastane rozhodná skutečnost, na niž ji zákon váže.
+
+**4. Subsumpce.** Lhůta pro vstupní oznámení neběží od nástupu (5. 2.), nýbrž od zápisu do registru (20. 2.) — § 12 odst. 1 váže počátek na zápis dle § 14a. 30denní lhůta tak uplynula 22. 3.; podání 5. 4. je opožděné → přestupek dle § 23 odst. 1 písm. f). Periodické oznámení k 30. 6. je povinné i tehdy, nedošlo-li k žádné změně (§ 12 odst. 4 — negativní oznámení); jeho nepodání je rovněž přestupkem dle písm. f).
+
+**5. Řešení.** Starosta se dopustil dvou skutků dle § 23 odst. 1 písm. f) (opožděné vstupní a nepodané periodické oznámení; pokuta 1 000—50 000 Kč za každý). Správný postup: vstupní oznámení do 30 dnů od zápisu, periodické do 30. 6. (i jako „nemám co oznámit"). Praktický krok obhajoby: ověřit přesné datum zápisu a poučení dle § 14a — pozdní nebo chybějící zápis/poučení může zpochybnit počátek běhu lhůty u vstupního oznámení a zmírnit zavinění.
+
+**6. Varianty.** (a) Kdyby starosta vstupní oznámení podal do 30 dnů od zápisu a periodické (byť negativní) do 30. 6., žádný přestupek by nevznikl. (b) Kdyby šlo o soudce, oznámení by podával *písemně* Nejvyššímu soudu (§ 12 odst. 5), nikoli elektronicky do registru, a chybný způsob podání by mohl být sám o sobě vadou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Lhůta běžela od mého nástupu, ne od zápisu — počítal jsem to správně." Neutralizace: § 12 odst. 1 výslovně váže počátek lhůty na zápis do registru, nikoli na nástup; to je pro funkcionáře zpravidla příznivější (lhůta začíná později).
+- *Protiargument 2:* „Nic se nezměnilo, tak nebylo co podávat." Neutralizace: § 12 odst. 4 ukládá podat oznámení i bez jakékoli změny (negativní oznámení); mlčení není splněním povinnosti.
+- *Slabé místo:* prokázání data zápisu a doručení poučení dle § 14a leží převážně na zapisujícím orgánu; selhání v evidenci může vést k pochybnostem o počátku lhůty a oslabit jak obvinění, tak obhajobu.
+
+#### H. Praktický závěr
+
+§ 12 stanoví tři typy lhůt: vstupní (30 dnů od *zápisu* do registru), periodickou (do 30. 6. následujícího roku) a výstupní (30 dnů od zápisu o skončení funkce). Oznámení se podává elektronicky do registru (soudci písemně NS) a je povinné i bez změn (negativní oznámení).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Od kdy běží lhůta — je doložen přesný den zápisu do registru dle § 14a?
+- [ ] Bylo vstupní oznámení podáno do 30 dnů od zápisu?
+- [ ] Bylo periodické oznámení podáno do 30. 6. (i jako negativní dle odst. 4)?
+- [ ] Byla dodržena forma (elektronicky do registru / soudci písemně NS)?
+
+**Typicky rozhodné důkazy / podklady:** záznam o zápisu a poučení dle § 14a (data), potvrzení registru o podání a zaevidování, doklad o způsobu podání (datová schránka/portál), přehled lhůt v registru dle § 14 odst. 4.
 
 ---
 
@@ -745,6 +1284,42 @@ Evidenční orgán **porovnává** údaje v CRO s **jinými ISVS** (typicky kata
 #### Účelové omezení použití (odst. 8)
 
 § 13 odst. 8 zavádí klasický princip **purpose limitation** podle GDPR (čl. 5 odst. 1 písm. b): údaje z CRO lze používat **pouze k účelu zjištění porušení povinností funkcionáře**. Porušení tohoto pravidla (např. použití pro novinářskou „zlatou kartotéku osobních věcí politiků", marketingové účely apod.) je sankcionováno jako přestupek (§ 23 odst. 2 písm. d, § 24).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Marketingová agentura získá řádně přístup do registru oznámení (žádost, heslo) a z údajů funkcionářů — kategorie nemovitostí, hodnoty majetku, příjmy — sestaví databázi „bonity politiků", kterou prodá realitní a pojišťovací společnosti pro cílené nabídky. Funkcionář, kterému začnou chodit cílené nabídky, podá podnět ÚOOÚ. Účastníci: agentura (PO), realitní/pojišťovací společnost (odběratel), dotčený funkcionář, ÚOOÚ. Důkazy: log přístupů do registru, smlouva o prodeji databáze, obsah databáze, nabídky doručené funkcionáři.
+
+**2. Právní otázka.** Porušila agentura účelové omezení dle § 13 odst. 8 tím, že údaje z registru použila k jinému účelu než ke zjištění porušení povinností funkcionáře, a jaká je sankce u právnické osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 odst. 8 (údaje z registru lze použít a dále zpracovávat pouze za účelem zjištění případného porušení povinností funkcionáře), odst. 5 (zákaz sdělit heslo třetí osobě), odst. 3—4 (žádostní přístup).
+- *Související ustanovení téhož zákona:* § 14 odst. 5 (anti-indexace), § 14b (rozsah veřejných údajů), § 24 odst. 1 písm. b) (přestupek PO/podnikající FO za zneužití údajů — pokuta 1 000—50 000 Kč), § 25 odst. 1 (příslušnost ÚOOÚ).
+- *Související předpisy:* Nařízení (EU) 2016/679 (GDPR) — čl. 5 odst. 1 písm. b) (účelové omezení); zákon č. 110/2019 Sb., o zpracování osobních údajů.
+- *Judikatura:* NS 30 Cdo 1021/2022 (citováno u § 13/§ 14b) — k mezím zveřejňování majetkových oznámení a vztahu k nálezu ÚS Pl. ÚS 38/17; obecně k purpose limitation dle GDPR.
+
+**4. Subsumpce.** Agentura získala údaje legálně (přístup s heslem), avšak jejich použití pro komerční databázi bonity a prodej třetí osobě je „jiný účel" než zjištění porušení povinností funkcionáře. Tím porušila § 13 odst. 8. Jako právnická osoba naplnila skutkovou podstatu přestupku dle § 24 odst. 1 písm. b). Souběžně může jít o porušení GDPR (zpracování neslučitelné s původním účelem) v gesci ÚOOÚ.
+
+**5. Řešení.** Agentura se dopustila přestupku dle § 24 odst. 1 písm. b) (pokuta 1 000—50 000 Kč), který projednává ÚOOÚ (§ 25 odst. 1). Vedle toho hrozí samostatná sankce dle GDPR (podstatně vyšší). Praktický postup ÚOOÚ: z logů přístupů a smlouvy o prodeji prokázat účelový rozpor; uložit pokutu dle ZSZS a posoudit porušení GDPR. Odběratel databáze může nést vlastní odpovědnost za další zpracování.
+
+**6. Varianty.** (a) Kdyby agentura údaje použila k investigativnímu odhalení nevysvětlitelného nárůstu majetku konkrétního funkcionáře (tj. ke zjištění možného porušení povinností), šlo by o účel souladný s § 13 odst. 8 a o přestupek by nešlo. (b) Kdyby agentura navíc sdělila přístupové heslo odběrateli, naplnila by i přestupek dle § 24 odst. 1 písm. a) (sdělení hesla třetí osobě).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Údaje jsou veřejně přístupné, mohu s nimi nakládat libovolně." Neutralizace: veřejná dostupnost neznamená neomezené použití; § 13 odst. 8 i GDPR vážou zpracování na původní účel (kontrola funkcionářů), komerční využití je zakázáno.
+- *Protiargument 2:* „Provádíme jen agregaci, nezveřejňujeme jednotlivce." Neutralizace: i agregace a další zpracování pro komerční účel je „jiný účel" dle § 13 odst. 8; rozhodující je účel, nikoli forma výstupu.
+- *Slabé místo:* hranice mezi „zjištěním porušení povinností" (dovoleno) a „jiným účelem" (zakázáno) je u investigativně-komerčních projektů neostrá; nízká sazba dle ZSZS (do 50 000 Kč) navíc snižuje odrazující efekt — těžiště postihu leží v GDPR.
+
+#### H. Praktický závěr
+
+Údaje z registru lze použít výhradně ke zjištění možného porušení povinností funkcionáře; jakékoli komerční nebo jiné využití porušuje § 13 odst. 8 a zakládá přestupek projednávaný ÚOOÚ (u PO dle § 24). Souběžně hrozí podstatně přísnější postih dle GDPR. Heslo k přístupu nesmí být sděleno třetí osobě.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] K jakému účelu jsou údaje z registru zpracovávány — jde o zjištění porušení povinností funkcionáře?
+- [ ] Nedochází k dalšímu zpracování či předání pro komerční/marketingové účely?
+- [ ] Nebylo přístupové heslo sděleno třetí osobě (§ 13 odst. 5)?
+- [ ] Je vedle ZSZS posouzen i souběh s GDPR (gesce ÚOOÚ)?
+
+**Typicky rozhodné důkazy / podklady:** logy přístupů do registru, smlouvy o předání/prodeji dat, obsah a účel vytvořené databáze, doklady o dalším využití údajů, žádost o přístup a vydané heslo.
 
 ### § 14 — Vedení registru oznámení
 
@@ -827,6 +1402,42 @@ Odstavec 5 zavádí povinnost **ochrany před automatizovaným indexováním v i
 
 Cíl: zabránit tomu, aby osobní údaje z CRO byly trvale přístupné přes Google search bez bariéry — to by neúměrně zasáhlo do soukromí funkcionářů (i ÚS v Pl. ÚS 13/17 zdůraznil, že přístup veřejnosti musí být přiměřený, nikoliv „pasivně dostupný").
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soudce okresního soudu se domnívá, že jeho majetkové oznámení je veřejné jako u politiků, a obává se zveřejnění. Současně novinář žádá podle InfZ Nejvyšší soud o poskytnutí oznámení tohoto soudce. Nejvyšší soud žádost odmítne. Novinář se brání s tím, že jde o veřejnou informaci o veřejném funkcionáři. Účastníci: soudce (funkcionář dle § 2 odst. 2 písm. f), Nejvyšší soud (evidenční orgán pro soudce), novinář (žadatel dle InfZ). Důkazy: žádost dle InfZ, rozhodnutí NS o odmítnutí, zařazení soudce do zvláštního registru.
+
+**2. Právní otázka.** Vede oznámení soudců Ministerstvo spravedlnosti, nebo Nejvyšší soud, a lze je poskytnout podle zákona o svobodném přístupu k informacím?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 1 (dva evidenční orgány — MSp obecně, NS pro soudce dle § 2 odst. 2 písm. f), odst. 3 (zvláštní neveřejný registr soudců vedený NS; nelze nahlížet; informace se neposkytují podle InfZ), odst. 4—5 (vyhledávání, anti-indexace).
+- *Související ustanovení téhož zákona:* § 2 odst. 2 písm. f) (soudce), § 12 odst. 5 (soudci podávají písemně NS), § 14b odst. 2 (neveřejnost soudců, SZ, PČR, GIBS), § 13 (CRO).
+- *Související předpisy:* zákon č. 106/1999 Sb., o svobodném přístupu k informacím (InfZ); čl. 81—82 Ústavy (soudcovská nezávislost); zákon č. 6/2002 Sb., o soudech a soudcích.
+- *Judikatura:* nález ÚS Pl. ÚS 13/17 (přiměřenost přístupu veřejnosti); princip soudcovské nezávislosti jako důvod neveřejnosti.
+
+**4. Subsumpce.** Soudce je funkcionářem dle § 2 odst. 2 písm. f); jeho oznámení vede *zvláštní registr Nejvyššího soudu*, nikoli CRO spravované MSp (§ 14 odst. 1 a 3). Do tohoto registru nelze nahlížet a informace v něm se *neposkytují podle InfZ* (§ 14 odst. 3 věta třetí, potvrzeno § 14b odst. 2). Žádost novináře je proto důvodně odmítnuta; neuplatní se ani obecný režim svobody informací.
+
+**5. Řešení.** Nejvyšší soud žádost dle InfZ správně odmítl — zákon výslovně vylučuje poskytování informací ze zvláštního registru soudců. Soudcovo oznámení zůstává neveřejné z důvodu ochrany soudcovské nezávislosti. Praktický postup NS: rozhodnout o odmítnutí žádosti s odkazem na § 14 odst. 3 a § 14b odst. 2 ZSZS jako na zvláštní úpravu vylučující InfZ. Novinář nemá k těmto údajům právní nárok.
+
+**6. Varianty.** (a) Kdyby žádost směřovala k oznámení *ministra* (§ 2 odst. 1 písm. c), údaje by byly veřejné dle § 14b odst. 1 písm. a) (s výjimkou data/místa narození a identifikace nemovitosti) a přístupné online bez žádosti. (b) Kdyby šlo o vedoucího úředníka ÚSC (§ 2 odst. 2 písm. e), platil by omezený veřejný režim dle § 14b odst. 1 písm. d), nikoli úplná neveřejnost jako u soudců.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Soudce je veřejný funkcionář, jeho majetek má být veřejný jako u politiků." Neutralizace: ZSZS soudce výslovně vyjímá z veřejného režimu (§ 14 odst. 3, § 14b odst. 2) z důvodu soudcovské nezávislosti; jejich registr vede NS a je neveřejný.
+- *Protiargument 2:* „InfZ je obecný předpis a má přednost / vyplňuje mezeru." Neutralizace: ZSZS je ve vztahu k InfZ speciální a výslovně poskytování těchto informací vylučuje; lex specialis derogat legi generali.
+- *Slabé místo:* napětí mezi transparencí a soudcovskou nezávislostí je trvalé; rozhodnutí o neveřejnosti se opírá o jednoznačný text zákona, méně o ústavní vyvažování — případná budoucí novela může režim změnit.
+
+#### H. Praktický závěr
+
+Oznámení soudců vede *zvláštní neveřejný registr Nejvyššího soudu*, nikoli CRO spravované MSp; do tohoto registru nelze nahlížet a informace se neposkytují ani podle InfZ. U ostatních funkcionářů je evidenčním orgánem MSp a platí veřejný režim dle § 14b. Správce zajišťuje vyhledávání i ochranu proti indexování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o soudce (§ 2 odst. 2 písm. f) — pak je evidenčním orgánem NS a registr je neveřejný?
+- [ ] Není žádost o informace ze zvláštního registru soudců vyloučena z režimu InfZ?
+- [ ] U ostatních funkcionářů: umožňuje registr vyhledávání dle § 14 odst. 4 a je chráněn proti indexování (§ 14 odst. 5)?
+- [ ] Je dodržena archivační lhůta (5 let od skončení funkce — § 14 odst. 2 písm. c)?
+
+**Typicky rozhodné důkazy / podklady:** zařazení funkcionáře do kategorie § 2, žádost a rozhodnutí evidenčního orgánu, doklad o vedení ve zvláštním registru soudců, nastavení vyhledávání a anti-indexace registru.
+
 ### § 14a — Zápis do registru oznámení
 
 > **§ 14a**
@@ -871,6 +1482,42 @@ Příklady:
 - na zápisovou činnost dohlíží stát (MSp jako gestor),
 - náklady na výkon této činnosti částečně hradí stát formou příspěvku na výkon státní správy,
 - proti zápisovým úkonům je nutno aplikovat přiměřeně správní řád (resp. v užším rozsahu, neboť jde o evidenční úkon, nikoliv rozhodnutí).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nově zvolený starosta nastoupil do funkce složením slibu 10. 11. Obecní úřad (zapisující orgán v přenesené působnosti) jej však do registru zapsal až 20. 12., tedy po 40 dnech, a navíc jej neinformoval o lhůtě pro podání oznámení. Starosta podá vstupní oznámení až 10. 1. následujícího roku. Při kontrole evidenční orgán řeší, zda starosta pochybil, nebo zda za prodlení odpovídá obecní úřad. Účastníci: starosta (funkcionář), obecní úřad (zapisující orgán), evidenční orgán, ORP. Důkazy: zápis o složení slibu (datum zahájení funkce), záznam o zápisu do registru (datum), absence poučení dle § 14a odst. 3.
+
+**2. Právní otázka.** Porušil povinnost obecní úřad (zápis až po 40 dnech a bez poučení), nebo starosta (pozdní oznámení), a jaký to má vliv na běh lhůty starosty dle § 12 odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14a odst. 1 (zápis neprodleně, nejpozději do 15 dnů od zahájení/skončení funkce), odst. 2 (katalog zapisujících orgánů), odst. 3 (informování funkcionáře o zápisu a o lhůtě k oznámení), odst. 4 (přenesená působnost u územní samosprávy).
+- *Související ustanovení téhož zákona:* § 12 odst. 1 (lhůta pro vstupní oznámení běží od *zápisu*), § 13 (registr), § 23 odst. 1 písm. f) (přestupek funkcionáře za pozdní oznámení).
+- *Související předpisy:* zákon č. 128/2000 Sb., o obcích (přenesená působnost, výkon státní správy); zákon č. 500/2004 Sb., správní řád (přiměřeně na evidenční úkony); zákon o příspěvku na výkon státní správy.
+- *Judikatura:* k běhu lhůty navázané na úkon zapisujícího orgánu — lhůta funkcionáře nemůže běžet před provedením zápisu; pochybení zapisujícího orgánu nelze přičítat funkcionáři.
+
+**4. Subsumpce.** Obecní úřad porušil § 14a odst. 1 (zápis měl být do 15 dnů, proběhl po 40) i odst. 3 (neposkytl poučení o lhůtě) — jde však o pochybení orgánu v přenesené působnosti, nikoli o přestupek funkcionáře dle ZSZS. Lhůta starosty pro vstupní oznámení (§ 12 odst. 1) běží od *zápisu* (20. 12.); 30denní lhůta tak končí 19. 1. Podání 10. 1. je *včasné*. Starosta tedy přestupek dle § 23 odst. 1 písm. f) nespáchal — prodlení leží na straně obecního úřadu.
+
+**5. Řešení.** Starosta není odpovědný — lhůta se odvíjí od zápisu, který proběhl pozdě vinou úřadu; podání 10. 1. je v 30denní lhůtě. Pochybení obecního úřadu (pozdní zápis, chybějící poučení) řeší dohled státu (MSp jako gestor), nikoli sankce vůči starostovi. Praktický postup: evidenční orgán nepostupuje věc jako přestupek funkcionáře; upozorní na nedostatek výkonu přenesené působnosti. Pro funkcionáře je klíčové doložit datum zápisu (nikoli nástupu).
+
+**6. Varianty.** (a) Kdyby úřad zapsal starostu včas (do 15 dnů od slibu) a poučil jej, a starosta přesto podal oznámení po 30 dnech od zápisu, šlo by o přestupek dle § 23 odst. 1 písm. f) na jeho straně. (b) Kdyby šlo o poslance, zapisovala by Kancelář Sněmovny (nikoli v přenesené působnosti); mechanismus aktivace a běhu lhůt by byl obdobný, jen bez prvku územní samosprávy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Funkcionář měl oznámení podat do 30 dnů od nástupu, ne od zápisu — pochybil." Neutralizace: § 12 odst. 1 váže počátek lhůty na zápis dle § 14a, nikoli na nástup; pozdní zápis posouvá počátek lhůty ve prospěch funkcionáře.
+- *Protiargument 2:* „Za chybějící poučení odpovídá také funkcionář, měl si lhůtu pohlídat sám." Neutralizace: poučovací povinnost je výslovně uložena zapisujícímu orgánu (§ 14a odst. 3); její nesplnění oslabuje zavinění funkcionáře a může vyloučit jeho odpovědnost při hraničním prodlení.
+- *Slabé místo:* odpovědnost zapisujícího orgánu v přenesené působnosti není v ZSZS sankcionována přestupkem; vynucení řádného zápisu je tak fakticky jen otázkou dohledu a nemá přímou sankci.
+
+#### H. Praktický závěr
+
+§ 14a zakládá automatickou registraci: zapisující orgán musí funkcionáře zapsat do 15 dnů od zahájení/skončení funkce a poučit jej o lhůtě. Lhůta funkcionáře k oznámení běží až od zápisu — pochybení orgánu (pozdní zápis, chybějící poučení) nelze přičítat funkcionáři. U územní samosprávy jde o přenesenou působnost pod dohledem státu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Provedl zapisující orgán zápis do 15 dnů od zahájení/skončení funkce?
+- [ ] Informoval funkcionáře o zápisu a o lhůtě k podání oznámení (§ 14a odst. 3)?
+- [ ] Běží lhůta funkcionáře dle § 12 odst. 1 od data zápisu (nikoli nástupu)?
+- [ ] Jde u územní samosprávy o přenesenou působnost (dohled MSp), nikoli o přestupek funkcionáře?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zahájení/skončení funkce (slib, jmenování), záznam o zápisu do registru s datem, doklad o poučení dle § 14a odst. 3, identifikace zapisujícího orgánu.
 
 ### § 14b — Rozsah nahlížení do registru oznámení (Lex Babiš IV — plná veřejnost)
 
@@ -943,6 +1590,42 @@ Bez ohledu na omezení v odst. 1 a 2 mají **plný přístup** ke všem údajům
 - **zpravodajské služby ČR** (BIS, ÚZSI, VZ) — pro výkon zpravodajské činnosti (bezpečnostní prověrky, sledování zájmů cizích mocností v ČR atd.).
 
 > **Pozn. ke chybějícím §§ 15 — 22 a Hlavě VI:** V účinném znění ZSZS aktuálně neexistují § 15 — § 22 ani Hlava VI. Jsou důsledkem postupných novelizací, které tyto pasáže (původně upravující předávání oznámení mezi orgány a evidenci na úrovni jednotlivých institucí) zrušily nebo přesunuly do § 14a a § 14b. Číslování zůstává historicky — z důvodu zachování stability odkazů z navazujících předpisů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan chce online nahlédnout do majetkových oznámení (a) ministra dopravy, (b) neuvolněného starosty malé obce a (c) okresního soudce. U ministra najde online prakticky vše kromě data narození a identifikace nemovitosti; u starosty omezený rozsah; u soudce systém přístup zcela odepře. Občan se domnívá, že má právo vidět u všech tří totéž. Účastníci: občan (nahlížející), tři funkcionáři různých kategorií, správce registru (MSp), případně Nejvyšší soud u soudce. Důkazy: kategorizace funkcionářů dle § 2, rozsah údajů zpřístupněných systémem, datum uplynutí oznamovací lhůty.
+
+**2. Právní otázka.** Liší se rozsah veřejně přístupných údajů podle kategorie funkcionáře a je u soudce přístup zcela vyloučen?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14b odst. 1 písm. a)—d) (čtyři kategorie rozsahu veřejných údajů — od „vše" u nejvyšších funkcionářů po úzký rozsah u § 2 odst. 2; vždy bez data/místa narození a identifikace nemovitosti), odst. 2 (úplná neveřejnost soudců, SZ, PČR, GIBS; vyloučení InfZ), odst. 3 (privilegovaný přístup přestupkových orgánů, soudů, OČTŘ a zpravodajských služeb).
+- *Související ustanovení téhož zákona:* § 12 (lhůty — přístup až prvním dnem po lhůtě), § 13 (žádostní režim), § 14 odst. 3 (zvláštní registr soudců), § 9—§ 11 (rozsah údajů).
+- *Související předpisy:* zákon č. 106/1999 Sb. (InfZ — vyloučen u kategorií dle odst. 2); GDPR (ochrana data narození a nemovitosti); nález ÚS Pl. ÚS 13/17.
+- *Judikatura:* NS 30 Cdo 1021/2022 (zveřejňování majetkových oznámení a vztah k nálezu Pl. ÚS 38/17); ÚS Pl. ÚS 13/17 (přiměřenost přístupu).
+
+**4. Subsumpce.** Ministr spadá do § 14b odst. 1 písm. a) — veřejné je vše dle § 9—§ 11 kromě data/místa narození a identifikace nemovitosti. Neuvolněný starosta malé obce dle § 2 odst. 1 písm. q) spadá do písm. c) — užší rozsah (činnosti, vybraný majetek, bez závazků). Soudce spadá pod odst. 2 — úplná neveřejnost, přístup vyloučen i dle InfZ. Rozsah se tedy liší podle kategorie; tvrzení občana o stejném rozsahu u všech tří je nesprávné.
+
+**5. Řešení.** Systém je nastaven správně: diferencovaný rozsah dle kategorie a úplné odepření u soudce. Občan má u ministra a starosty právo na zákonem vymezený rozsah (bez žádosti, online, po uplynutí lhůty); u soudce nemá právní nárok na žádné údaje. Praktický postup: ověřit kategorii funkcionáře dle § 2 a podle ní určit rozsah; u funkcionářů § 2 odst. 2 a u soudců posoudit i vyloučení InfZ. Privilegovaný přístup orgánů dle odst. 3 zůstává nedotčen.
+
+**6. Varianty.** (a) Kdyby šlo o nahlížení před uplynutím oznamovací lhůty (§ 12), přístup by ještě nebyl otevřen — § 14b váže počátek na „první den po lhůtě". (b) Kdyby do údajů nahlížel orgán činný v trestním řízení vyšetřující korupci, měl by dle odst. 3 plný přístup ke všem údajům včetně soudců.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Všichni veřejní funkcionáři mají stejnou míru transparence." Neutralizace: § 14b výslovně rozlišuje čtyři kategorie rozsahu a úplnou neveřejnost soudců/SZ/PČR/GIBS; míra transparence odpovídá pozici a ústavním hodnotám (nezávislost, bezpečnost).
+- *Protiargument 2:* „Identifikace nemovitosti a datum narození by měly být veřejné kvůli kontrole." Neutralizace: zákon je vyloučil z veřejného rozsahu z bezpečnostních a soukromoprávních důvodů (ochrana funkcionáře a rodiny); kontrolním orgánům jsou dostupné dle odst. 3.
+- *Slabé místo:* zařazení hraničních funkcí (např. neuvolnění členové rad statutárních měst) mezi písm. b) a c) je výkladově náročné; chybné určení kategorie vede k poskytnutí nesprávného rozsahu údajů.
+
+#### H. Praktický závěr
+
+§ 14b je vrcholovým transparenčním ustanovením: u nejvyšších funkcionářů (§ 2 odst. 1 písm. a—o) je online veřejné prakticky vše (bez data/místa narození a identifikace nemovitosti), u dalších kategorií užší rozsah, u soudců/SZ/PČR/GIBS úplná neveřejnost (vč. vyloučení InfZ). Přestupkové orgány, soudy, OČTŘ a zpravodajské služby mají plný přístup.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do které kategorie § 14b odst. 1 písm. a)—d) funkcionář spadá (určuje rozsah veřejných údajů)?
+- [ ] Nejde o soudce/SZ/PČR/GIBS (úplná neveřejnost a vyloučení InfZ — odst. 2)?
+- [ ] Uplynula již oznamovací lhůta (§ 12), od níž je přístup otevřen?
+- [ ] Jde o privilegovaný subjekt dle odst. 3 (plný přístup bez ohledu na omezení)?
+
+**Typicky rozhodné důkazy / podklady:** zařazení funkcionáře dle § 2, datum uplynutí oznamovací lhůty, rozsah údajů zpřístupněných registrem, případné rozhodnutí o odepření přístupu (soudci).
 
 ---
 
@@ -1025,6 +1708,42 @@ Toto pravidlo se vztahuje na přestupky § 23 odst. 1 písm. a — e a § 23 ods
 
 § 23 odst. 5 vyloučil **příkazní řízení** dle § 90 zákona č. 250/2016 Sb. — zjednodušený typ řízení, ve kterém správní orgán bez ústního jednání uloží sankci na základě spisového materiálu. ZSZS přestupky musí být projednány ve **standardním přestupkovém řízení** s ústním jednáním (princip kontradikce, právo obviněného být slyšen, dokazování). Důvod: závažnost a politická citlivost těchto věcí vyžaduje plné procesní záruky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ORP zahájí s uvolněným starostou přestupkové řízení pro nepodání majetkového oznámení (§ 23 odst. 1 písm. f). Aby věc rychle uzavřel, vydá ORP příkaz (bez ústního jednání) a uloží pokutu 20 000 Kč. Současně chce uložit „pouze napomenutí" za výkon neslučitelné činnosti (písm. a), o kterém se mezitím dozvěděl. Starosta podá odpor a namítá vady procesu. Účastníci: starosta (obviněný), ORP (správní orgán). Důkazy: výpis z registru (nepodání oznámení), doklady o neslučitelné činnosti, příkaz ORP.
+
+**2. Právní otázka.** Lze přestupky dle ZSZS projednat v příkazním řízení a lze za přestupek dle § 23 odst. 1 písm. a) uložit napomenutí, případně od trestu upustit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 1 (šest skutkových podstat funkcionářů, vč. výjimky pro soudce a SZ), odst. 2 (skutkové podstaty FO), odst. 3 (sazby pokut: 1—50 tis., 5—250 tis., 25—500 tis.), odst. 4 (zákaz napomenutí a upuštění u písm. a—e odst. 1 a písm. a, b odst. 2), odst. 5 (vyloučení příkazního řízení).
+- *Související ustanovení téhož zákona:* § 4, § 4a, § 5, § 6, § 8, § 9—§ 12 (odkazované povinnosti), § 25 (příslušnost — ORP/ÚOOÚ).
+- *Související předpisy:* zákon č. 250/2016 Sb., o odpovědnosti za přestupky — § 35 (napomenutí), § 43—§ 44 (upuštění/podmíněné upuštění), § 90 (příkaz), § 91 (příkaz na místě).
+- *Judikatura:* obecné zásady správního trestání — vyloučení zjednodušených forem řízení posiluje procesní záruky obviněného (právo být slyšen, kontradiktornost).
+
+**4. Subsumpce.** § 23 odst. 5 *vylučuje* příkazní řízení pro všechny přestupky dle odst. 1 a 2 — ORP tedy nesměl vydat příkaz; musí proběhnout standardní řízení s ústním jednáním. Za přestupek dle písm. a) (neslučitelná činnost) nelze dle odst. 4 uložit napomenutí ani upustit od trestu — pokutu v zákonné sazbě (5—250 tis. Kč) je nutno uložit obligatorně. Postup ORP (příkaz + zamýšlené napomenutí) je proto v obou bodech vadný.
+
+**5. Řešení.** Příkaz je nutno zrušit (odpor jej ze zákona ruší) a věc projednat v řádném řízení; napomenutí ani upuštění u písm. a) nepřipadá v úvahu — ORP musí uložit pokutu v rámci sazby. Praktický postup ORP: nařídit ústní jednání, provést dokazování, uložit pokutu odpovídající závažnosti; u méně závažných skutků (písm. d—f) je sazba 1—50 tis. Kč, u písm. a—c 5—250 tis. Kč. Obhajoba správně namítá procesní vady.
+
+**6. Varianty.** (a) Kdyby šlo o přestupek soudce nebo státního zástupce, § 23 odst. 1 jej vůbec nepostihuje (výjimka „§ 2 odst. 2 písm. f) nebo g)") — řešilo by se kárným/disciplinárním právem, nikoli přestupkově. (b) Kdyby šlo o přestupek dle § 23 odst. 2 písm. c) (sdělení hesla) — ten také nelze projednat příkazem, ale *napomenutí a upuštění zde nejsou zakázány* (odst. 4 se na písm. c, d nevztahuje).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Příkazní řízení je rychlé a hospodárné, pro bagatelní přestupek vhodné." Neutralizace: § 23 odst. 5 příkazní řízení výslovně vylučuje bez ohledu na bagatelnost; politická citlivost věcí vyžaduje plné procesní záruky.
+- *Protiargument 2:* „Postačí napomenutí, šlo o první pochybení." Neutralizace: u přestupků dle odst. 1 písm. a)—e) zákon napomenutí i upuštění od trestu výslovně zakazuje (odst. 4); sankce je obligatorní.
+- *Slabé místo:* obligatornost sankce a zákaz mírnějších forem snižuje prostor správního uvážení; u hraničně bagatelních skutků (drobné prodlení dle písm. f, kde upuštění zakázáno není) je třeba pečlivě rozlišovat, na který skutek se odst. 4 vztahuje.
+
+#### H. Praktický závěr
+
+§ 23 zakládá šest skutkových podstat funkcionářů a čtyři podstaty FO se třemi pásmy pokut. U nejzávažnějších přestupků (odst. 1 písm. a—e, odst. 2 písm. a, b) nelze uložit napomenutí ani upustit od trestu — sankce je obligatorní. Žádný přestupek dle ZSZS nelze projednat v příkazním řízení; vyžaduje se standardní řízení s ústním jednáním. Soudci a SZ stojí mimo (kárné právo).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je skutek podřaditelný pod konkrétní písmeno § 23 odst. 1 nebo 2 a jaká je sazba (odst. 3)?
+- [ ] Nejde o soudce/SZ (vyňati z odst. 1) — řešení kárným právem?
+- [ ] Probíhá řízení jako standardní (nikoli příkazní — odst. 5) s ústním jednáním?
+- [ ] U písm. a)—e) odst. 1 a písm. a), b) odst. 2: není uloženo napomenutí ani upuštěno od trestu (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o porušení odkazovaných povinností (§ 4—§ 12), výpis z registru, evidence lhůt, procesní dokumenty řízení (protokol o ústním jednání), podklady k určení výše pokuty.
+
 ### § 24 — Přestupky právnických a podnikajících fyzických osob
 
 > **§ 24**
@@ -1042,6 +1761,42 @@ Toto pravidlo se vztahuje na přestupky § 23 odst. 1 písm. a — e a § 23 ods
 § 24 zrcadlí § 23 odst. 2 písm. c) a d) pro **právnické a podnikající fyzické osoby** (např. mediální dům, marketingovou agenturu, datovou analytickou firmu). Pokud taková osoba získá přístup do CRO a sdělí heslo třetí osobě nebo zneužije data, dopouští se přestupku se sazbou 1 000 — 50 000 Kč.
 
 Konstrukčně je § 24 typickou **„zrcadlovou skutkovou podstatou"** — stejné jednání u FO i PO je sankcionováno samostatným ustanovením, neboť přestupkové právo PO má vlastní strukturu odpovědnosti (§ 20 — § 22 zákona č. 250/2016 Sb.).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Datová analytická společnost (s.r.o.) získá přístup do registru oznámení; její zaměstnanec sdělí přístupové heslo spřátelené PR agentuře, která z údajů vytvoří přehledy pro klienty. ÚOOÚ zahájí řízení proti s.r.o. Společnost namítá, že heslo sdělil jednotlivý zaměstnanec, nikoli ona, a že za přestupek má odpovídat fyzická osoba dle § 23, nikoli PO. Účastníci: s.r.o. (obviněná PO), zaměstnanec (FO), PR agentura (odběratel), ÚOOÚ. Důkazy: žádost o přístup a vydané heslo (na s.r.o.), log přístupů, komunikace o sdělení hesla, výstupy PR agentury.
+
+**2. Právní otázka.** Odpovídá za sdělení hesla a zneužití dat z registru právnická osoba dle § 24, nebo lze odpovědnost přenést výlučně na jednajícího zaměstnance dle § 23?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 1 písm. a) (PO/podnikající FO sdělí třetí osobě heslo) a písm. b) (zneužije údaje k jinému účelu), odst. 2 (pokuta 1 000—50 000 Kč).
+- *Související ustanovení téhož zákona:* § 13 odst. 5 (zákaz sdělit heslo), odst. 8 (účelové omezení), § 23 odst. 2 písm. c), d) (zrcadlové podstaty pro FO), § 25 odst. 1 (příslušnost ÚOOÚ).
+- *Související předpisy:* zákon č. 250/2016 Sb. — § 20—§ 22 (odpovědnost PO za přestupek, přičitatelnost jednání, liberace), § 21 (zproštění při vynaložení veškerého úsilí); GDPR (souběžná odpovědnost správce).
+- *Judikatura:* obecné zásady přičitatelnosti jednání zaměstnance právnické osobě dle přestupkového práva; liberace jen při prokázání veškerého rozumně požadovatelného úsilí.
+
+**4. Subsumpce.** Heslo bylo vydáno *společnosti* (žadateli); jednání zaměstnance, který heslo sdělil v rámci své činnosti, se PO *přičítá* dle § 22 zákona č. 250/2016 Sb. Sdělení hesla třetí osobě naplňuje § 24 odst. 1 písm. a); následné zneúčelové zpracování dat (PR přehledy pro klienty) naplňuje písm. b). Odpovědnost PO není vyloučena pouhým poukazem na konkrétního zaměstnance; PO se zprostí jen liberací (§ 21). Souběžně může jednající FO odpovídat dle § 23 odst. 2.
+
+**5. Řešení.** ÚOOÚ uloží s.r.o. pokutu dle § 24 odst. 2 (1 000—50 000 Kč), ledaže PO prokáže, že vynaložila veškeré úsilí, aby porušení zabránila (liberace dle § 21 — např. striktní interní pravidla, zákaz sdílení hesel, kontrola). Praktický postup ÚOOÚ: z žádosti a logu doložit, že heslo náleželo PO, a přičíst jednání zaměstnance; posoudit i souběh s GDPR. Obrana s.r.o. spočívá v doložení liberačních opatření, nikoli v prostém přenesení viny na zaměstnance.
+
+**6. Varianty.** (a) Kdyby heslo získala a sdělila *fyzická osoba* mimo rámec činnosti PO (soukromě), odpovídala by dle § 23 odst. 2 písm. c), nikoli PO dle § 24. (b) Kdyby PO prokázala robustní liberační opatření (písemný zákaz, technické zamezení sdílení, prokazatelné školení) a excesivní jednání zaměstnance, mohla by se odpovědnosti zprostit.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Heslo sdělil jeden zaměstnanec, společnost za to nemůže." Neutralizace: jednání zaměstnance v rámci činnosti PO se PO přičítá (§ 22 z. 250/2016 Sb.); zproštění je možné jen liberací, ne pouhým poukazem na pachatele-FO.
+- *Protiargument 2:* „Stejné jednání už řeší § 23 pro FO, dvojí postih je nepřípustný." Neutralizace: § 24 je samostatnou zrcadlovou podstatou pro PO; nejde o dvojí postih téhož subjektu — FO a PO jsou odlišní pachatelé s vlastní odpovědností.
+- *Slabé místo:* nízká sazba (do 50 000 Kč) je vůči ekonomicky silným PO málo odrazující; reálné těžiště postihu leží v GDPR. Prokázání/vyvrácení liberace bývá důkazně náročné.
+
+#### H. Praktický závěr
+
+§ 24 je zrcadlovou podstatou k § 23 odst. 2 písm. c), d) pro právnické a podnikající fyzické osoby: za sdělení hesla a zneužití dat z registru odpovídá PO, jíž se jednání zaměstnance přičítá; zprostit se lze jen liberací. Příslušný je ÚOOÚ. Souběžně hrozí postih dle GDPR.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo heslo/přístup vydán právnické (podnikající fyzické) osobě jako žadateli?
+- [ ] Jednal zaměstnanec v rámci činnosti PO (přičitatelnost dle § 22 z. 250/2016 Sb.)?
+- [ ] Prokázala PO liberační opatření (§ 21) — interní pravidla, technické zamezení, školení?
+- [ ] Je věc vedena u ÚOOÚ (§ 25 odst. 1) a posouzen souběh s GDPR?
+
+**Typicky rozhodné důkazy / podklady:** žádost o přístup a doklad o vydání hesla, logy přístupů, komunikace o sdělení hesla, výstupy zneužitého zpracování, interní směrnice a doklady o školení (liberace).
 
 ### § 25 — Společná ustanovení k přestupkům
 
@@ -1068,6 +1823,42 @@ Volba **ORP** namísto např. krajského úřadu odráží zásadu, že přestup
 
 Pokuty si **vybírá a vymáhá orgán, který je uložil** (ORP). Výjimkou je ÚOOÚ — pokuty uložené ÚOOÚ se vybírají dle obecných pravidel (jsou příjmem státního rozpočtu, vymáhá je celní úřad).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Starosta obce X (pobyt v obvodu ORP Y) nepodá majetkové oznámení. Přestupek má projednat ORP Y — jenže obec X spadá územně právě pod ORP Y a starosta je v regionu vlivnou osobou; vedoucí odboru ORP Y je navíc jeho stranický kolega. Hrozí podjatost. Současně jiný subjekt namítá, že přestupek (zneužití dat z registru) měl projednat ORP, nikoli ÚOOÚ. Účastníci: starosta (obviněný), ORP Y, nadřízený krajský úřad, ÚOOÚ. Důkazy: doklad o pobytu funkcionáře, evidence o nepodání oznámení, vztahy zakládající podjatost.
+
+**2. Právní otázka.** Který orgán je věcně a místně příslušný k projednání přestupku a jak se řeší riziko podjatosti ORP, jenž má rozhodovat o starostovi ze svého obvodu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 1 (věcná příslušnost: ORP dle pobytu funkcionáře pro § 23 odst. 1 a odst. 2 písm. a, b; ÚOOÚ pro § 23 odst. 2 písm. c, d a § 24 odst. 1), odst. 2 (vybírání a vymáhání pokut orgánem, který je uložil, s výjimkou ÚOOÚ).
+- *Související ustanovení téhož zákona:* § 23, § 24 (skutkové podstaty), § 13 odst. 7 (postoupení podnětu evidenčním orgánem).
+- *Související předpisy:* zákon č. 250/2016 Sb. — § 14 (delegace a atrakce příslušnosti), § 102 a násl.; zákon č. 500/2004 Sb., správní řád — § 14 (vyloučení úřední osoby pro podjatost); zákon č. 320/2002 Sb. (přenos působnosti).
+- *Judikatura:* k řešení podjatosti při rozhodování o místních funkcionářích se v praxi využívá delegace na jiný ORP; obecné zásady nestrannosti správního orgánu.
+
+**4. Subsumpce.** Nepodání oznámení je přestupek dle § 23 odst. 1 písm. f) → věcně příslušný ORP, místně dle pobytu starosty (ORP Y). Zneužití dat z registru je dle § 23 odst. 2 písm. d) / § 24 → příslušný *ÚOOÚ*, nikoli ORP — námitka o příslušnosti ORP je v této části nesprávná. Riziko podjatosti ORP Y se řeší vyloučením podjatých úředních osob (§ 14 spr. ř.) a institutem delegace na jiný ORP (§ 14 z. 250/2016 Sb.).
+
+**5. Řešení.** Přestupek pro nepodání oznámení projedná ORP příslušný dle pobytu; je-li dán důvod podjatosti, krajský úřad (nadřízený orgán) věc deleguje na jiný ORP. Pokutu vybírá a vymáhá orgán, který ji uložil (ORP). Přestupek zneužití dat projedná ÚOOÚ a jím uloženou pokutu vybírají obecná pravidla (státní rozpočet, vymáhá celní úřad). Praktický postup: ověřit pobyt funkcionáře (místní příslušnost), zkoumat podjatost a případně iniciovat delegaci.
+
+**6. Varianty.** (a) Kdyby šlo výlučně o sdělení hesla / zneužití dat (§ 23 odst. 2 písm. c, d), ORP by příslušný nebyl vůbec — celé řízení by vedl ÚOOÚ. (b) Kdyby funkcionář změnil pobyt do jiného obvodu, změnila by se i místní příslušnost ORP (dle stavu rozhodného pro zahájení řízení).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „ORP z téhož obvodu nemůže nestranně rozhodovat o místním starostovi." Neutralizace: nestrannost se zajišťuje vyloučením podjatých úředních osob (§ 14 spr. ř.) a delegací na jiný ORP (§ 14 z. 250/2016 Sb.); samotná místní příslušnost podjatost nezakládá.
+- *Protiargument 2:* „Všechny přestupky dle ZSZS má řešit jeden orgán." Neutralizace: § 25 odst. 1 příslušnost dělí — ORP pro výkonové přestupky funkcionářů, ÚOOÚ pro zneužití přístupu/dat; jde o záměrné rozdělení podle povahy chráněného zájmu.
+- *Slabé místo:* delegace prodlužuje řízení a může narazit na běh promlčecí doby; určení pobytu funkcionáře (vs. trvalého pobytu) bývá u některých skutků sporné a ovlivňuje místní příslušnost.
+
+#### H. Praktický závěr
+
+§ 25 dělí příslušnost: ORP (dle pobytu funkcionáře) projednává výkonové přestupky funkcionářů a cooling-off/výstupní oznámení; ÚOOÚ projednává zneužití přístupu a dat z registru. Pokuty vybírá a vymáhá orgán, který je uložil (kromě ÚOOÚ). Podjatost ORP vůči místnímu funkcionáři se řeší vyloučením úředních osob a delegací.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pod které písmeno § 23/§ 24 skutek spadá — určuje, zda je příslušný ORP, nebo ÚOOÚ?
+- [ ] U ORP: je dán pobyt funkcionáře v obvodu (místní příslušnost)?
+- [ ] Existuje důvod podjatosti — je namístě vyloučení úředních osob či delegace na jiný ORP?
+- [ ] Kdo pokutu vybírá a vymáhá (ORP sám / u ÚOOÚ obecná pravidla)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o pobytu funkcionáře, kvalifikace skutku dle § 23/§ 24, podklady k podjatosti, případné rozhodnutí o delegaci, doklad o uložení a vymáhání pokuty.
+
 ---
 
 ### HLAVA VIII — Přechodná ustanovení
@@ -1088,6 +1879,41 @@ Pokuty si **vybírá a vymáhá orgán, který je uložil** (ORP). Výjimkou je 
 - **odst. 2** — první oznámení dle ZSZS (za rok 2007) bylo třeba podat do **30. 6. 2008**.
 
 Toto ustanovení dnes nemá praktickou aplikovatelnost — všechny transitní lhůty dávno uplynuly.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V archivním sporu z roku 2008 starosta namítal, že jej nelze postihnout za výkon neslučitelné funkce, kterou zastával již před 1. 1. 2007, neboť přechodné ustanovení mu poskytovalo ochranu do konce funkčního období. Dnes se obdobná otázka může objevit již jen historicky — při posuzování zákonnosti dávného rozhodnutí. Účastníci: funkcionář ve funkci k 1. 1. 2007, evidenční orgán. Důkazy: doklad o trvání funkce/mandátu k datu účinnosti, datum konce funkčního období.
+
+**2. Právní otázka.** Vztahovala se na již zvoleného funkcionáře k 1. 1. 2007 přechodná ochrana podle § 26 odst. 1 věty druhé až do konce funkčního období?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 odst. 1 (povinnost ukončit neslučitelné činnosti do 3 měsíců od účinnosti; u již zvolených poslanců, senátorů a zastupitelů postup podle dosavadních předpisů do konce funkčního období), odst. 2 (první oznámení do 30. 6. 2008).
+- *Související ustanovení téhož zákona:* § 4—§ 6 (neslučitelnost), § 33 (účinnost 1. 1. 2007).
+- *Související předpisy:* zrušený zákon č. 238/1992 Sb. (dosavadní předpis); obecné zásady intertemporality (ochrana nabytých práv/mandátů).
+- *Judikatura:* obecné zásady přechodného práva — nová úprava neslučitelnosti se na již existující mandáty aplikuje až od dalšího funkčního období (ochrana legitimního očekávání).
+
+**4. Subsumpce.** Funkcionář zvolený před účinností spadá pod větu druhou § 26 odst. 1 — do konce funkčního období se posuzuje podle dosavadních předpisů. Nově nastoupivší (po 1. 1. 2007) měli 3 měsíce na ukončení neslučitelných činností. Dnes jsou všechny lhůty (3 měsíce i 30. 6. 2008) dávno marně uplynulé; ustanovení má jen historický význam.
+
+**5. Řešení.** Pro historické posouzení: ochrana již zvolených funkcionářů platila do konce jejich tehdejšího funkčního období; poté se plně uplatnil ZSZS. Pro současnost ustanovení nelze aplikovat — slouží toliko k pochopení režimu přechodu z let 2007—2008. Praktický postup: při revizi dávných rozhodnutí ověřit, zda osoba spadala pod přechodnou ochranu, jinak ustanovení pomíjet.
+
+**6. Varianty.** (a) Funkcionář nastoupivší až po účinnosti zákona pod ochranu věty druhé nespadal a musel činnosti ukončit do 3 měsíců. (b) U dnešních nástupů se uplatní výhradně standardní lhůty § 4 odst. 3 / § 4a odst. 2, nikoli přechodný režim § 26.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Přechodná ochrana platí stále, mandát je chráněn." Neutralizace: ochrana se vztahovala jen na funkční období probíhající k 1. 1. 2007; po jeho skončení režim pominul a dnes ustanovení nemá aplikovatelnost.
+- *Protiargument 2:* „Lze se dovolat dosavadních (mírnějších) předpisů." Neutralizace: dosavadní předpis (z. 238/1992 Sb.) byl zrušen a jeho přechodná použitelnost se vyčerpala uplynutím tehdejších funkčních období.
+- *Slabé místo:* ustanovení je obsoletní; jediné riziko vzniká při zpětném přezkumu velmi starých rozhodnutí, kde je nutné rekonstruovat tehdejší skutkový a časový stav.
+
+#### H. Praktický závěr
+
+§ 26 je dnes obsoletním přechodným ustanovením: nově nastoupivší funkcionáři měli po 1. 1. 2007 tři měsíce na ukončení neslučitelných činností, již zvolení požívali ochrany do konce funkčního období a první oznámení se podávalo do 30. 6. 2008. Pro současnou praxi se neaplikuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se věc období přechodu 2007—2008 (jinak je § 26 neaplikovatelný)?
+- [ ] Spadal funkcionář pod ochranu věty druhé (již zvolený k 1. 1. 2007)?
+- [ ] Pro současné nástupy: aplikují se standardní lhůty (§ 4 odst. 3, § 4a odst. 2), nikoli § 26?
+
+**Typicky rozhodné důkazy / podklady:** doklad o trvání funkce/mandátu k 1. 1. 2007, datum konce tehdejšího funkčního období, doklad o ukončení neslučitelných činností.
 
 ### § 26a — Archiv čestných prohlášení dle starého zákona
 
@@ -1112,6 +1938,42 @@ Toto ustanovení dnes nemá praktickou aplikovatelnost — všechny transitní l
 Občan má právo nahlížet po podání písemné žádosti s ověřením totožnosti. Lhůty pro tuto úschovu zákon nestanoví — fakticky platí obecné archivní lhůty pro materiály Parlamentu.
 
 Praktická aplikovatelnost dnes minimální — jde o historický archiv let 1992 — 2006.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Badatel (historik veřejné správy) chce nahlédnout do čestného prohlášení tehdejšího poslance podaného v roce 2005 podle starého zákona č. 238/1992 Sb. Podá písemnou žádost. Vyvstává otázka, který orgán archiv vede a v jakém rozsahu lze prohlášení zpřístupnit, zejména jde-li o prohlášení vedoucího ústředního správního úřadu. Účastníci: badatel (žadatel), mandátový a imunitní výbor příslušné komory Parlamentu. Důkazy: písemná žádost s identifikací žadatele, evidence prohlášení dle z. 238/1992 Sb.
+
+**2. Právní otázka.** Který orgán vede archiv čestných prohlášení podaných do 31. 12. 2006 a v jakém rozsahu lze do nich nahlížet, případně je zveřejnit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26a odst. 1 (evidenci vede mandátový a imunitní výbor — s křížovou příslušností: prohlášení senátorů spravuje výbor Sněmovny a naopak), odst. 2—4 (právo nahlížet po písemné žádosti a ověření totožnosti), odst. 5 (výpisy nemají charakter veřejných listin), odst. 6 (zveřejnitelnost s výjimkou vedoucích ústředních správních úřadů).
+- *Související ustanovení téhož zákona:* § 27 (zrušení z. 238/1992 Sb.), § 13—§ 14 (aktuální registr, který se na historický archiv nevztahuje).
+- *Související předpisy:* zrušený zákon č. 238/1992 Sb.; zákon č. 90/1995 Sb., o jednacím řádu PS; obecné archivní předpisy.
+- *Judikatura:* k historickým evidencím se uplatní pravidla platná v době jejich vedení; nové transparenční nástroje se zpětně neaplikují.
+
+**4. Subsumpce.** Prohlášení z roku 2005 spadá do archivu dle § 26a — vede jej mandátový a imunitní výbor *druhé* komory (křížová příslušnost). Badatel má právo nahlížet po písemné žádosti s ověřením totožnosti (odst. 2—4). Zveřejnit lze údaje s výjimkou prohlášení vedoucích ústředních správních úřadů (odst. 6); jde-li o poslance, zveřejnění je možné. Výpisy nemají charakter veřejných listin (odst. 5).
+
+**5. Řešení.** Žádost badatele je důvodná: výbor po ověření totožnosti umožní nahlédnutí a pořízení výpisů; u poslaneckého prohlášení je přípustné i zveřejnění. Praktický postup: směřovat žádost na mandátový a imunitní výbor správné (křížově příslušné) komory; respektovat omezení zveřejnění u vedoucích ústředních správních úřadů. Aktuální registr (CRO) se na tato historická prohlášení nevztahuje.
+
+**6. Varianty.** (a) Kdyby šlo o prohlášení vedoucího ústředního správního úřadu, údaje by nebylo možné *zveřejnit* (odst. 6), byť nahlédnutí po žádosti by zůstalo přípustné. (b) Kdyby žadatel neprokázal totožnost dle odst. 4, nahlédnutí by nebylo možné umožnit.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Archiv musí spravovat Ministerstvo spravedlnosti jako u dnešního registru." Neutralizace: § 26a výslovně svěřuje historický archiv mandátovým a imunitním výborům Parlamentu (s křížovou příslušností), nikoli MSp; jde o samostatný režim.
+- *Protiargument 2:* „Všechna historická prohlášení lze volně zveřejnit." Neutralizace: odst. 6 výslovně vyjímá prohlášení vedoucích ústředních správních úřadů ze zveřejnitelnosti.
+- *Slabé místo:* ustanovení je převážně historické; nejasnost může vzniknout u dohledání správného výboru (křížová příslušnost) a u archivních lhůt, které ZSZS výslovně nestanoví (uplatní se obecné archivní předpisy Parlamentu).
+
+#### H. Praktický závěr
+
+§ 26a upravuje historický archiv čestných prohlášení podaných do 31. 12. 2006 dle zrušeného z. 238/1992 Sb.: vedou jej mandátové a imunitní výbory komor Parlamentu (křížově), nahlížení je možné po písemné žádosti s ověřením totožnosti, výpisy nejsou veřejnými listinami a zveřejnění je vyloučeno u vedoucích ústředních správních úřadů. Aktuální registr se neuplatní.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o prohlášení podané do 31. 12. 2006 dle z. 238/1992 Sb. (historický archiv)?
+- [ ] Je žádost směřována na správný (křížově příslušný) mandátový a imunitní výbor?
+- [ ] Byla ověřena totožnost žadatele dle odst. 4?
+- [ ] Nejde o prohlášení vedoucího ústředního správního úřadu (vyloučení zveřejnění dle odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost s identifikací žadatele, evidence prohlášení u příslušného výboru, doklad o ověření totožnosti, určení kategorie funkcionáře (pro režim zveřejnění).
 
 ---
 
@@ -1138,6 +2000,41 @@ Praktická aplikovatelnost dnes minimální — jde o historický archiv let 199
 3. **Zákon č. 228/1997 Sb.** — další novela starého zákona.
 
 Tímto ZSZS dovršil **konsolidaci právní úpravy** střetu zájmů do jediného předpisu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V řízení v roce 2007 se účastník dovolával ustanovení zrušeného zákona č. 238/1992 Sb. (mírnější úprava neslučitelnosti), ač již nabyl účinnosti ZSZS. Správní orgán musel posoudit, zda starý zákon ještě aplikovat. Dnes obdobná otázka vzniká jen při historickém přezkumu. Účastníci: funkcionář, evidenční orgán/soud. Důkazy: znění zrušených předpisů, datum účinnosti ZSZS, přechodná ustanovení (§ 26).
+
+**2. Právní otázka.** Lze po 1. 1. 2007 aplikovat zrušený zákon č. 238/1992 Sb. (a jeho novely č. 287/1995 Sb. a č. 228/1997 Sb.), nebo byly zcela nahrazeny ZSZS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 (zrušení zákona č. 238/1992 Sb. a novel č. 287/1995 Sb. a č. 228/1997 Sb.).
+- *Související ustanovení téhož zákona:* § 26 a § 26a (přechodný režim a archiv k zrušenému zákonu), § 33 (účinnost).
+- *Související předpisy:* zrušené předpisy (238/1992, 287/1995, 228/1997); obecné zásady derogace a intertemporality.
+- *Judikatura:* zásada lex posterior derogat priori; zrušený předpis lze aplikovat jen v rozsahu výslovného přechodného ustanovení.
+
+**4. Subsumpce.** § 27 zrušil starý zákon i jeho novely ke dni účinnosti ZSZS (1. 1. 2007). Po tomto datu se zrušené předpisy aplikují pouze v mezích výslovných přechodných ustanovení (§ 26 — ochrana již zvolených funkcionářů do konce funkčního období; § 26a — archiv prohlášení). Mimo tyto výjimky se uplatní výhradně ZSZS. Dovolávat se mírnější úpravy zrušeného zákona po skončení přechodného režimu nelze.
+
+**5. Řešení.** Po 1. 1. 2007 platí ZSZS; zrušené předpisy zůstaly relevantní jen pro přechodné situace dle § 26 a pro historický archiv dle § 26a. Pro současnost je § 27 vyčerpaným derogačním ustanovením bez samostatné aplikace. Praktický postup: ověřit, zda věc nespadá pod přechodný režim; jinak aplikovat výlučně ZSZS.
+
+**6. Varianty.** (a) U funkcionáře chráněného § 26 odst. 1 větou druhou se do konce tehdejšího funkčního období postupovalo podle zrušeného předpisu. (b) Při dohledání starého čestného prohlášení se uplatní archivní režim § 26a, nikoli derogační § 27.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Zrušený zákon byl mírnější, lze se jej dovolat." Neutralizace: § 27 jej zrušil; aplikovatelný je jen v rozsahu výslovných přechodných ustanovení (§ 26, § 26a), jinak nikoli.
+- *Protiargument 2:* „Derogace nebyla úplná, některé části přežily." Neutralizace: § 27 zrušil zákon i obě jeho novely v celém rozsahu; žádná část nezůstala v platnosti mimo přechodný režim.
+- *Slabé místo:* § 27 je čistě legislativně-technické a obsoletní ustanovení; jeho jediný význam dnes je interpretační (pochopení konsolidace) a při historickém přezkumu.
+
+#### H. Praktický závěr
+
+§ 27 zrušil zákon č. 238/1992 Sb. a jeho novely a dovršil konsolidaci úpravy střetu zájmů do ZSZS. Po 1. 1. 2007 se zrušené předpisy aplikují jen v rámci přechodných ustanovení (§ 26, § 26a); jinak platí výlučně ZSZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá věc pod přechodná ustanovení (§ 26/§ 26a), jež jediná umožňují dosah zrušených předpisů?
+- [ ] Není po skončení přechodného režimu aplikován výlučně ZSZS?
+- [ ] Jde o historický přezkum, kde je nutné rekonstruovat tehdejší právní stav?
+
+**Typicky rozhodné důkazy / podklady:** znění zrušených předpisů a ZSZS, datum účinnosti (1. 1. 2007), doklady k případnému přechodnému režimu funkcionáře.
 
 ---
 
@@ -1170,6 +2067,42 @@ Tímto ZSZS dovršil **konsolidaci právní úpravy** střetu zájmů do jediné
 
 Praktický význam: žaloba proti rozhodnutí o přestupku dle ZSZS se podává u krajského soudu příslušného bydlištěm funkcionáře (nikoliv např. dle sídla ORP, který přestupek projednal).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Starostovi s bydlištěm v obvodu Krajského soudu v Brně uloží pokutu za přestupek dle ZSZS ORP se sídlem v obvodu jiného kraje (přestupek byl delegován). Starosta podává správní žalobu — vyvstává otázka, který krajský soud je místně příslušný. Žalobu omylem podá u soudu podle sídla ORP. Účastníci: starosta (žalobce), ORP (žalovaný), krajské soudy. Důkazy: doklad o bydlišti žalobce, napadené rozhodnutí o přestupku.
+
+**2. Právní otázka.** Který krajský soud je ve věci porušení povinnosti veřejného funkcionáře místně příslušný — podle bydliště funkcionáře, nebo podle sídla správního orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 ZSZS (novela SŘS — doplnění § 4 odst. 2 písm. e) SŘS o věci porušení povinnosti veřejných funkcionářů; § 7 odst. 5 SŘS — místní příslušnost krajského soudu dle bydliště, příp. místa pobytu funkcionáře).
+- *Související ustanovení téhož zákona:* § 23—§ 25 (přestupky a příslušnost správních orgánů), § 32 (soudní poplatky v těchto věcech).
+- *Související předpisy:* zákon č. 150/2002 Sb., soudní řád správní (SŘS) — § 4, § 7, § 65 a násl. (žaloba proti rozhodnutí správního orgánu); zákon č. 250/2016 Sb.
+- *Judikatura:* k aplikaci zvláštního pravidla místní příslušnosti — speciální úprava (§ 7 odst. 5 SŘS) má přednost před obecnou (sídlo správního orgánu).
+
+**4. Subsumpce.** Věc je „věcí porušení povinnosti veřejných funkcionářů" dle § 4 odst. 2 písm. e) SŘS; uplatní se zvláštní pravidlo § 7 odst. 5 SŘS — příslušný je krajský soud podle *bydliště* funkcionáře (Brno), nikoli podle sídla ORP. Žaloba podaná u soudu podle sídla ORP je podána u místně nepříslušného soudu; ten ji postoupí příslušnému krajskému soudu.
+
+**5. Řešení.** Místně příslušný je Krajský soud v Brně (bydliště žalobce). Podání u nepříslušného soudu se neodmítá pro nepříslušnost, nýbrž se postupuje příslušnému soudu. Praktický postup: žalobu směřovat ke krajskému soudu dle bydliště funkcionáře; ověřit bydliště ke dni podání. Lhůta pro žalobu zůstává zachována i při postoupení.
+
+**6. Varianty.** (a) Kdyby funkcionář neměl v ČR bydliště, určila by se příslušnost dle místa, kde se zdržuje (§ 7 odst. 5 SŘS in fine). (b) Kdyby šlo o žalobu nikoli proti rozhodnutí o přestupku, ale o jiný typ správní žaloby, je třeba zkoumat, zda vůbec spadá pod kategorii dle § 4 odst. 2 písm. e) SŘS.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Místně příslušný je soud podle sídla správního orgánu (obecné pravidlo SŘS)." Neutralizace: § 28 ZSZS zavedl do § 7 odst. 5 SŘS zvláštní pravidlo navázané na bydliště funkcionáře, jež má jako lex specialis přednost.
+- *Protiargument 2:* „Podání u nepříslušného soudu znamená zmeškání lhůty." Neutralizace: nepříslušný soud věc postupuje příslušnému; lhůta je zachována podáním u soudu, není důvod k odmítnutí pro opožděnost.
+- *Slabé místo:* určení „bydliště" (vs. trvalého pobytu) může být sporné u funkcionářů s více adresami; nesprávné určení vede k postoupení a prodloužení řízení.
+
+#### H. Praktický závěr
+
+§ 28 zařadil věci porušení povinnosti veřejných funkcionářů do správního soudnictví a stanovil zvláštní místní příslušnost krajského soudu podle bydliště (či místa pobytu) funkcionáře. Žaloba proti rozhodnutí o přestupku dle ZSZS se proto podává podle bydliště funkcionáře, nikoli podle sídla správního orgánu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o věc porušení povinnosti veřejného funkcionáře dle § 4 odst. 2 písm. e) SŘS?
+- [ ] Je žaloba podána u krajského soudu dle bydliště (či místa pobytu) funkcionáře (§ 7 odst. 5 SŘS)?
+- [ ] Bylo ověřeno bydliště funkcionáře ke dni podání žaloby?
+- [ ] Při podání u nepříslušného soudu — došlo k postoupení (lhůta zachována)?
+
+**Typicky rozhodné důkazy / podklady:** napadené rozhodnutí o přestupku, doklad o bydlišti/pobytu funkcionáře, doklad o včasnosti žaloby, případné usnesení o postoupení.
+
 ---
 
 ## ČÁST TŘETÍ — Změna zákona o bankách
@@ -1197,6 +2130,42 @@ Praktický význam: žaloba proti rozhodnutí o přestupku dle ZSZS se podává 
 
 Druhá změna v § 38 odst. 5 ZoB pak zajistila, že informace poskytnuté podle nového písm. k) **nepodléhají souhlasu klienta** — orgány je dostávají z moci úřední.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ORP vede s funkcionářem řízení pro podezření z nepravdivého oznámení o závazcích (§ 23 odst. 1 písm. e); funkcionář zatajil úvěr. ORP požádá banku o potvrzení existence a výše úvěru. Banka odmítne s odkazem na bankovní tajemství a vyžaduje souhlas klienta. Účastníci: ORP (orgán příslušný k projednání přestupku), banka, funkcionář. Důkazy: žádost ORP, úvěrová smlouva u banky, oznámení funkcionáře v registru.
+
+**2. Právní otázka.** Je banka povinna poskytnout ORP údaje o úvěru funkcionáře i bez jeho souhlasu, prolomil-li § 29 ZSZS bankovní tajemství?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 ZSZS (novela zákona o bankách — doplnění § 38 odst. 3 písm. k) ZoB: informační povinnost banky vůči orgánu příslušnému rozhodovat o porušení povinnosti veřejných funkcionářů; změna § 38 odst. 5 ZoB — bez souhlasu klienta).
+- *Související ustanovení téhož zákona:* § 11 (oznámení o závazcích — úvěry), § 13 odst. 7 (křížové ověřování), § 23 odst. 1 písm. e) (nepravdivé údaje), § 25 (příslušnost ORP).
+- *Související předpisy:* zákon č. 21/1992 Sb., o bankách — § 38 (bankovní tajemství a jeho průlomy); zákon č. 30/2008 Sb. a navazující předpisy o dohledu.
+- *Judikatura:* k průlomům bankovního tajemství — poskytnutí informací oprávněnému orgánu na zákonném základě nevyžaduje souhlas klienta.
+
+**4. Subsumpce.** ORP je „orgánem příslušným rozhodovat o porušení povinnosti veřejných funkcionářů" dle § 38 odst. 3 písm. k) ZoB. Banka je proto povinna mu údaje o úvěru poskytnout; změna § 38 odst. 5 ZoB výslovně vylučuje potřebu souhlasu klienta. Odmítnutí banky s odkazem na bankovní tajemství je proto neoprávněné — tajemství je vůči ORP zákonem prolomeno.
+
+**5. Řešení.** Banka musí ORP požadované údaje poskytnout bez souhlasu funkcionáře; jinak porušuje svou zákonnou povinnost. ORP tím ověří pravdivost oznámení o závazcích a doloží případné zatajení úvěru. Praktický postup: žádost ORP formulovat s odkazem na § 38 odst. 3 písm. k) ZoB ve spojení s § 29 ZSZS; banka poskytne údaje z moci úřední.
+
+**6. Varianty.** (a) Kdyby o údaje žádal subjekt, který není orgánem příslušným rozhodovat o porušení povinností funkcionářů (např. soukromá osoba), průlom by se neuplatnil a banka by údaje poskytnout nesměla. (b) Kdyby šlo o údaje o cenných papírech u obchodníka s CP, uplatnil by se obdobný průlom dle § 30 ZSZS (novela ZPKT), nikoli § 29.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Bankovní tajemství brání poskytnutí bez souhlasu klienta." Neutralizace: § 38 odst. 3 písm. k) a odst. 5 ZoB (vložené § 29 ZSZS) tajemství vůči oprávněnému orgánu prolomily a souhlas klienta výslovně nevyžadují.
+- *Protiargument 2:* „Bez souhlasu funkcionáře jde o nezákonný zásah do soukromí." Neutralizace: zásah má zákonný podklad a legitimní cíl (kontrola pravdivosti majetkových oznámení); je omezen na rozsah potřebný pro řízení o přestupku.
+- *Slabé místo:* rozsah poskytovaných údajů musí být přiměřený účelu řízení; nadměrné dotazy nad rámec ověření konkrétního závazku by mohly být napadnutelné.
+
+#### H. Praktický závěr
+
+§ 29 prolomil bankovní tajemství vůči orgánům příslušným rozhodovat o porušení povinností veřejných funkcionářů (typicky ORP a ÚOOÚ) a vyloučil potřebu souhlasu klienta. Bez tohoto průlomu by nebylo možné ověřit pravdivost oznámení o závazcích dle § 11.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Žádá o údaje orgán příslušný rozhodovat o porušení povinností funkcionářů (§ 38 odst. 3 písm. k) ZoB)?
+- [ ] Je rozsah požadovaných údajů přiměřený účelu řízení o přestupku?
+- [ ] Poskytla banka údaje bez souhlasu klienta (§ 38 odst. 5 ZoB)?
+- [ ] Jde o bankovní údaje (ZoB), nebo o údaje kapitálového trhu (§ 30 ZSZS — ZPKT)?
+
+**Typicky rozhodné důkazy / podklady:** žádost orgánu s právním základem, potvrzení banky o existenci a výši závazku, úvěrová smlouva, srovnání s oznámením funkcionáře v registru.
+
 ---
 
 ## ČÁST ČTVRTÁ — Změna zákona o podnikání na kapitálovém trhu
@@ -1215,6 +2184,42 @@ Druhá změna v § 38 odst. 5 ZoB pak zajistila, že informace poskytnuté podle
 
 § 30 zrcadlí § 29 pro **obchodníky s cennými papíry a další subjekty kapitálového trhu**. Doplněním § 115 ZPKT byla prolomena povinnost mlčenlivosti dle ZPKT vůči orgánům projednávajícím přestupky dle ZSZS — zejména pro účely ověření údajů o cenných papírech a investicích funkcionářů dle § 10 odst. 2 písm. b) ZSZS.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ORP prověřuje, zda funkcionář pravdivě uvedl v oznámení o majetku cenné papíry. Z náznaků vyplývá, že drží rozsáhlé portfolio akcií u obchodníka s cennými papíry, které v oznámení neuvedl. ORP požádá obchodníka o přehled cenných papírů funkcionáře; obchodník odmítne s odkazem na mlčenlivost dle ZPKT. Účastníci: ORP, obchodník s cennými papíry, funkcionář. Důkazy: žádost ORP, evidence cenných papírů u obchodníka, oznámení o majetku v registru.
+
+**2. Právní otázka.** Je obchodník s cennými papíry povinen poskytnout ORP údaje o cenných papírech funkcionáře i přes povinnost mlčenlivosti dle ZPKT, prolomil-li ji § 30 ZSZS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 ZSZS (novela ZPKT — doplnění § 115 odst. 1 písm. k) ZPKT: informační povinnost vůči orgánu příslušnému rozhodovat o porušení povinnosti veřejných funkcionářů).
+- *Související ustanovení téhož zákona:* § 10 odst. 2 písm. b) (oznámení cenných papírů a zaknihovaných CP), § 13 odst. 7 (křížové ověřování), § 23 odst. 1 písm. e) (nepravdivé údaje), § 29 (paralelní průlom u bank).
+- *Související předpisy:* zákon č. 256/2004 Sb., o podnikání na kapitálovém trhu (ZPKT) — § 115 (mlčenlivost a její průlomy); zákon č. 89/2012 Sb. (cenné papíry); evidence zaknihovaných CP (centrální depozitář).
+- *Judikatura:* k průlomům profesní mlčenlivosti — poskytnutí informací oprávněnému orgánu na zákonném základě je dovolené a souhlas dotčené osoby nevyžaduje.
+
+**4. Subsumpce.** ORP je orgánem příslušným rozhodovat o porušení povinnosti veřejných funkcionářů dle § 115 odst. 1 písm. k) ZPKT. Obchodník je proto povinen poskytnout údaje o cenných papírech funkcionáře; mlčenlivost je vůči ORP zákonem prolomena. Odmítnutí obchodníka je neoprávněné. Získané údaje umožní porovnat skutečný stav s oznámením o majetku (§ 10 odst. 2 písm. b) a doložit případné zatajení.
+
+**5. Řešení.** Obchodník musí ORP požadované údaje poskytnout; jejich porovnáním s oznámením ORP ověří pravdivost a případně doloží přestupek dle § 23 odst. 1 písm. e). Praktický postup: žádost ORP opřít o § 115 odst. 1 písm. k) ZPKT ve spojení s § 30 ZSZS; pro zaknihované cenné papíry lze čerpat i z evidence centrálního depozitáře.
+
+**6. Varianty.** (a) Kdyby o údaje žádal subjekt bez postavení orgánu příslušného rozhodovat o porušení povinností funkcionářů, průlom by se neuplatnil a obchodník by údaje poskytnout nesměl. (b) Kdyby šlo o peněžní úvěr u banky (nikoli o cenné papíry), uplatnil by se průlom dle § 29 ZSZS (ZoB), nikoli § 30.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Mlčenlivost dle ZPKT brání poskytnutí údajů o klientovi." Neutralizace: § 115 odst. 1 písm. k) ZPKT (vložené § 30 ZSZS) mlčenlivost vůči oprávněnému orgánu prolomil; jde o zákonný průlom.
+- *Protiargument 2:* „Poskytnutí bez souhlasu klienta zasahuje do jeho práv." Neutralizace: zásah má zákonný podklad a legitimní cíl (ověření pravdivosti majetkových oznámení); je omezen na rozsah potřebný pro řízení.
+- *Slabé místo:* rozsah dotazu musí být přiměřený; širší zjišťování investiční historie nad rámec ověření konkrétního oznámení by mohlo být napadnutelné jako excesivní.
+
+#### H. Praktický závěr
+
+§ 30 zrcadlí § 29 pro kapitálový trh: prolomil mlčenlivost obchodníků s cennými papíry vůči orgánům příslušným rozhodovat o porušení povinností veřejných funkcionářů. Umožňuje ověřit pravdivost oznámení o cenných papírech dle § 10 odst. 2 písm. b); pro peněžní závazky slouží paralelně § 29 (banky).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Žádá o údaje orgán příslušný rozhodovat o porušení povinností funkcionářů (§ 115 odst. 1 písm. k) ZPKT)?
+- [ ] Týká se dotaz cenných papírů / zaknihovaných CP (ZPKT), nebo bankovních údajů (§ 29 — ZoB)?
+- [ ] Je rozsah požadovaných údajů přiměřený účelu řízení?
+- [ ] Lze využít i evidenci centrálního depozitáře pro zaknihované CP?
+
+**Typicky rozhodné důkazy / podklady:** žádost orgánu s právním základem, přehled cenných papírů od obchodníka/depozitáře, oznámení o majetku v registru, srovnání skutečného a oznámeného stavu.
+
 ---
 
 ## ČÁST PÁTÁ — Změna zákona č. 15/2002 Sb.
@@ -1228,6 +2233,41 @@ Druhá změna v § 38 odst. 5 ZoB pak zajistila, že informace poskytnuté podle
 **Výklad:**
 
 § 31 zrušil část první z. 15/2002 Sb. — již nepoužitelnou novelu starého zákona o střetu zájmů (238/1992 Sb.), který byl sám zrušen § 27 ZSZS. Ustanovení je legislativně-technické povahy a slouží k čistotě právního řádu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Při rešerši účinného práva narazí praktik na zákon č. 15/2002 Sb. a klade si otázku, zda jeho část první (novelizující zrušený zákon o střetu zájmů č. 238/1992 Sb.) ještě platí a lze z ní něco dovozovat. Účastníci: praktik/aplikační orgán. Důkazy: znění z. 15/2002 Sb., derogační ustanovení § 31 ZSZS.
+
+**2. Právní otázka.** Je část první zákona č. 15/2002 Sb. po účinnosti ZSZS platná, nebo byla zrušena?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 ZSZS (zrušení části první zákona č. 15/2002 Sb.).
+- *Související ustanovení téhož zákona:* § 27 (zrušení samotného z. 238/1992 Sb.), § 33 (účinnost).
+- *Související předpisy:* zákon č. 15/2002 Sb. (jeho část první novelizovala zrušený z. 238/1992 Sb.); zásady derogace a legislativní techniky.
+- *Judikatura:* zásada, že novelizační ustanovení pozbývají samostatného významu zrušením novelizovaného předpisu; derogace odstraňuje obsoletní normy z právního řádu.
+
+**4. Subsumpce.** Část první z. 15/2002 Sb. novelizovala z. 238/1992 Sb., který § 27 ZSZS zrušil; bez zrušení části první by v právním řádu zůstala „viset" novela bez předmětu. § 31 ji proto zrušil. Jde o čistě legislativně-technické ustanovení bez vlastního normativního obsahu pro adresáty.
+
+**5. Řešení.** Část první z. 15/2002 Sb. je zrušena a nelze z ní nic dovozovat; § 31 plní pouze funkci úklidu právního řádu. Praktický postup: při rešerši část první z. 15/2002 Sb. pominout jako zrušenou; aplikovat výlučně ZSZS.
+
+**6. Varianty.** (a) Zbývající části z. 15/2002 Sb. (novelizující jiné předpisy) mohly zůstat v platnosti — § 31 zrušil pouze část první. (b) Pro pochopení historického vývoje úpravy střetu zájmů má ustanovení jen dokumentační hodnotu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Z. 15/2002 Sb. je stále v Sbírce, tedy platí." Neutralizace: výskyt v Sbírce neznamená platnost zrušené části; § 31 část první výslovně zrušil.
+- *Protiargument 2:* „Z novely lze dovodit výkladová vodítka." Neutralizace: novela bez předmětu (zrušený z. 238/1992 Sb.) nemá normativní obsah; výkladově je bezcenná.
+- *Slabé místo:* ustanovení je obsoletní a bezvýznamné pro praxi; jediné riziko je matoucí výskyt zrušeného předpisu v neaktualizovaných databázích.
+
+#### H. Praktický závěr
+
+§ 31 je legislativně-technické derogační ustanovení: zrušil část první zákona č. 15/2002 Sb., jež novelizovala již zrušený zákon o střetu zájmů č. 238/1992 Sb. Pro praxi nemá normativní význam; aplikuje se výlučně ZSZS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je část první z. 15/2002 Sb. brána jako zrušená (nikoli aplikovaná)?
+- [ ] Aplikuje se ve věci střetu zájmů výlučně ZSZS?
+- [ ] Nezaměňuje se zrušená část první s případně platnými dalšími částmi z. 15/2002 Sb.?
+
+**Typicky rozhodné důkazy / podklady:** znění § 31 ZSZS, znění a stav účinnosti z. 15/2002 Sb., přehled derogací v ZSZS (§ 27, § 31).
 
 ---
 
@@ -1256,6 +2296,42 @@ Druhá změna v § 38 odst. 5 ZoB pak zajistila, že informace poskytnuté podle
 1. **Osvobození evidenčního orgánu** — pokud evidenční orgán (MSp nebo Nejvyšší soud) inicializuje soudní řízení (typicky žaloba pro výkon povinnosti), je od soudního poplatku osvobozen. To koresponduje s obecnou logikou osvobozování státu od poplatků za výkon veřejné moci.
 2. **Sazba 5 000 Kč** pro spor o porušení povinnosti veřejných funkcionářů — pevná sazba zařazená do Sazebníku poplatků (příloha k z. 549/1991 Sb.). Slouží jako filtr proti šikanózním žalobám, ale zároveň zachovává finanční dostupnost soudní ochrany.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Evidenční orgán (Ministerstvo spravedlnosti) iniciuje soudní řízení ve věci porušení povinnosti veřejného funkcionáře. Soud po něm vyměří soudní poplatek 5 000 Kč. Evidenční orgán namítá, že je od poplatku osvobozen. V jiné věci podává návrh soukromá osoba a zvažuje výši poplatku. Účastníci: evidenční orgán (navrhovatel), soukromý navrhovatel, soud. Důkazy: návrh na zahájení řízení, postavení navrhovatele (evidenční orgán vs. soukromá osoba).
+
+**2. Právní otázka.** Je evidenční orgán osvobozen od soudního poplatku v řízení ve věci porušení povinnosti veřejných funkcionářů a jaká je sazba poplatku v těchto věcech?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 ZSZS (novela zákona o soudních poplatcích — § 11 odst. 2 písm. s) ZSP: osvobození navrhovatele-evidenčního orgánu; položka 14a bod 2 písm. d) Sazebníku: poplatek 5 000 Kč ve věci porušení povinnosti veřejných funkcionářů).
+- *Související ustanovení téhož zákona:* § 14 (evidenční orgán), § 28 (příslušnost krajského soudu dle bydliště), § 23—§ 25 (přestupky).
+- *Související předpisy:* zákon č. 549/1991 Sb., o soudních poplatcích (ZSP) — § 11 (osvobození), Sazebník (příloha); zákon č. 150/2002 Sb., SŘS.
+- *Judikatura:* obecná zásada osvobození státu/veřejných orgánů od poplatků za výkon veřejné moci; poplatková povinnost soukromých navrhovatelů jako filtr proti šikanózním návrhům.
+
+**4. Subsumpce.** Je-li navrhovatelem evidenční orgán (MSp nebo Nejvyšší soud), uplatní se osobní osvobození dle § 11 odst. 2 písm. s) ZSP — poplatek se nevyměřuje. Vyměření 5 000 Kč evidenčnímu orgánu je proto nesprávné. Je-li navrhovatelem soukromá osoba bez osvobození, činí poplatek dle položky 14a bodu 2 písm. d) Sazebníku 5 000 Kč.
+
+**5. Řešení.** Soud osvobození evidenčního orgánu zohlední z úřední povinnosti; výzva k zaplacení 5 000 Kč vůči evidenčnímu orgánu je vadná a poplatek se nevyměří. Soukromý navrhovatel uhradí 5 000 Kč. Praktický postup: evidenční orgán v návrhu označit postavení zakládající osvobození; soukromý navrhovatel počítá s poplatkem 5 000 Kč.
+
+**6. Varianty.** (a) Kdyby evidenční orgán nebyl navrhovatelem, nýbrž jiným účastníkem, osvobození dle písm. s) by se na něj v této roli nemuselo vztahovat. (b) Kdyby šlo o jiný typ řízení (nikoli o porušení povinnosti veřejných funkcionářů), uplatnila by se odlišná položka Sazebníku, nikoli pevných 5 000 Kč.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Poplatek 5 000 Kč musí hradit každý navrhovatel včetně evidenčního orgánu." Neutralizace: § 11 odst. 2 písm. s) ZSP evidenční orgán jako navrhovatele výslovně osvobozuje; sazba 5 000 Kč dopadá na neosvobozené navrhovatele.
+- *Protiargument 2:* „Pevná sazba 5 000 Kč brání přístupu k soudu." Neutralizace: jde o přiměřenou pevnou sazbu fungující jako filtr proti šikanózním návrhům; při nemajetnosti lze žádat o individuální osvobození dle obecných pravidel ZSP/SŘS.
+- *Slabé místo:* osvobození se váže na postavení *navrhovatele*-evidenčního orgánu; v jiných procesních rolích nebo u jiných typů řízení je jeho dosah omezený a je třeba zkoumat konkrétní položku Sazebníku.
+
+#### H. Praktický závěr
+
+§ 32 zavedl ve věcech porušení povinnosti veřejných funkcionářů osvobození evidenčního orgánu od soudního poplatku (§ 11 odst. 2 písm. s) ZSP) a pevnou sazbu 5 000 Kč pro ostatní navrhovatele. Sazba funguje jako filtr proti šikanózním návrhům při zachování dostupnosti soudní ochrany.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je navrhovatelem evidenční orgán (MSp/NS) — pak je osvobozen dle § 11 odst. 2 písm. s) ZSP?
+- [ ] U soukromého navrhovatele: je uhrazen poplatek 5 000 Kč dle položky 14a bodu 2 písm. d)?
+- [ ] Jde skutečně o věc porušení povinnosti veřejných funkcionářů (jinak jiná položka Sazebníku)?
+- [ ] Je u nemajetného navrhovatele zvážena žádost o individuální osvobození?
+
+**Typicky rozhodné důkazy / podklady:** návrh na zahájení řízení, doklad o postavení navrhovatele (evidenční orgán), výzva k zaplacení poplatku, případná žádost o osvobození.
+
 ---
 
 ## ČÁST SEDMÁ — Účinnost
@@ -1282,6 +2358,42 @@ Pozdější významné novely (mimo jiné):
 - **z. 261/2021 Sb.** — digitalizace.
 
 Konsolidované znění k 1. 7. 2025 odráží stav po všech těchto novelách.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spor se týká jednání funkcionáře z roku 2016 (zveřejnění majetkového oznámení) a posuzuje se otázka, které znění ZSZS aplikovat — zda původní, nebo znění po novele č. 14/2017 Sb. (Lex Babiš), která zavedla § 4a—§ 4c a § 14b až s účinností 1. 9. 2017. Účastníci: funkcionář, evidenční orgán/soud. Důkazy: datum rozhodného jednání, znění ZSZS účinné k tomuto datu, přehled novel.
+
+**2. Právní otázka.** Které časové znění ZSZS se na posuzované jednání použije a od kdy nabyly účinnosti jednotlivé novely (zejm. Lex Babiš)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 ZSZS (účinnost zákona od 1. 1. 2007).
+- *Související ustanovení téhož zákona:* § 4a—§ 4c, § 14b (zavedeny novelou č. 14/2017 Sb. s účinností 1. 9. 2017), § 26 (přechodná ustanovení), celý text v konsolidovaném znění k 1. 7. 2025.
+- *Související předpisy:* novely — z. 14/2017 Sb. (1. 9. 2017), z. 38/2017 Sb., z. 112/2018 Sb. (GDPR), z. 269/2021 Sb., z. 261/2021 Sb. (digitalizace); čl. 40 odst. 6 LZPS (časová působnost trestních/sankčních norem — užití pozdější příznivější úpravy).
+- *Judikatura:* NS 30 Cdo 1021/2022 (časové vymezení zveřejňování oznámení a vazba na nález ÚS Pl. ÚS 38/17); obecné zásady intertemporality.
+
+**4. Subsumpce.** Na hmotněprávní posouzení jednání z roku 2016 se zásadně použije znění účinné v době jednání; ustanovení zavedená Lex Babiš (§ 4a—§ 4c, § 14b) se na jednání před 1. 9. 2017 nepoužijí (nebyla účinná). U sankčních norem se navíc uplatní pravidlo pozdější příznivější úpravy (čl. 40 odst. 6 LZPS). § 33 fixuje výchozí účinnost (1. 1. 2007); jednotlivé instituty je třeba navázat na účinnost příslušné novely.
+
+**5. Řešení.** Aplikovat znění ZSZS účinné k datu rozhodného jednání; novelizované instituty užít jen od účinnosti dané novely. U přestupkové odpovědnosti zohlednit případnou pozdější příznivější úpravu. Praktický postup: pro každý institut ověřit, kterou novelou a s jakou účinností byl zaveden či změněn; nepoužívat „konsolidované znění k 1. 7. 2025" zpětně na starší jednání bez intertemporální analýzy.
+
+**6. Varianty.** (a) Kdyby jednání spadalo až po 1. 9. 2017, plně by se uplatnily § 4a—§ 4c a § 14b (Lex Babiš). (b) Kdyby pozdější novela zmírnila sankci za týž skutek, použila by se příznivější pozdější úprava (čl. 40 odst. 6 LZPS).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Platí aktuální (konsolidované) znění, to se použije i na starší jednání." Neutralizace: hmotněprávní posouzení se řídí zněním účinným v době jednání; novely se zpětně neuplatní, vyjma příznivější sankční úpravy.
+- *Protiargument 2:* „Lex Babiš platí od účinnosti ZSZS (2007)." Neutralizace: § 4a—§ 4c a § 14b byly zavedeny až novelou č. 14/2017 Sb. s účinností 1. 9. 2017; před tímto datem neexistovaly.
+- *Slabé místo:* určení rozhodného znění u průběžných povinností (např. každoroční oznámení) může být složité, zasahuje-li jednání přes účinnost novely; je nutná pečlivá intertemporální analýza pro jednotlivá období.
+
+#### H. Praktický závěr
+
+§ 33 stanovil účinnost ZSZS od 1. 1. 2007; klíčové instituty (Lex Babiš — § 4a—§ 4c, § 14b) však nabyly účinnosti až novelou č. 14/2017 Sb. k 1. 9. 2017. Na jednání se aplikuje znění účinné v rozhodné době, u sankcí s možností pozdější příznivější úpravy; konsolidované znění nelze bez intertemporální analýzy užít zpětně.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jaké je datum rozhodného jednání a které znění ZSZS k němu bylo účinné?
+- [ ] Byl posuzovaný institut již zaveden účinnou novelou (zejm. Lex Babiš od 1. 9. 2017)?
+- [ ] U sankcí: nepřichází v úvahu pozdější příznivější úprava (čl. 40 odst. 6 LZPS)?
+- [ ] Nezasahuje jednání (např. roční oznámení) přes účinnost novely (nutná analýza po obdobích)?
+
+**Typicky rozhodné důkazy / podklady:** datum rozhodného jednání, znění ZSZS účinné k tomuto datu, přehled novel a jejich účinností, případná judikatura k časové působnosti.
 
 ---
 
