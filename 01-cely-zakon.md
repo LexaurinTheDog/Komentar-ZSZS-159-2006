@@ -145,6 +145,11 @@ Cílem zákona je předcházet **systémové korupci** a posilovat důvěru obč
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [45 A 4/2012 - 76](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/559968) — 27. 6. 2012
+  > „Ve své podstatě lze – opět v souladu se zásadou bezrozpornosti a jednoty právního řádu – vycházet ze seznamu veřejných funkcionářů obsaženého v § 2 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů. Osoby v něm zařazené nemohou počítat se zvýšenou ochranou své identifikace v souvislosti s žádostmi o poskytnutí informací o jejich příjmech z veřejných prostředků"
+
 #### Dvouvrstvý katalog (odst. 1 a 2)
 
 § 2 zavádí klíčový pojem **„veřejný funkcionář"** a dělí jej do dvou skupin podle míry povinností a stupně transparence:
@@ -455,6 +460,11 @@ Funkcionáři dle § 2 odst. 1 nesmějí vlastnit ani ovládat média; mají 60 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Afs 215/2024 - 74](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747815) — 11. 12. 2025
+  > „Citované ustanovení zakazuje zadavateli mj. zadat veřejnou zakázku malého rozsahu osobě, ve které vlastní 25 % podíl účasti společníka v obchodní společnosti buď přímo veřejný funkcionář, nebo osoba, kterou veřejný funkcionář ovládá. Smyslem je, aby taková osoba nezískávala ani zakázky malého rozsahu, což je odůvodněno jejím napojením na veřejného funkcionáře (buď přímou majetkovou účastí, nebo prostřednictvím jiné osoby, kterou veřejný funkcionář ovládá)"
+
 #### Specifický okruh: jen členové vlády
 
 § 4b dopadá **pouze na členy vlády** (§ 2 odst. 1 písm. c) — tedy ministry a vedoucí ústředních správních úřadů, v jejichž čele není člen vlády. Zúžení personální působnosti odráží specifickou míru pravomoci členů vlády ovlivňovat distribuci státních prostředků (rozpočtové kapitoly, dotační programy, ovládání státních PO).
@@ -516,6 +526,11 @@ Firma s podílem ≥ 25 % člena vlády (nebo jím ovládané osoby) je vylouče
 > *Je zakázáno poskytnout dotaci podle právního předpisu upravujícího rozpočtová pravidla nebo investiční pobídku podle právního předpisu upravujícího investiční pobídky obchodní společnosti, ve které veřejný funkcionář uvedený v § 2 odst. 1 písm. c) nebo jím ovládaná osoba vlastní podíl představující alespoň 25 % účasti společníka v obchodní společnosti.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 92/2024 - 97](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740576) — 20. 3. 2025
+  > „Stanoví-li pravidla pro poskytnutí dotace, že projekt musí být v souladu s příslušnou právní úpravou od okamžiku podání žádosti o dotaci do konce lhůty vázanosti projektu na účel, pak toto pravidlo platí také pro zákaz střetu zájmů ve smyslu § 4c zákona č. 159/2006 Sb., o střetu zájmů. Uvedenou podmínku proto musí žadatel splňovat po celou dobu vyřizování žádosti o dotaci"
 
 #### Komplementární ochrana mimo zadávací řízení
 
@@ -794,6 +809,11 @@ Porušení § 6 je sankcionováno jako přestupek dle § 23 odst. 2 písm. a —
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 187/2017 - 327](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653531) — 30. 1. 2020
+  > „případné porušení povinností podle § 8 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů, nemůže vést ke zrušení opatření obecné povahy. … Zákon o střetu zájmů však nijak nesankcionuje samo hlasování zastupitele, resp. přijatý akt, tj. ze zákona neplyne, že by střet zájmů měl vliv na platnost, účinnost nebo zákonnost přijatého aktu …"
+
 #### Princip „disclose first, vote second"
 
 § 8 řeší situaci, kdy se funkcionář **fakticky účastní rozhodování o věci**, ve které má osobní zájem. Zákon nezakazuje účast (zákaz upřednostňování dle § 3 odst. 2 je jen vodítkem) — ukládá však **povinnost transparence**: funkcionář musí svůj zájem oznámit veřejně, ústně, do zápisu, a to **před hlasováním**.
@@ -870,6 +890,11 @@ Nepodání oznámení o osobním zájmu je **přestupek** dle § 23 odst. 1 pís
 > *- e) je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku, anebo společníkem, členem nebo ovládající osobou právnické osoby, která je provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 277/2020 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656976) — 24. 11. 2020
+  > „podání oznámení sleduje dvojí účel: má umožnit evidenčnímu orgánu zkontrolovat obsah oznámení a případně podat příslušnému správnímu orgánu podnět k zahájení přestupkového řízení (§ 13 odst. 7 zákona o střetu zájmů), a dále (a z hlediska zájmu na transparentním výkonu veřejné správy především) má umožnit kontrolu veřejnosti. … veřejná kontrola je zcela zásadním cílem sledovaným zákonem o střetu zájmů"
 
 #### Pět kategorií oznamovaných činností
 
@@ -962,6 +987,11 @@ Porušení kteréhokoliv z těchto standardů zakládá přestupek dle § 23 ods
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 277/2020 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656976) — 24. 11. 2020
+  > „podání oznámení sleduje dvojí účel: má umožnit evidenčnímu orgánu zkontrolovat obsah oznámení a případně podat příslušnému správnímu orgánu podnět k zahájení přestupkového řízení (§ 13 odst. 7 zákona o střetu zájmů), a dále (a z hlediska zájmu na transparentním výkonu veřejné správy především) má umožnit kontrolu veřejnosti. … veřejná kontrola je zcela zásadním cílem sledovaným zákonem o střetu zájmů"
+
 #### Dvojí časový snímek (odst. 1)
 
 § 10 odst. 1 zavádí **dvojí časovou logiku** oznámení o majetku:
@@ -1047,6 +1077,11 @@ Tato asymetrie reaguje na praktický problém zpětně rekonstruovat historické
 > *(3) Veřejný funkcionář je povinen v oznámení uvést výši, druh a zdroj každého příjmu podle odstavce 2 písm. a) a výši a druh závazku podle odstavce 1 a odstavce 2 písm. b), včetně toho, vůči komu takový závazek má; fyzickou osobu označí jménem, popřípadě jmény a příjmením, právnickou osobu označí obchodní firmou nebo názvem, identifikačním číslem osoby a sídlem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 277/2020 - 32](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656976) — 24. 11. 2020
+  > „podání oznámení sleduje dvojí účel: má umožnit evidenčnímu orgánu zkontrolovat obsah oznámení a případně podat příslušnému správnímu orgánu podnět k zahájení přestupkového řízení (§ 13 odst. 7 zákona o střetu zájmů), a dále (a z hlediska zájmu na transparentním výkonu veřejné správy především) má umožnit kontrolu veřejnosti. … veřejná kontrola je zcela zásadním cílem sledovaným zákonem o střetu zájmů"
 
 #### Strukturální analogie s § 10
 
@@ -1138,6 +1173,11 @@ Funkcionář musí uvést **vůči komu** závazek má. To je transparenčně kr
 > *(6) Oznámení se podávají ve struktuře a formátu, které stanoví Ministerstvo spravedlnosti vyhláškou. Soudci podávají oznámení na formuláři, jehož strukturu a formát stanoví Ministerstvo spravedlnosti vyhláškou.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [19 A 28/2020 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/674954) — 30. 9. 2021
+  > „Za situace, kdy byla Ústavním soudem konstatována protiústavnost zveřejňování oznámených skutečností, je nutno přisvědčit názoru žalobce, že závěr o spáchání přestupku spočívajícího v porušení povinnosti učinit oznámení dle § 12 odst. 3 zákona o střetu zájmů je v rozporu se zásadou ultima ratio, jelikož takové jednání nevykazuje materiální znak přestupku spočívající ve společenské škodlivosti"
 
 #### Tři typy lhůt
 
@@ -1241,7 +1281,7 @@ Strukturu a formát stanoví Ministerstvo spravedlnosti vyhláškou (aktuálně 
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 1021/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument) — 13. 9. 2022, kat. A
+- *NS* [30 Cdo 1021/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument) — kat. A, 13. 9. 2022
   > „Zveřejňování údajů z majetkových oznámení veřejných funkcionářů postupem podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění účinném do 31. 12. 2020, nepředstavuje v době od vydání nálezu Ústavního soudu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, do jeho vykonatelnosti nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., ve znění pozdějších předpisů"
 
 #### Právní povaha CRO (odst. 1)
@@ -1547,7 +1587,7 @@ Příklady:
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [30 Cdo 1021/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument) — 13. 9. 2022, kat. A
+- *NS* [30 Cdo 1021/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument) — kat. A, 13. 9. 2022
   > „Zveřejňování údajů z majetkových oznámení veřejných funkcionářů postupem podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění účinném do 31. 12. 2020, nepředstavuje v době od vydání nálezu Ústavního soudu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, do jeho vykonatelnosti nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., ve znění pozdějších předpisů"
 
 #### Klíčové ustanovení transparence — kdy nahlížet a co lze vidět
@@ -1672,6 +1712,11 @@ Bez ohledu na omezení v odst. 1 a 2 mají **plný přístup** ke všem údajům
 > *(5) Přestupky podle odstavců 1 a 2 nelze projednat v příkazním řízení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 A 23/2020 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/593676) — 26. 1. 2021
+  > „Závěr Ústavního soudu o protiústavnosti úpravy zpřístupňování oznámení v centrálním registru oznámení v nálezu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, brání tomu, aby správní orgány sankcionovaly porušení povinnosti podat oznámení podle § 23 odst. 1 písm. f) zákona č. 159/2006 Sb., o střetu zájmů, a to i v době před nabytím vykonatelnosti tohoto nálezu"
 
 #### Skladba skutkových podstat (odst. 1)
 
