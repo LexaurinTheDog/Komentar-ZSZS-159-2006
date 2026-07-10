@@ -121,3 +121,117 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | orgán může | § 12 |
 | Oprávnění a povinnost | jsou povinni; povinnost; je oprávněna; je povinen | § 1; § 2; § 3; § 4 |
 | Domněnky a fikce | nenalezen spolehlivý signál | — |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 159/2006 Sb., o střetu zájmů (ZSZS) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Deontická (normativní) logika rozeznává tři základní objektivní modality, jimiž právo působí na jednání adresátů: **příkaz** (norma ukládá konat — operátor „je povinen", „podává"), **zákaz** (norma ukládá zdržet se — operátor „nesmí", „je zakázáno") a **dovolení** (norma jednání umožňuje, aniž je ukládá — operátor „může", „má právo"). Příkaz a zákaz jsou logicky převoditelné (zákaz je příkaz opomenutí; příkaz je zákaz opomenutí), zatímco dovolení je jejich negací — vymezuje prostor právně nezávadného chování. Vedle nich stojí **zmocnění** (kompetenční, resp. pravomocné normy), které neukládají chování, nýbrž zakládají či rozdělují pravomoc a příslušnost orgánů; jejich adresátem je nositel veřejné moci, nikoli soukromá osoba.
+
+Objektivním modalitám odpovídají v subjektivní rovině **oprávnění** a **povinnost**. Nauka zdůrazňuje jejich **korelativitu**: subjektivnímu právu jedné osoby zpravidla odpovídá povinnost osoby druhé (zde: veřejnému subjektivnímu právu „každého" nahlížet do registru odpovídá povinnost evidenčního orgánu registr vést a zpřístupnit). ZSZS je typově zákonem povinnostním — jádro tvoří povinnosti a zákazy adresované veřejnému funkcionáři, doplněné o oprávnění a dovolení adresovaná veřejnosti coby nástroj kontroly. Substantivní jádro (zdržet se, neupřednostňovat) je přitom formulováno jako obecná povinnost, kdežto transparenční pilíř jako soubor oznamovacích příkazů.
+
+**Domněnky a fikce** jsou legislativně-technické konstrukce pracující s dokazováním a přičítáním. Domněnka vyvratitelná (praesumptio iuris) obrací důkazní břemeno a připouští protidůkaz; domněnka nevyvratitelná (praesumptio iuris et de iure) protidůkaz vylučuje; fikce (fictio iuris) pokládá za existující (nebo neexistující) skutečnost, o níž se ví, že tomu tak není. ZSZS s výslovnými domněnkami a fikcemi pracuje střídmě; blízko jim stojí normativní konstrukce ovládání a majetkové účasti (podíl vymezený procentem) a sankce **neplatnosti** jednání, jimiž zákon typizuje následek bez ohledu na individuální okolnosti — o nich blíže v příslušných sekcích níže.
+
+### Příkaz
+
+Příkaz je v ZSZS nosičem jeho transparenčního a očistného pilíře: nejde jen o pasivní zdržení se, nýbrž o aktivní konání, které zákon ukládá pod odpovědností za pravdivost a v pevných lhůtách. Prototypem je **oznamovací povinnost** — funkcionář musí periodicky i příležitostně *podávat* čestná prohlášení a *činit* oznámení, a to i tehdy, kdy žádná oznamovaná skutečnost nenastala (negativní oznámení). Druhým typem je příkaz **ukončit** neslučitelné činnosti ve stanovené lhůtě, tedy uvést vlastní poměry do souladu s funkcí.
+
+Normativní výrazy příkazu v ZSZS jsou „jsou povinni … ukončit", „podává", „je povinen … činit". Charakteristická je pro ně kombinace operativního slovesa s určením času (lhůta 30 dnů, lhůty dle odstavců 1 až 3), jež činí povinnost splnitelnou a kontrolovatelnou. Porušení příkazu je současně skutkovou podstatou přestupku (§ 23), byť judikatura jeho trestnost v období protiústavního zveřejňování registru korigovala zásadou *ultima ratio*.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 4 odst. 3 | jsou povinni … ukončit … do 30 dnů | „jsou povinni činnosti tam uvedené ukončit bez zbytečného odkladu" | Aktivní příkaz ukončit podnikání a neslučitelné funkce v pevné 30denní lhůtě od nástupu. |
+| § 7 | podává | „podává formou čestného prohlášení oznámení o" | Konstituuje transparenční pilíř — čtyři samostatná oznámení podávaná pod odpovědností za pravdivost. |
+| § 12 odst. 4 | je povinen … činit i tehdy | „je povinen oznámení činit ve lhůtách stanovených v odstavcích 1 až 3 i tehdy, jestliže nedošlo ke skutečnostem" | Negativní oznámení — příkaz podat oznámení i bez oznamované skutečnosti, aby mlčení nebylo zaměňováno se splněním. |
+
+- *NSS* [19 A 28/2020 - 34](judikatura/NSS-19-A-28-2020-34.md) — rozsudek, 30. 9. 2021; § 12, § 23
+  > „Za situace, kdy byla Ústavním soudem konstatována protiústavnost zveřejňování oznámených skutečností, je nutno přisvědčit názoru žalobce, že závěr o spáchání přestupku spočívajícího v porušení povinnosti učinit oznámení dle § 12 odst. 3 zákona o střetu zájmů je v rozporu se zásadou ultima ratio, jelikož takové jednání nevykazuje materiální znak přestupku spočívající ve společenské škodlivosti"
+
+### Zákaz
+
+Zákaz je v ZSZS nejsilněji zastoupenou objektivní modalitou a nese jak substantivní jádro zákona, tak jeho nejostřejší regulační zásahy — trojici tzv. Lex Babiš. Substantivní zákaz (§ 3 odst. 2) zapovídá funkcionáři *upřednostňovat* osobní zájem před zájmem veřejným v situaci skutečného konfliktu. Na něj navazují strukturální (statusové) zákazy: funkcionář *nesmí být provozovatelem* médií (§ 4a), zadavatel *nesmí zadat* zakázku ovládané společnosti (§ 4b) a *je zakázáno poskytnout* dotaci či investiční pobídku (§ 4c). Doplňkově chrání zákaz integritu přístupu do registru (§ 13 odst. 5).
+
+Zákazy ZSZS se liší intenzitou a technikou sankce. Zákaz podle § 4b je vybaven civilní sankcí **neplatnosti** jednání (jde tak o zákaz s přímým soukromoprávním následkem), zákaz podle § 4c je formulován jako **absolutní** („Je zakázáno poskytnout"), zákazy podle § 13 odst. 5 jsou napojeny na přestupkové sankce (§ 23/§ 24). Normativní výrazy: „nesmí", „nesmí být provozovatelem", „nesmí … zadat", „Je zakázáno poskytnout", „je zakázáno".
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 3 odst. 2 | nesmí … upřednostňovat | „nesmí veřejný funkcionář upřednostňovat svůj osobní zájem před zájmy, které je jako veřejný funkcionář povinen prosazovat a hájit" | Pro situaci skutečného konfliktu ukládá zdržet se preference osobního zájmu před zájmem veřejným. |
+| § 4a odst. 1 | nesmí být provozovatelem | „nesmí být provozovatelem rozhlasového nebo televizního vysílání nebo vydavatelem periodického tisku" | Odděluje mediální a politickou moc — zákaz vlastnit či ovládat rozhlas, televizi a periodický tisk (Lex Babiš I). |
+| § 4b | nesmí … zadat; jednání je neplatné | „nesmí obchodní společnosti uvedené ve větě první zadat veřejnou zakázku malého rozsahu, takové jednání je neplatné" | Sankcí neplatnosti uzavírá firmám ovládaným členem vlády přístup i k malým veřejným zakázkám (Lex Babiš II). |
+| § 4c | Je zakázáno poskytnout | „Je zakázáno poskytnout dotaci podle právního předpisu upravujícího rozpočtová pravidla nebo investiční pobídku" | Absolutním zákazem uzavírá cestu veřejných prostředků k firmám s podílem člena vlády (Lex Babiš III). |
+| § 13 odst. 5 | je zakázáno | „Sdělit třetí osobě uživatelské jméno a přístupové heslo k nahlížení do registru oznámení je zakázáno" | Chrání integritu přístupu do registru zákazem předávat přístupové údaje třetím osobám. |
+
+- *NSS* [8 Afs 215/2024 - 74](judikatura/NSS-8-Afs-215-2024-74.md) — rozsudek, 11. 12. 2025; § 4b
+  > „Citované ustanovení zakazuje zadavateli mj. zadat veřejnou zakázku malého rozsahu osobě, ve které vlastní 25 % podíl účasti společníka v obchodní společnosti buď přímo veřejný funkcionář, nebo osoba, kterou veřejný funkcionář ovládá. Smyslem je, aby taková osoba nezískávala ani zakázky malého rozsahu, což je odůvodněno jejím napojením na veřejného funkcionáře (buď přímou majetkovou účastí, nebo prostřednictvím jiné osoby, kterou veřejný funkcionář ovládá)"
+- *NSS* [10 A 92/2024 - 97](judikatura/NSS-10-A-92-2024-97.md) — rozsudek, 20. 3. 2025; § 4c
+  > „Stanoví-li pravidla pro poskytnutí dotace, že projekt musí být v souladu s příslušnou právní úpravou od okamžiku podání žádosti o dotaci do konce lhůty vázanosti projektu na účel, pak toto pravidlo platí také pro zákaz střetu zájmů ve smyslu § 4c zákona č. 159/2006 Sb., o střetu zájmů. Uvedenou podmínku proto musí žadatel splňovat po celou dobu vyřizování žádosti o dotaci"
+
+### Dovolení
+
+Dovolení je v ZSZS použito úsporně, avšak na systémově vrcholovém místě — otevírá **veřejný přístup k registru oznámení**. Na rozdíl od oprávnění (§ 13 odst. 3), jež je konstruováno jako subjektivní právo „každého", je § 14b odst. 1 formulován jako dovolení (operátor *může … nahlížet*), a to bez podmínky žádosti a po uplynutí zákonné lhůty. Dovolení zde vymezuje sféru právně aprobovaného chování veřejnosti a je logickým protějškem povinnosti evidenčního orgánu registr zpřístupnit.
+
+Normativní výraz dovolení je „může … nahlížet". Rozdíl mezi dovolením § 14b a oprávněním § 13 odst. 3 není jen stylistický: § 14b odst. 1 (Lex Babiš IV) posunul přístup od modelu na žádost k modelu online přístupu z vlastní iniciativy, čímž zesílil transparenci na úkor ochrany soukromí funkcionářů (napětí, které Ústavní soud a navazující judikatura řešily).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 14b odst. 1 | může … nahlížet | „Každý může prvním dnem po lhůtě uvedené v § 12 odst. 1, 2 nebo 3 nahlížet do registru oznámení" | Vrcholové transparenční dovolení — otevírá online veřejný přístup k oznámením funkcionářů bez žádosti po uplynutí lhůty. |
+
+- *NS* [30 Cdo 1021/2022](judikatura/NS-30-Cdo-1021-2022.md) — 13. 9. 2022; § 13, § 14b
+  > „Zveřejňování údajů z majetkových oznámení veřejných funkcionářů postupem podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění účinném do 31. 12. 2020, nepředstavuje v době od vydání nálezu Ústavního soudu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, do jeho vykonatelnosti nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., ve znění pozdějších předpisů."
+
+### Zmocnění
+
+Zmocnění (kompetenční, pravomocné normy) v analyzovaném výběru doslovných znění nemá samostatné zastoupení — klasifikace na citovaném korpusu neidentifikovala ustanovení formulované jako zmocnění k vydání prováděcího předpisu ani jako založení pravomoci s operátorem typu *vydá vyhlášku* či *stanoví nařízením*. To odpovídá povaze ZSZS jako zákona povinnostně-kontrolního, který regulaci provádí přímo (příkazy, zákazy, oprávnění) a nedeleguje ji na podzákonnou úroveň. Kompetenční prvek se v zákoně objevuje spíše implicitně — v příslušnosti evidenčního orgánu vést registr a v napojení kontrolních a přestupkových pravomocí (srov. § 13 odst. 7, § 23) — avšak nikoli v podobě samostatné modality zmocnění, kterou by bylo možné doložit doslovným fragmentem z klasifikovaného korpusu. Z toho důvodu k této modalitě neuvádíme tabulku ani judikatorní ilustraci.
+
+### Oprávnění a povinnost
+
+Subjektivní modality tvoří v ZSZS korelativní dvojici: na straně veřejného funkcionáře převažují **povinnosti**, na straně veřejnosti stojí **oprávnění** ke kontrole. Povinnostní jádro je dvojí — jednak generální hmotněprávní povinnost *zdržet se* jednání ovlivnitelného osobním zájmem (§ 3 odst. 1), jednak procedurální povinnost *oznámit* poměr k projednávané věci před hlasováním (§ 8 odst. 1), tedy princip *disclose first, vote second*. Proti nim stojí veřejné subjektivní právo „každého" *nahlížet* do registru (§ 13 odst. 3), jež je institucionálním nástrojem, kterým veřejnost vynucuje transparenci.
+
+Korelativita se projevuje i funkčně: oznamovací povinnosti (§ 7, § 8, § 12) mají smysl teprve ve spojení s oprávněním veřejnosti registr kontrolovat; bez přístupu by povinnost pozbyla účelu. Judikatura tuto vazbu vyjádřila konstatováním, že podání oznámení sleduje dvojí účel — kontrolu evidenčním orgánem a kontrolu veřejností. Normativní výrazy: „je povinen zdržet se", „je povinen … oznámit", „má právo … nahlížet".
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 3 odst. 1 | je povinen zdržet se | „je povinen zdržet se každého jednání, při kterém mohou jeho osobní zájmy ovlivnit výkon jeho funkce" | Substantivní jádro — obecná povinnost zdržet se jednání ovlivnitelného osobním zájmem. |
+| § 8 odst. 1 | je povinen … oznámit | „oznámit svůj poměr k projednávané věci" | Princip *disclose first, vote second* — povinnost transparentně oznámit poměr k věci před hlasováním. |
+| § 13 odst. 3 | má právo … nahlížet | „Každý má právo na základě žádosti bezplatně nahlížet prostřednictvím veřejné datové sítě" | Veřejné subjektivní právo každého na bezplatný přístup k registru jako nástroj veřejné kontroly. |
+
+- *NSS* [2 As 187/2017 - 327](judikatura/NSS-2-As-187-2017-327.md) — rozsudek, 30. 1. 2020; § 8
+  > „případné porušení povinností podle § 8 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů, nemůže vést ke zrušení opatření obecné povahy"
+- *NSS* [2 As 277/2020 - 32](judikatura/NSS-2-As-277-2020-32.md) — rozsudek, 24. 11. 2020; § 9, § 10, § 11
+  > „podání oznámení sleduje dvojí účel: má umožnit evidenčnímu orgánu zkontrolovat obsah oznámení a případně podat příslušnému správnímu orgánu podnět k zahájení přestupkového řízení (§ 13 odst. 7 zákona o střetu zájmů), a dále (a z hlediska zájmu na transparentním výkonu veřejné správy především) má umožnit kontrolu veřejnosti"
+
+### Domněnky a fikce
+
+Klasifikovaný korpus doslovných znění neobsahuje ustanovení výslovně formulované jako vyvratitelná či nevyvratitelná domněnka (typu *má se za to, že*) ani jako právní fikce (typu *hledí se na … jako*). ZSZS tedy nepracuje s klasickou domněnkově-fikční technikou v podobě, kterou by bylo možné doložit fragmentem z korpusu; z toho důvodu k modalitě neuvádíme samostatnou tabulku.
+
+Funkčně nejblíže domněnkovým konstrukcím stojí v zákoně dvě techniky. První je **typizace ovládání a majetkové účasti** procentním podílem (25 %), na jejímž základě se firma pokládá za napojenou na funkcionáře bez zkoumání skutečného vlivu — jde o normativní přičtení blízké nevyvratitelné domněnce; soud je popsal tak, že zákaz dopadá na osobu, „ve které vlastní 25 % podíl účasti společníka v obchodní společnosti buď přímo veřejný funkcionář, nebo osoba, kterou veřejný funkcionář ovládá" (NSS 8 Afs 215/2024 - 74, výše). Druhou je sankce **neplatnosti** jednání podle § 4b („takové jednání je neplatné"), jež následek přičítá bez ohledu na individuální okolnosti a míru zavinění. Obě konstrukce sdílejí s domněnkami a fikcemi rys objektivizace — nahrazují dokazování skutečného stavu předem stanoveným právním následkem.
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality se v ZSZS nevyskytují izolovaně; klíčové instituty vznikají teprve jejich **kombinací**. V generální klauzuli (§ 3) se snoubí povinnost a zákaz: odstavec 1 ukládá funkcionáři *zdržet se* jednání ovlivnitelného osobním zájmem (povinnost), odstavec 2 mu *zakazuje upřednostňovat* osobní zájem před veřejným (zákaz). Jde o dvě strany téhož jádra — obecnou povinnost zdrženlivosti a konkrétní zákaz preference. Osobní rozsah, na nějž obě dopadají, je vymezen katalogem veřejných funkcionářů (§ 2), z něhož judikatura činí referenční bod i pro navazující otázky (transparence příjmů z veřejných prostředků).
+
+**Transparenční institut** kombinuje příkaz s oprávněním a dovolením: funkcionář *podává* a *činí* oznámení (příkaz — § 7, § 8, § 12), zatímco veřejnost *má právo* a *může nahlížet* do registru (oprávnění § 13 odst. 3 a dovolení § 14b odst. 1). Tento příkazně-oprávněný pár je zajištěn ochranným **zákazem** sdělovat přístupové údaje (§ 13 odst. 5) a vynucen přestupkovou sankcí (§ 23), jejíž trestnost však judikatura v období protiústavního zveřejňování registru omezila zásadou *ultima ratio*.
+
+**Antikorupční (tzv. Lex Babiš) institut** je vystavěn čistě na zákazech odstupňované intenzity — statusový zákaz vlastnit média (§ 4a), zákaz zadat zakázku se sankcí neplatnosti (§ 4b) a absolutní zákaz poskytnout dotaci či pobídku (§ 4c) — které se doplňují s příkazem *ukončit* neslučitelné činnosti ve 30denní lhůtě (§ 4 odst. 3). Zákaz zde tedy působí jak preventivně (statusově), tak sankčně (neplatnost), a příkaz jej doplňuje v čase (nastolení souladu poměrů s funkcí).
+
+- *NSS* [45 A 4/2012 - 76](judikatura/NSS-45-A-4-2012-76.md) — rozsudek, 27. 6. 2012; § 2
+  > „Ve své podstatě lze – opět v souladu se zásadou bezrozpornosti a jednoty právního řádu – vycházet ze seznamu veřejných funkcionářů obsaženého v § 2 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů. Osoby v něm zařazené nemohou počítat se zvýšenou ochranou své identifikace v souvislosti s žádostmi o poskytnutí informací o jejich příjmech z veřejných prostředků"
+- *NSS* [30 A 23/2020 - 39](judikatura/NSS-30-A-23-2020-39.md) — rozsudek, 26. 1. 2021; § 23
+  > „Závěr Ústavního soudu o protiústavnosti úpravy zpřístupňování oznámení v centrálním registru oznámení v nálezu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, brání tomu, aby správní orgány sankcionovaly porušení povinnosti podat oznámení podle § 23 odst. 1 písm. f) zákona č. 159/2006 Sb., o střetu zájmů, a to i v době před nabytím vykonatelnosti tohoto nálezu"
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | jsou povinni … ukončit … do 30 dnů; podává; je povinen … činit i tehdy | § 4 odst. 3; § 7; § 12 odst. 4 |
+| Zákaz | nesmí … upřednostňovat; nesmí být provozovatelem; nesmí … zadat (jednání je neplatné); Je zakázáno poskytnout; je zakázáno | § 3 odst. 2; § 4a odst. 1; § 4b; § 4c; § 13 odst. 5 |
+| Dovolení | může … nahlížet | § 14b odst. 1 |
+| Zmocnění | (v klasifikovaném korpusu bez samostatného zastoupení) | — |
+| Oprávnění | má právo … nahlížet | § 13 odst. 3 |
+| Povinnost | je povinen zdržet se; je povinen … oznámit | § 3 odst. 1; § 8 odst. 1 |
+| Domněnky a fikce | (bez výslovného znění; blízké konstrukce: podíl 25 %, „jednání je neplatné") | § 4b (neplatnost); § 4a–§ 4c (ovládání/podíl) |
