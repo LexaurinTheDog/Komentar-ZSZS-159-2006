@@ -17,3 +17,7 @@
 
 ## Vazby
 [Ústava](/home/vojtech/Komentar-Ustava-Listina-1-2-1993/), [ZZVZ 134/2016](/home/vojtech/Komentar-ZZVZ-134-2016/), [ZoO 128/2000](/home/vojtech/Komentar-ZoO-128-2000/), [ZSS 234/2014](/home/vojtech/Komentar-ZSS-234-2014/), [ZUUSC 312/2002](/home/vojtech/Komentar-ZUUSC-312-2002/).
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
