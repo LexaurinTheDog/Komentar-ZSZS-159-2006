@@ -1,53 +1,57 @@
-# Zásady z místní judikatury — Komentář k zákonu č. 159/2006 Sb., o střetu zájmů (ZSZS)
+# Právní zásady a judikatorní teze — Komentář k zákonu č. 159/2006 Sb., o střetu zájmů (ZSZS)
 
-> Tento soubor je aditivní přehled právních zásad a judikatorních tezí vytěžených výhradně z místní složky [judikatura/](judikatura/README.md). Nezasahuje do existujících citací v komentáři a nic z původní judikatury nenahrazuje ani nemaže.
+> Tento soubor je aditivní přehled právních zásad a judikatorních tezí vytěžených výhradně z místních pramenů tohoto repozitáře. Judikatorní část vychází ze složky [judikatura/](judikatura/README.md). Nezasahuje do existujících citací v komentáři a nic z původní judikatury nenahrazuje ani nemaže.
 
 ## Metoda
 
-Zdrojem jsou pouze lokální markdownové karty rozhodnutí uložené v tomto repozitáři ve složce `judikatura/`. Převzaty jsou právní věty a doslovné citované pasáže uvedené v těchto kartách; odkazy níže vedou na místní soubor rozhodnutí, nikoli na externí zdroj. Pokud místní judikatura k ustanovení neobsahuje přiléhavou právní větu nebo citovanou pasáž, není žádná zásada doplněna.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře. Judikatorní část přebírá právní věty a doslovné citované pasáže z markdownových karet ve složce `judikatura/`; případná část o výslovně vyložených zákonných zásadách vychází z místního znění předpisu a místních kapitol komentáře. Odkazy na veřejné databáze slouží výhradně k ověření identity pramene; žádná teze z externího webu vytěžována není.
+
+Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného výroku a skutkového kontextu rozhodnutí.
+
+**Oficiální znění komentovaného předpisu:** [159/2006 Sb.](https://e-sbirka.gov.cz/sb/2006/159)
 
 Vytěženo bylo 8 judikatorních tezí z 8 místních rozhodnutí.
 
 ## Přehled podle ustanovení
 
-### § 2 — Veřejný funkcionář
+### [§ 2 — Veřejný funkcionář](https://e-sbirka.gov.cz/sb/2006/159#par_2)
 
-- *NSS* [45 A 4/2012 - 76](judikatura/NSS-45-A-4-2012-76.md) — 27. 6. 2012
+- *NSS* [45 A 4/2012 - 76](judikatura/NSS-45-A-4-2012-76.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/559968)) — 27. 6. 2012, citovaná pasáž
   > „Ve své podstatě lze – opět v souladu se zásadou bezrozpornosti a jednoty právního řádu – vycházet ze seznamu veřejných funkcionářů obsaženého v § 2 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů. Osoby v něm zařazené nemohou počítat se zvýšenou ochranou své identifikace v souvislosti s žádostmi o poskytnutí informací o jejich příjmech z veřejných prostředků“
 
-### § 4b — Zákaz účasti v zadávacím řízení (Lex Babiš II)
+### [§ 4b — Zákaz účasti v zadávacím řízení (Lex Babiš II)](https://e-sbirka.gov.cz/sb/2006/159#par_4b)
 
-- *NSS* [8 Afs 215/2024 - 74](judikatura/NSS-8-Afs-215-2024-74.md) — 11. 12. 2025
+- *NSS* [8 Afs 215/2024 - 74](judikatura/NSS-8-Afs-215-2024-74.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747815)) — 11. 12. 2025, citovaná pasáž
   > „Citované ustanovení zakazuje zadavateli mj. zadat veřejnou zakázku malého rozsahu osobě, ve které vlastní 25 % podíl účasti společníka v obchodní společnosti buď přímo veřejný funkcionář, nebo osoba, kterou veřejný funkcionář ovládá. Smyslem je, aby taková osoba nezískávala ani zakázky malého rozsahu, což je odůvodněno jejím napojením na veřejného funkcionáře (buď přímou majetkovou účastí, nebo prostřednictvím jiné osoby, kterou veřejný funkcionář ovládá)“
 
-### § 4c — Zákaz dotací a investičních pobídek (Lex Babiš III)
+### [§ 4c — Zákaz dotací a investičních pobídek (Lex Babiš III)](https://e-sbirka.gov.cz/sb/2006/159#par_4c)
 
-- *NSS* [10 A 92/2024 - 97](judikatura/NSS-10-A-92-2024-97.md) — 20. 3. 2025
+- *NSS* [10 A 92/2024 - 97](judikatura/NSS-10-A-92-2024-97.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740576)) — 20. 3. 2025, citovaná pasáž
   > „Stanoví-li pravidla pro poskytnutí dotace, že projekt musí být v souladu s příslušnou právní úpravou od okamžiku podání žádosti o dotaci do konce lhůty vázanosti projektu na účel, pak toto pravidlo platí také pro zákaz střetu zájmů ve smyslu § 4c zákona č. 159/2006 Sb., o střetu zájmů. Uvedenou podmínku proto musí žadatel splňovat po celou dobu vyřizování žádosti o dotaci“
 
-### § 8 — Oznámení o osobním zájmu
+### [§ 8 — Oznámení o osobním zájmu](https://e-sbirka.gov.cz/sb/2006/159#par_8)
 
-- *NSS* [2 As 187/2017 - 327](judikatura/NSS-2-As-187-2017-327.md) — 30. 1. 2020
+- *NSS* [2 As 187/2017 - 327](judikatura/NSS-2-As-187-2017-327.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653531)) — 30. 1. 2020, citovaná pasáž
   > „případné porušení povinností podle § 8 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů, nemůže vést ke zrušení opatření obecné povahy. … Zákon o střetu zájmů však nijak nesankcionuje samo hlasování zastupitele, resp. přijatý akt, tj. ze zákona neplyne, že by střet zájmů měl vliv na platnost, účinnost nebo zákonnost přijatého aktu …“
 
-### § 9 — Oznámení o činnostech
+### [§ 9 — Oznámení o činnostech](https://e-sbirka.gov.cz/sb/2006/159#par_9)
 
-- *NSS* [2 As 277/2020 - 32](judikatura/NSS-2-As-277-2020-32.md) — 24. 11. 2020
+- *NSS* [2 As 277/2020 - 32](judikatura/NSS-2-As-277-2020-32.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656976)) — 24. 11. 2020, citovaná pasáž
   > „podání oznámení sleduje dvojí účel: má umožnit evidenčnímu orgánu zkontrolovat obsah oznámení a případně podat příslušnému správnímu orgánu podnět k zahájení přestupkového řízení (§ 13 odst. 7 zákona o střetu zájmů), a dále (a z hlediska zájmu na transparentním výkonu veřejné správy především) má umožnit kontrolu veřejnosti. … veřejná kontrola je zcela zásadním cílem sledovaným zákonem o střetu zájmů“
 
-### § 12 — Lhůty a způsob podávání oznámení
+### [§ 12 — Lhůty a způsob podávání oznámení](https://e-sbirka.gov.cz/sb/2006/159#par_12)
 
-- *NSS* [19 A 28/2020 - 34](judikatura/NSS-19-A-28-2020-34.md) — 30. 9. 2021
+- *NSS* [19 A 28/2020 - 34](judikatura/NSS-19-A-28-2020-34.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/674954)) — 30. 9. 2021, citovaná pasáž
   > „Za situace, kdy byla Ústavním soudem konstatována protiústavnost zveřejňování oznámených skutečností, je nutno přisvědčit názoru žalobce, že závěr o spáchání přestupku spočívajícího v porušení povinnosti učinit oznámení dle § 12 odst. 3 zákona o střetu zájmů je v rozporu se zásadou ultima ratio, jelikož takové jednání nevykazuje materiální znak přestupku spočívající ve společenské škodlivosti“
 
-### § 13
+### [§ 13](https://e-sbirka.gov.cz/sb/2006/159#par_13)
 
-- *NS* [30 Cdo 1021/2022](judikatura/NS-30-Cdo-1021-2022.md) — 13. 9. 2022, kat. A
+- *NS* [30 Cdo 1021/2022](judikatura/NS-30-Cdo-1021-2022.md) ([veřejná databáze NS](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/778D5C9DAA7E9C29C12588D700232C26?openDocument)) — 13. 9. 2022, kat. A, právní věta
   > „Zveřejňování údajů z majetkových oznámení veřejných funkcionářů postupem podle zákona č. 159/2006 Sb., o střetu zájmů, ve znění účinném do 31. 12. 2020, nepředstavuje v době od vydání nálezu Ústavního soudu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, do jeho vykonatelnosti nesprávný úřední postup ve smyslu § 13 odst. 1 zákona č. 82/1998 Sb., ve znění pozdějších předpisů.“
 
-### § 23 — Přestupky fyzických osob
+### [§ 23 — Přestupky fyzických osob](https://e-sbirka.gov.cz/sb/2006/159#par_23)
 
-- *NSS* [30 A 23/2020 - 39](judikatura/NSS-30-A-23-2020-39.md) — 26. 1. 2021
+- *NSS* [30 A 23/2020 - 39](judikatura/NSS-30-A-23-2020-39.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/593676)) — 26. 1. 2021, citovaná pasáž
   > „Závěr Ústavního soudu o protiústavnosti úpravy zpřístupňování oznámení v centrálním registru oznámení v nálezu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, brání tomu, aby správní orgány sankcionovaly porušení povinnosti podat oznámení podle § 23 odst. 1 písm. f) zákona č. 159/2006 Sb., o střetu zájmů, a to i v době před nabytím vykonatelnosti tohoto nálezu“
 
 ---
@@ -71,7 +75,7 @@ Vytěženo bylo 8 judikatorních tezí z 8 místních rozhodnutí.
 
 ### 1. Účel a smysl zákona — transparentnost a veřejná kontrola
 
-**Zakotvení:** § 1, § 9 až § 14b
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2006/159#par_1), [§ 9](https://e-sbirka.gov.cz/sb/2006/159#par_9) až [§ 14b](https://e-sbirka.gov.cz/sb/2006/159#par_14b)
 
 Zákon o střetu zájmů není primárně represivním předpisem, nýbrž nástrojem, jehož smyslem je zajistit transparentní výkon veřejné správy a otevřít poměry veřejných funkcionářů kontrole. Předmět úpravy vymezený v § 1 (viz podrobně komentář k § 1) proto nelze číst jako pouhý formální výčet, ale jako teleologické vodítko, v jehož světle je nutno vykládat jednotlivá ustanovení zákona — zejména tam, kde jejich znění připouští více výkladů. Tato zásada dává celé úpravě vnitřní logiku: povinnosti oznamovat činnosti, majetek, příjmy a závazky nejsou samoúčelné, nýbrž slouží tomu, aby veřejnost i orgány veřejné moci mohly ověřit, zda funkcionář nezneužívá své postavení k soukromému prospěchu.
 
@@ -83,12 +87,12 @@ Praktickým vyústěním této zásady je interpretační pravidlo: při výklad
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [judikatura/NSS-2-As-277-2020-32.md](judikatura/NSS-2-As-277-2020-32.md) — rozsudek, 24. 11. 2020
+- *NSS* [judikatura/NSS-2-As-277-2020-32.md](judikatura/NSS-2-As-277-2020-32.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656976)) — rozsudek, 24. 11. 2020
   > „podání oznámení sleduje dvojí účel: má umožnit evidenčnímu orgánu zkontrolovat obsah oznámení a případně podat příslušnému správnímu orgánu podnět k zahájení přestupkového řízení (§ 13 odst. 7 zákona o střetu zájmů), a dále (a z hlediska zájmu na transparentním výkonu veřejné správy především) má umožnit kontrolu veřejnosti"
 
 ### 2. Teleologický výklad zákazů — napojení na veřejného funkcionáře *(ratio legis)*
 
-**Zakotvení:** § 4b, § 4c
+**Zakotvení:** [§ 4b](https://e-sbirka.gov.cz/sb/2006/159#par_4b), [§ 4c](https://e-sbirka.gov.cz/sb/2006/159#par_4c)
 
 Zákazy zavedené novelou č. 14/2017 Sb. (tzv. „Lex Babiš") nelze vykládat výlučně podle jazykového znění a formálních znaků skutkové podstaty; jejich smysl je nutno hledat v účelu, pro který byly do zákona o střetu zájmů vloženy. Tímto účelem je zamezit tomu, aby veřejné prostředky — ať už formou veřejné zakázky (§ 4b), nebo dotace či investiční pobídky (§ 4c) — plynuly k obchodním společnostem kvalifikovaně majetkově napojeným na veřejného funkcionáře z řad členů vlády. Teleologický výklad zde slouží jako korektiv i vodítko: pomáhá rozpoznat, zda konkrétní situace naplňuje smysl zákazu, a brání jak formalistickému obcházení normy, tak jejímu bezúčelně extenzivnímu použití.
 
@@ -100,12 +104,12 @@ Praktickým důsledkem je, že zadavatel i poskytovatel dotace musí při aplika
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [judikatura/NSS-8-Afs-215-2024-74.md](judikatura/NSS-8-Afs-215-2024-74.md) — rozsudek, 11. 12. 2025
+- *NSS* [judikatura/NSS-8-Afs-215-2024-74.md](judikatura/NSS-8-Afs-215-2024-74.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/747815)) — rozsudek, 11. 12. 2025
   > „Citované ustanovení zakazuje zadavateli mj. zadat veřejnou zakázku malého rozsahu osobě, ve které vlastní 25 % podíl účasti společníka v obchodní společnosti buď přímo veřejný funkcionář, nebo osoba, kterou veřejný funkcionář ovládá. Smyslem je, aby taková osoba nezískávala ani zakázky malého rozsahu, což je odůvodněno jejím napojením na veřejného funkcionáře (buď přímou majetkovou účastí, nebo prostřednictvím jiné osoby, kterou veřejný funkcionář ovládá)"
 
 ### 3. Zákaz upřednostňování osobního zájmu (prevence střetu zájmů) *(nemo iudex in causa sua)*
 
-**Zakotvení:** § 1 písm. a), § 3, § 8
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2006/159#par_1) písm. a), [§ 3](https://e-sbirka.gov.cz/sb/2006/159#par_3), [§ 8](https://e-sbirka.gov.cz/sb/2006/159#par_8)
 
 Tato zásada tvoří substantivní jádro celého zákona. Podle § 1 písm. a) je předmětem úpravy „povinnost veřejných funkcionářů vykonávat svoji funkci tak, aby nedocházelo ke střetu mezi jejich osobními zájmy a zájmy, které jsou povinni z titulu své funkce prosazovat nebo hájit". Zatímco § 1 tuto povinnost pouze programově deklaruje jako jeden ze čtyř pilířů úpravy, její normativní obsah rozvádí § 3 — generální klauzule zákazu střetu zájmů. Podle § 3 odst. 1 je funkcionář „povinen zdržet se každého jednání, při kterém mohou jeho osobní zájmy ovlivnit výkon jeho funkce". Formulace je záměrně široká: nezakazuje jen konkrétní vyjmenované akty, nýbrž jakékoliv chování způsobilé ovlivnit výkon funkce v důsledku osobního zájmu.
 
@@ -119,7 +123,7 @@ Ve vztahu k ostatním zásadám úpravy plní preventivní pilíř funkci hmotn�
 
 ### 4. Transparenční (oznamovací) pilíř — čestné prohlášení a registr oznámení
 
-**Zakotvení:** § 1 písm. b), § 9 až § 14b
+**Zakotvení:** [§ 1](https://e-sbirka.gov.cz/sb/2006/159#par_1) písm. b), [§ 9](https://e-sbirka.gov.cz/sb/2006/159#par_9) až [§ 14b](https://e-sbirka.gov.cz/sb/2006/159#par_14b)
 
 Transparenční (oznamovací) pilíř tvoří druhý ze čtyř nosných pilířů úpravy střetu zájmů. Zatímco substantivní pilíř (§ 1 písm. a), rozvedený v § 3) směřuje preventivně k tomu, aby ke střetu zájmů vůbec nedocházelo, oznamovací pilíř zajišťuje následnou i průběžnou kontrolovatelnost poměrů veřejného funkcionáře. Podle § 1 písm. b) zákon ukládá veřejným funkcionářům „*povinnost veřejných funkcionářů oznamovat skutečnosti, které umožňují veřejnou kontrolu jejich činností konaných vedle výkonu funkce veřejného funkcionáře, veřejnou kontrolu majetku nabytého za dobu výkonu funkce a dalších příjmů, darů nebo jiného prospěchu, získaných za dobu výkonu funkce, popřípadě závazků, které veřejný funkcionář má*". Jádrem zásady je tedy myšlenka, že veřejnou funkci nelze zneužít k soukromému obohacení, aniž by to zůstalo skryto: kontrola není ponechána na dobré vůli funkcionáře, nýbrž je institucionalizována povinným oznamováním.
 
@@ -133,7 +137,7 @@ Praktické důsledky zásady jsou zřetelné. Oznamovací povinnost vzniká ze z
 
 ### 5. Neslučitelnost funkcí a omezení dalších činností *(incompatibilitas)*
 
-**Zakotvení:** § 4 až § 6, § 4a až § 4c
+**Zakotvení:** [§ 4](https://e-sbirka.gov.cz/sb/2006/159#par_4) až [§ 6](https://e-sbirka.gov.cz/sb/2006/159#par_6), [§ 4a](https://e-sbirka.gov.cz/sb/2006/159#par_4a) až [§ 4c](https://e-sbirka.gov.cz/sb/2006/159#par_4c)
 
 Zásada neslučitelnosti tvoří třetí z pilířů, na nichž je zákon o střetu zájmů vystavěn. Podle § 1 je jedním z účelů zákona upravit „omezení některých činností veřejných funkcionářů a neslučitelnost výkonu funkce veřejného funkcionáře s jinými funkcemi". Zatímco substantivní zákaz upřednostňování osobního zájmu (§ 3) i transparenční povinnost (§ 7 a násl.) působí následně — až v okamžiku, kdy se zájmy střetnou nebo kdy je třeba je zveřejnit — inkompatibilní pilíř působí preventivně a strukturálně: určité souběhy funkcí, činností a majetkových účastí zapovídá už předem, bez ohledu na to, zda v konkrétním případě ke střetu skutečně došlo. Neslučitelnost tak nezkoumá jednotlivé jednání, nýbrž samotné postavení funkcionáře.
 
@@ -147,7 +151,7 @@ Ve vztahu k ostatním zásadám platí, že inkompatibilní pilíř je vůči st
 
 ### 6. Jednota a bezrozpornost právního řádu; snížená ochrana soukromí veřejných funkcionářů
 
-**Zakotvení:** § 2
+**Zakotvení:** [§ 2](https://e-sbirka.gov.cz/sb/2006/159#par_2)
 
 Zásada jednoty a bezrozpornosti právního řádu vychází z předpokladu, že právní řád tvoří vnitřně provázaný celek, jehož jednotlivé předpisy je třeba vykládat souladně a bez vzájemných rozporů. Ve vztahu k zákonu o střetu zájmů se tato zásada projevuje především v tom, že vymezení okruhu veřejných funkcionářů v § 2 není normou uzavřenou jen do systematiky tohoto zákona, nýbrž může posloužit jako spolehlivé měřítko i pro aplikaci jiných předpisů. Katalog veřejných funkcionářů — vystavěný na kritériu výkonu veřejné moci a nakládání s veřejnými prostředky — tak získává širší význam přesahující vlastní účel úpravy střetu zájmů (k rozsahu a struktuře tohoto katalogu podrobně viz komentář k § 2).
 
@@ -159,12 +163,12 @@ Zásada zároveň vymezuje své vlastní hranice: snížená ochrana soukromí s
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [judikatura/NSS-45-A-4-2012-76.md](judikatura/NSS-45-A-4-2012-76.md) — rozsudek, 27. 6. 2012
+- *NSS* [judikatura/NSS-45-A-4-2012-76.md](judikatura/NSS-45-A-4-2012-76.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/559968)) — rozsudek, 27. 6. 2012
   > „Ve své podstatě lze – opět v souladu se zásadou bezrozpornosti a jednoty právního řádu – vycházet ze seznamu veřejných funkcionářů obsaženého v § 2 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů. Osoby v něm zařazené nemohou počítat se zvýšenou ochranou své identifikace v souvislosti s žádostmi o poskytnutí informací o jejich příjmech z veřejných prostředků"
 
 ### 7. Subsidiarita trestní represe (ultima ratio) v přestupkovém řízení *(ultima ratio)*
 
-**Zakotvení:** § 12, § 23
+**Zakotvení:** [§ 12](https://e-sbirka.gov.cz/sb/2006/159#par_12), [§ 23](https://e-sbirka.gov.cz/sb/2006/159#par_23)
 
 Zásada subsidiarity trestní represe (ultima ratio) prostupuje i řízením o přestupcích podle zákona o střetu zájmů. Ačkoli byla původně vyvinuta v trestním právu, uplatní se prostřednictvím § 5 zákona o odpovědnosti za přestupky a řízení o nich rovněž ve správním trestání: přestupkem je jen společensky škodlivé protiprávní jednání, které naplňuje nejen formální znaky uvedené v zákoně, nýbrž i znak materiální — společenskou škodlivost. Postih porušení oznamovací povinnosti (§ 12) jakožto přestupku podle § 23 proto předpokládá, že vytýkané jednání dosahuje takové intenzity škodlivosti, jež odůvodňuje nasazení sankčního (represivního) nástroje veřejné moci. Není-li tomu tak, je namístě od potrestání upustit, popřípadě řízení zastavit.
 
@@ -176,12 +180,12 @@ Praktické důsledky jsou dvojí. Za prvé, obhajoba obviněného funkcionáře 
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [judikatura/NSS-19-A-28-2020-34.md](judikatura/NSS-19-A-28-2020-34.md) — rozsudek, 30. 9. 2021
+- *NSS* [judikatura/NSS-19-A-28-2020-34.md](judikatura/NSS-19-A-28-2020-34.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/674954)) — rozsudek, 30. 9. 2021
   > „Za situace, kdy byla Ústavním soudem konstatována protiústavnost zveřejňování oznámených skutečností, je nutno přisvědčit názoru žalobce, že závěr o spáchání přestupku spočívajícího v porušení povinnosti učinit oznámení dle § 12 odst. 3 zákona o střetu zájmů je v rozporu se zásadou ultima ratio, jelikož takové jednání nevykazuje materiální znak přestupku spočívající ve společenské škodlivosti"
 
 ### 8. Legalita trestání — zákaz sankce za protiústavně upravenou povinnost *(nulla poena sine lege)*
 
-**Zakotvení:** § 23
+**Zakotvení:** [§ 23](https://e-sbirka.gov.cz/sb/2006/159#par_23)
 
 Zásada legality trestání vyjadřuje starou trestněprávní i správně­trestní maximu *nulla poena sine lege*: sankci lze uložit jen za jednání, jehož trestnost i podkladová povinnost mají řádný a ústavně konformní zákonný základ. Přestupkové skutkové podstaty soustředěné v § 23 (Přestupky fyzických osob) netvoří samostatný normativní ostrov — jsou akcesorické k hmotněprávním povinnostem obsaženým v jiných ustanoveních zákona (typicky k oznamovacím povinnostem podle § 9 až § 12 a k pravidlům o evidenci a zpřístupňování oznámení v registru podle § 13 a § 14b). Skutková podstata podle § 23 odst. 1 písm. f) tak není myslitelná bez povinnosti, jejíž porušení postihuje. Padne-li ústavní udržitelnost té povinnosti, ztrácí oporu i navazující sankce.
 
@@ -193,12 +197,12 @@ Praktické důsledky jsou zřetelné: zjistí-li obviněný nebo přestupkový o
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [judikatura/NSS-30-A-23-2020-39.md](judikatura/NSS-30-A-23-2020-39.md) — rozsudek, 26. 1. 2021
+- *NSS* [judikatura/NSS-30-A-23-2020-39.md](judikatura/NSS-30-A-23-2020-39.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/593676)) — rozsudek, 26. 1. 2021
   > „Závěr Ústavního soudu o protiústavnosti úpravy zpřístupňování oznámení v centrálním registru oznámení v nálezu ze dne 11. 2. 2020, sp. zn. Pl. ÚS 38/17, brání tomu, aby správní orgány sankcionovaly porušení povinnosti podat oznámení podle § 23 odst. 1 písm. f) zákona č. 159/2006 Sb., o střetu zájmů, a to i v době před nabytím vykonatelnosti tohoto nálezu"
 
 ### 9. Enumerativnost sankcí — střet zájmů nezakládá neplatnost přijatého aktu *(numerus clausus následků)*
 
-**Zakotvení:** § 8, § 23 až § 25
+**Zakotvení:** [§ 8](https://e-sbirka.gov.cz/sb/2006/159#par_8), [§ 23](https://e-sbirka.gov.cz/sb/2006/159#par_23) až [§ 25](https://e-sbirka.gov.cz/sb/2006/159#par_25)
 
 Zásada enumerativnosti sankcí vyjadřuje, že právní následky střetu zájmů jsou zákonem vymezeny taxativně a spočívají v odpovědnosti funkcionáře za přestupek. Jádrem sankčního mechanismu je porušení oznamovací povinnosti podle § 8 (oznámení osobního zájmu na projednávané věci), na které navazují skutkové podstaty přestupků a jejich sankce v § 23 až § 25. Mimo tento zákonem uzavřený okruh následků nelze další sankce dovozovat: co zákon výslovně nespojuje s určitým jednáním, není soud ani jiný orgán oprávněn doplňovat cestou výkladu.
 
@@ -210,7 +214,7 @@ Z toho plyne konkrétní procesní důsledek pro obranu proti aktům veřejné s
 
 **Judikatorní vymezení (z místních zdrojů):**
 
-- *NSS* [judikatura/NSS-2-As-187-2017-327.md](judikatura/NSS-2-As-187-2017-327.md) — rozsudek, 30. 1. 2020
+- *NSS* [judikatura/NSS-2-As-187-2017-327.md](judikatura/NSS-2-As-187-2017-327.md) ([veřejná databáze NSS](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/653531)) — rozsudek, 30. 1. 2020
   > „případné porušení povinností podle § 8 zákona č. 159/2006 Sb., o střetu zájmů, ve znění pozdějších předpisů, nemůže vést ke zrušení opatření obecné povahy"
 
 ### Vztah zásad a právních modalit
